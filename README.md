@@ -22,3 +22,11 @@ Name |  PyPI | Repository | License
 [itty-bitty](https://github.com/toastdriven/itty/) | [Link](https://pypi.python.org/pypi/itty) | [Link](https://github.com/toastdriven/itty/) | [BSD](Link)
 [web.py](http://webpy.org/) | [Link](https://pypi.python.org/pypi/web.py) | [Link](https://github.com/webpy/webpy) | Public domain
 [wheezy.web](http://pythonhosted.org/wheezy.web/) | [Link](https://pypi.python.org/pypi/wheezy.web) | [Link](https://bitbucket.org/akorn/wheezy.web) | [MIT](https://en.wikipedia.org/wiki/MIT_License)
+
+## Web framework for Node.js
+Name | NPM Install | Repository | License
+--- | --- | --- | ---
+[Express.js](http://expressjs.com/)| \[sudo\] npm install -g express | https://github.com/visionmedia/express| [MIT](http://opensource.org/licenses/MIT)
+[Flatiron](http://flatironjs.org/)| \[sudo\] npm install -g flatiron| https://github.com/flatiron|[MIT](http://opensource.org/licenses/MIT)
+[Hapi](http://spumko.github.io/)| npm install hapi | https://github.com/spumko/hapi| Unknown
+[partial.js](http://www.partialjs.com/)| \[sudo\] npm install -g partial.js| https://github.com/petersirka/partial.js| [MIT](http://opensource.org/licenses/MIT) 
