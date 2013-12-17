@@ -26,4 +26,7 @@ Name |  PyPI | Repository | License
 ## Web framework for Node.js
 Name | NPM Install | Repository | License
 --- | --- | --- | ---
-[Express.js](http://expressjs.com/)| npm install -g express| https://github.com/visionmedia/express| [MIT](http://opensource.org/licenses/MIT)
+[Express.js](http://expressjs.com/)| \[sudo\] npm install -g express | https://github.com/visionmedia/express| [MIT](http://opensource.org/licenses/MIT)
+[Flatiron](http://flatironjs.org/)| \[sudo\] npm install -g flatiron| https://github.com/flatiron|[MIT](http://opensource.org/licenses/MIT)
+[Hapi](http://spumko.github.io/)| npm install hapi | https://github.com/spumko/hapi| Unknown
+[partial.js](http://www.partialjs.com/)| \[sudo\] npm install -g partial.js| https://github.com/petersirka/partial.js| [MIT](http://opensource.org/licenses/MIT) 
