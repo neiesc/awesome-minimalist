@@ -19,5 +19,6 @@ Name |  PyPI | Repository | License
 [CherryPy](http://www.cherrypy.org/) | [Link](https://pypi.python.org/pypi/CherryPy) | [Link](https://bitbucket.org/cherrypy/cherrypy/overview) | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Flask](http://flask.pocoo.org/) | [Link](https://pypi.python.org/pypi/Flask) | [Link](https://github.com/mitsuhiko/flask) | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Pyramid](http://www.pylonsproject.org/) | [Link](https://pypi.python.org/pypi/pyramid) | [Link](https://github.com/Pylons/pyramid) | [BSD-derived](http://www.repoze.org/LICENSE.txt)
+[itty-bitty](https://github.com/toastdriven/itty/) | [Link](https://pypi.python.org/pypi/itty) | [Link](https://github.com/toastdriven/itty/) | [BSD](Link)
 [web.py](http://webpy.org/) | [Link](https://pypi.python.org/pypi/web.py) | [Link](https://github.com/webpy/webpy) | Public domain
 [wheezy.web](http://pythonhosted.org/wheezy.web/) | [Link](https://pypi.python.org/pypi/wheezy.web) | [Link](https://bitbucket.org/akorn/wheezy.web) | [MIT](https://en.wikipedia.org/wiki/MIT_License)
