@@ -67,6 +67,7 @@ Name | Gem Install | Repository | License
 ## Web framework for PHP
 Name | Repository | License
 --- | --- | ---
+[Bullet](http://bulletphp.com/)| https://github.com/vlucas/bulletphp | [MIT](http://opensource.org/licenses/MIT)
 [Flight](http://flightphp.com/)| https://github.com/mikecao/flight | [MIT](http://opensource.org/licenses/MIT)
 [MicroMVC](http://micromvc.com/)| https://github.com/Xeoncross/MicroMVC | [MIT](http://opensource.org/licenses/MIT)
 [Silex](http://silex.sensiolabs.org/)| https://github.com/silexphp/Silex | [MIT](http://opensource.org/licenses/MIT)
