@@ -36,7 +36,7 @@ Name |  PIP Install | Repository | License
 ## Web framework for Ruby
 Name | Gem Install | Repository | License
 --- | --- | --- | ---
-[Camping](http://camping.io/) | gem install camping | http://github.com/camping/campinga | [MIT](http://opensource.org/licenses/MIT)
+[Camping](http://camping.io/) | gem install camping | http://github.com/camping/camping | [MIT](http://opensource.org/licenses/MIT)
 [Cuba](http://cuba.is/) | gem install cuba | https://github.com/soveran/cuba | [MIT](http://opensource.org/licenses/MIT)
 [Padrino](http://www.padrinorb.com/) | gem install padrino | https://github.com/padrino/padrino-framework | [MIT](http://opensource.org/licenses/MIT)
 [Ramaze](http://ramaze.net/) | gem install ramaze | https://github.com/ramaze/ramaze | [MIT](http://opensource.org/licenses/MIT)
