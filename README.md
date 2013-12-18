@@ -102,12 +102,10 @@ Aurora | https://github.com/frankhale/aurora | [GPL](http://opensource.org/licen
 Name | Repository | License 
 --- | --- | ---
 [Play Framework](http://www.playframework.com/) | https://github.com/playframework/playframework | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Spark](http://www.sparkjava.com/) | https://github.com/perwendel/spark | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Java - Microframeworks
 Name | Description | Maven groupId/artifact | License 
 --- | --- | --- | --- 
 [Log4j] (http://logging.apache.org/log4j/2.x/) | Lightweight extendable/customizable logging facility | org.apache.logging.log4j : {log4j-api, log4j-core} | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0.html)
-
-
-
 
