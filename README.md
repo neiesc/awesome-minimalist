@@ -18,7 +18,6 @@ Name | Minimum size(base) | Repository | License
 [Concrete](http://davidlumley.github.io/concrete/) | 3.2 KiB | https://github.com/davidlumley/concrete | [MIT](http://opensource.org/licenses/MIT)
 
 ## Frameworks for Front-end JS
-
 Name | Bower Install | Repository | License
 --- | --- | --- | ---
 [Aura](http://aurajs.com/) | bower install aura | https://github.com/aurajs/aura | [MIT](http://opensource.org/licenses/MIT)
@@ -53,6 +52,7 @@ Name | cpan install | Repository | License
 ## Web framework for PHP
 Name | Repository | License
 --- | --- | ---
+[Afro](http://github.com/jbrooksuk/Afro)  | https://github.com/jbrooksuk/Afro | [MIT](http://jbrooksuk.mit-license.org)
 [AuraPHP](http://auraphp.com/blog/2013/12/12/aura-v2-web-project/) | https://github.com/auraphp/Aura.Web\_Kernel | [BSD](http://opensource.org/licenses/bsd-license.php)
 [Deano](http://github.com/colindean/deano) | http://github.com/colindean/deano | [MIT](http://opensource.org/licenses/MIT)
 [Fat Free] (http://fatfreeframework.com/) | https://github.com/bcosca/fatfree | [GPL 3] (http://www.gnu.org/licenses/gpl-3.0.html)
