@@ -50,6 +50,20 @@ Name | cpan install | Repository | License
 [Dancer](http://www.perldancer.org]) | cpan Dancer | https://github.com/PerlDancer/Dancer | [Artistic](http://en.wikipedia.org/wiki/Artistic_License) or [GPL v.1](http://en.wikipedia.org/wiki/GNU_General_Public_License#Version_1)
 [Mojolicious](ihttp://mojolicio.us) | cpan Mojolicious | https://github.com/kraih/mojo | [Artistic 2.0](ihttp://en.wikipedia.org/wiki/Artistic_License#Artistic_License_2.0)
 
+## Web framework for PHP
+Name | Repository | License
+--- | --- | ---
+[AuraPHP](http://auraphp.com/blog/2013/12/12/aura-v2-web-project/) | https://github.com/auraphp/Aura.Web\_Kernel | [BSD](http://opensource.org/licenses/bsd-license.php)
+[Deano](http://github.com/colindean/deano) | http://github.com/colindean/deano | [MIT](http://opensource.org/licenses/MIT)
+[Fat Free] (http://fatfreeframework.com/) | https://github.com/bcosca/fatfree | [GPL 3] (http://www.gnu.org/licenses/gpl-3.0.html)
+[Flight](http://flightphp.com/) | https://github.com/mikecao/flight | [MIT](http://opensource.org/licenses/MIT)
+[MicroMVC](http://micromvc.com/) | https://github.com/Xeoncross/MicroMVC | [MIT](http://opensource.org/licenses/MIT)
+[Nanite](http://nirix.github.io/nanite/) | https://github.com/nirix/nanite | [LGPLv3](https://www.gnu.org/licenses/lgpl.html)
+[Phalcon Framework](http://phalconphp.com/en/) | https://github.com/phalcon/cphalcon | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
+[Silex](http://silex.sensiolabs.org/) | https://github.com/silexphp/Silex | [MIT](http://opensource.org/licenses/MIT)
+[Slim](http://slimframework.com/) | https://github.com/codeguy/Slim | [MIT](http://opensource.org/licenses/MIT)
+[Swiftlet](http://swiftlet.org/) | https://github.com/ElbertF/Swiftlet | [MIT](http://opensource.org/licenses/MIT)
+
 ## Web framework for Python
 Name |  PIP Install | Repository | License
 --- | --- | --- | ---
@@ -76,21 +90,6 @@ Name | Gem Install | Repository | License
 [Padrino](http://www.padrinorb.com) | gem install padrino | https://github.com/padrino/padrino-framework | [MIT](http://opensource.org/licenses/MIT)
 [Ramaze](http://ramaze.net) | gem install ramaze | https://github.com/ramaze/ramaze | [MIT](http://opensource.org/licenses/MIT)
 [Sinatra](http://www.sinatrarb.com) | gem install sinatra | https://github.com/sinatra/sinatra | [MIT](http://opensource.org/licenses/MIT)
-
-## Web framework for PHP
-Name | Repository | License
---- | --- | ---
-[AuraPHP](http://auraphp.com/blog/2013/12/12/aura-v2-web-project/) | https://github.com/auraphp/Aura.Web\_Kernel | [BSD](http://opensource.org/licenses/bsd-license.php)
-[Fat Free] (http://fatfreeframework.com/) | https://github.com/bcosca/fatfree | [GPL 3] (http://www.gnu.org/licenses/gpl-3.0.html)
-[Flight](http://flightphp.com/) | https://github.com/mikecao/flight | [MIT](http://opensource.org/licenses/MIT)
-[MicroMVC](http://micromvc.com/) | https://github.com/Xeoncross/MicroMVC | [MIT](http://opensource.org/licenses/MIT)
-[Nanite](http://nirix.github.io/nanite/) | https://github.com/nirix/nanite | [LGPLv3](https://www.gnu.org/licenses/lgpl.html)
-[Phalcon Framework](http://phalconphp.com/en/) | https://github.com/phalcon/cphalcon | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
-[Silex](http://silex.sensiolabs.org/) | https://github.com/silexphp/Silex | [MIT](http://opensource.org/licenses/MIT)
-[Slim](http://slimframework.com/) | https://github.com/codeguy/Slim | [MIT](http://opensource.org/licenses/MIT)
-[Swiftlet](http://swiftlet.org/) | https://github.com/ElbertF/Swiftlet | [MIT](http://opensource.org/licenses/MIT)
-
-
 
 ## Web framework for .NET (C#)
 Name | Repository | License 
