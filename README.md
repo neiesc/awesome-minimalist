@@ -39,6 +39,12 @@ Name | NPM Install | Repository | License
 [partial.js](http://www.partialjs.com/) | \[sudo\] npm install -g partial.js| https://github.com/petersirka/partial.js| [MIT](http://opensource.org/licenses/MIT)
 [SocketStream](http://www.socketstream.org/) | \[sudo\] npm install -g socketstream | https://github.com/socketstream/socketstream | [MIT](https://github.com/socketstream/socketstream/blob/master/LICENSE)
 
+## Web framework for Perl
+Name | cpan install | Repository | License
+--- | --- | --- | --- | ---
+[Dancer](http://www.perldancer.org]) | cpan Dancer | https://github.com/PerlDancer/Dancer | [Artistic](http://en.wikipedia.org/wiki/Artistic_License) or [GPL v.1](http://en.wikipedia.org/wiki/GNU_General_Public_License#Version_1)
+[Mojolicious](ihttp://mojolicio.us) | cpan Mojolicious | https://github.com/kraih/mojo | [Artistic 2.0](ihttp://en.wikipedia.org/wiki/Artistic_License#Artistic_License_2.0)
+
 ## Web framework for Python
 Name |  PIP Install | Repository | License
 --- | --- | --- | ---
