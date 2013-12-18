@@ -39,6 +39,11 @@ Name | NPM Install | Repository | License
 [partial.js](http://www.partialjs.com/) | \[sudo\] npm install -g partial.js| https://github.com/petersirka/partial.js| [MIT](http://opensource.org/licenses/MIT)
 [SocketStream](http://www.socketstream.org/) | \[sudo\] npm install -g socketstream | https://github.com/socketstream/socketstream | [MIT](https://github.com/socketstream/socketstream/blob/master/LICENSE)
 
+## Web framework for Perl
+Name | CPAN Install | Repository | License
+--- | --- | --- | ---
+[Dancer](http://perldancer.org/) | cpanm install Dancer | https://github.com/PerlDancer/Dancer | [GPL 1](http://www.gnu.org/licenses/old-licenses/gpl-1.0.html)
+
 ## Web framework for Python
 Name |  PIP Install | Repository | License
 --- | --- | --- | ---
