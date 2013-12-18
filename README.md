@@ -36,4 +36,12 @@ Name |  PIP Install | Repository | License
 Name | Gem Install | Repository | License
 --- | --- | --- | ---
 [Padrino](http://www.padrinorb.com/)| gem install padrino | https://github.com/padrino/padrino-framework | [MIT](http://opensource.org/licenses/MIT)
+<<<<<<< HEAD
 [Sinatra](http://www.sinatrarb.com/)| gem install sinatra | https://github.com/sinatra/sinatra/ | [MIT](http://opensource.org/licenses/MIT)
+=======
+
+## Web framework for PHP
+Name | Repository | License
+--- | --- | ---
+[Silex](http://silex.sensiolabs.org/)| https://github.com/silexphp/Silex | [MIT](http://opensource.org/licenses/MIT)
+>>>>>>> 3c11d34aa29896f23835e865b459b616ab713d42
