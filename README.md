@@ -63,6 +63,7 @@ Name | Gem Install | Repository | License
 [Ramaze](http://ramaze.net/) | gem install ramaze | https://github.com/ramaze/ramaze | [MIT](http://opensource.org/licenses/MIT)
 [Sinatra](http://www.sinatrarb.com/) | gem install sinatra | https://github.com/sinatra/sinatra/ | [MIT](http://opensource.org/licenses/MIT)
 [Nancy](http://guilleiguaran.github.io/nancy/) | gem install nancy | https://github.com/guilleiguaran/nancy | [MIT](http://opensource.org/licenses/MIT)
+[New York, New York](http://alisnic.github.io/nyny/) | gem install nyny | https://github.com/alisnic/nyny | [MIT](http://opensource.org/licenses/MIT)
 
 ## Web framework for PHP
 Name | Repository | License
