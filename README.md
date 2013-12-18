@@ -35,13 +35,13 @@ Name | Cabal Install | Repository | License
 ## Web framework for Node.js
 Name | NPM Install | Repository | License
 --- | --- | --- | ---
-[Express.js](http://expressjs.com/)| \[sudo\] npm install express | https://github.com/visionmedia/express | [MIT](http://opensource.org/licenses/MIT)
-[Flatiron](http://flatironjs.org/) | \[sudo\] npm install -g flatiron | https://github.com/flatiron | [MIT](http://opensource.org/licenses/MIT)
-[Hapi](http://spumko.github.io/)| npm install hapi | https://github.com/spumko/hapi | Unknown
+[Express.js](http://expressjs.com) | \[sudo\] npm install express | https://github.com/visionmedia/express | [MIT](http://opensource.org/licenses/MIT)
+[Flatiron](http://flatironjs.org) | \[sudo\] npm install -g flatiron | https://github.com/flatiron | [MIT](http://opensource.org/licenses/MIT)
+[Hapi](http://spumko.github.io)| npm install hapi | https://github.com/spumko/hapi | Unknown
 [koa](https://github.com/koajs/koa) | \[sudo\] npm install koajs | https://github.com/koajs/koa | [MIT](http://opensource.org/licenses/MIT)
-[partial.js](http://www.partialjs.com/) | \[sudo\] npm install -g partial.js| https://github.com/petersirka/partial.js| [MIT](http://opensource.org/licenses/MIT)
-[Restify](http://mcavage.me/node-restify/) | npm install restify | https://github.com/mcavage/node-restify | [MIT](http://opensource.org/licenses/MIT)
-[SocketStream](http://www.socketstream.org/) | \[sudo\] npm install -g socketstream | https://github.com/socketstream/socketstream | [MIT](https://github.com/socketstream/socketstream/blob/master/LICENSE)
+[partial.js](http://www.partialjs.com) | \[sudo\] npm install -g partial.js| https://github.com/petersirka/partial.js| [MIT](http://opensource.org/licenses/MIT)
+[Restify](http://mcavage.me/node-restify) | npm install restify | https://github.com/mcavage/node-restify | [MIT](http://opensource.org/licenses/MIT)
+[SocketStream](http://www.socketstream.org) | \[sudo\] npm install -g socketstream | https://github.com/socketstream/socketstream | [MIT](https://github.com/socketstream/socketstream/blob/master/LICENSE)
 [Sails.js](http://sailsjs.org) | \[sudo\]npm -g install sails | https://github.com/balderdashy/sails | [MIT](https://github.com/balderdashy/sails/blob/master/LICENSE.md)
 
 ## Web framework for Perl
@@ -63,40 +63,40 @@ Name |  PIP Install | Repository | License
 [itty-bitty](https://github.com/toastdriven/itty/) | pip install itty | https://github.com/toastdriven/itty/ | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
 [web.py](http://webpy.org/) | \[sudo\] pip install web.py | https://github.com/webpy/webpy | Public domain
 [wheezy.web](http://pythonhosted.org/wheezy.web/) | pip install wheezy.web | https://bitbucket.org/akorn/wheezy.web | [MIT](https://en.wikipedia.org/wiki/MIT_License)
-[Tornado](http://www.tornadoweb.org/en/stable/) | pip install tornado | https://github.com/facebook/tornado | [Apache License 2.0](http://www.apache.org/licenses/)
+[Tornado](http://www.tornadoweb.org/en/stable) | pip install tornado | https://github.com/facebook/tornado | [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Web framework for Ruby
 Name | Gem Install | Repository | License
 --- | --- | --- | ---
-[Camping](http://camping.io/) | gem install camping | http://github.com/camping/camping | [MIT](http://opensource.org/licenses/MIT)
-[Cuba](http://cuba.is/) | gem install cuba | https://github.com/soveran/cuba | [MIT](http://opensource.org/licenses/MIT)
-[Grape](http://intridea.github.io/grape/) | gem install grape | https://github.com/intridea/grape | [MIT](http://opensource.org/licenses/MIT)
+[Camping](http://camping.io) | gem install camping | http://github.com/camping/camping | [MIT](http://opensource.org/licenses/MIT)
+[Cuba](http://cuba.is) | gem install cuba | https://github.com/soveran/cuba | [MIT](http://opensource.org/licenses/MIT)
+[Grape](http://intridea.github.io/grape) | gem install grape | https://github.com/intridea/grape | [MIT](http://opensource.org/licenses/MIT)
 [Kenji](https://github.com/kballenegger/kenji) | gem install kenji | https://github.com/kballenegger/Kenji | [Azure](http://license.azuretalon.com/)
-[Nancy](http://guilleiguaran.github.io/nancy/) | gem install nancy | https://github.com/guilleiguaran/nancy | [MIT](http://opensource.org/licenses/MIT)
-[Padrino](http://www.padrinorb.com/) | gem install padrino | https://github.com/padrino/padrino-framework | [MIT](http://opensource.org/licenses/MIT)
-[Ramaze](http://ramaze.net/) | gem install ramaze | https://github.com/ramaze/ramaze | [MIT](http://opensource.org/licenses/MIT)
-[Sinatra](http://www.sinatrarb.com/) | gem install sinatra | https://github.com/sinatra/sinatra/ | [MIT](http://opensource.org/licenses/MIT)
+[Nancy](http://guilleiguaran.github.io/nancy) | gem install nancy | https://github.com/guilleiguaran/nancy | [MIT](http://opensource.org/licenses/MIT)
+[Padrino](http://www.padrinorb.com) | gem install padrino | https://github.com/padrino/padrino-framework | [MIT](http://opensource.org/licenses/MIT)
+[Ramaze](http://ramaze.net) | gem install ramaze | https://github.com/ramaze/ramaze | [MIT](http://opensource.org/licenses/MIT)
+[Sinatra](http://www.sinatrarb.com) | gem install sinatra | https://github.com/sinatra/sinatra | [MIT](http://opensource.org/licenses/MIT)
 
 ## Web framework for PHP
 Name | Repository | License
 --- | --- | ---
 [AuraPHP](http://auraphp.com/blog/2013/12/12/aura-v2-web-project/) | https://github.com/auraphp/Aura.Web\_Kernel | [BSD](http://opensource.org/licenses/bsd-license.php)
 [Fat Free] (http://fatfreeframework.com/) | https://github.com/bcosca/fatfree | [GPL 3] (http://www.gnu.org/licenses/gpl-3.0.html)
-[Flight](http://flightphp.com/)| https://github.com/mikecao/flight | [MIT](http://opensource.org/licenses/MIT)
-[MicroMVC](http://micromvc.com/)| https://github.com/Xeoncross/MicroMVC | [MIT](http://opensource.org/licenses/MIT)
+[Flight](http://flightphp.com/) | https://github.com/mikecao/flight | [MIT](http://opensource.org/licenses/MIT)
+[MicroMVC](http://micromvc.com/) | https://github.com/Xeoncross/MicroMVC | [MIT](http://opensource.org/licenses/MIT)
 [Nanite](http://nirix.github.io/nanite/) | https://github.com/nirix/nanite | [LGPLv3](https://www.gnu.org/licenses/lgpl.html)
 [Phalcon Framework](http://phalconphp.com/en/) | https://github.com/phalcon/cphalcon | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
-[Silex](http://silex.sensiolabs.org/)| https://github.com/silexphp/Silex | [MIT](http://opensource.org/licenses/MIT)
-[Slim](http://slimframework.com/)| https://github.com/codeguy/Slim | [MIT](http://opensource.org/licenses/MIT)
-[Swiftlet](http://swiftlet.org/)| https://github.com/ElbertF/Swiftlet | [MIT](http://opensource.org/licenses/MIT)
+[Silex](http://silex.sensiolabs.org/) | https://github.com/silexphp/Silex | [MIT](http://opensource.org/licenses/MIT)
+[Slim](http://slimframework.com/) | https://github.com/codeguy/Slim | [MIT](http://opensource.org/licenses/MIT)
+[Swiftlet](http://swiftlet.org/) | https://github.com/ElbertF/Swiftlet | [MIT](http://opensource.org/licenses/MIT)
 
 
 
 ## Web framework for .NET (C#)
 Name | Repository | License 
 --- | --- | --- | --- 
-[Nancy] (http://nancyfx.org/) | https://github.com/NancyFx/Nancy/ | [MIT](http://opensource.org/licenses/MIT)
-Aurora | https://github.com/frankhale/aurora | [GPL](http://opensource.org/licenses/gpl-3.0.html)
+[Nancy](http://nancyfx.org/) | https://github.com/NancyFx/Nancy/ | [MIT](http://opensource.org/licenses/MIT)
+[Aurora](https://github.com/frankhale/aurora) | https://github.com/frankhale/aurora | [GPL](http://opensource.org/licenses/gpl-3.0.html)
 
 ## Web framework for Java
 Name | Repository | License 
