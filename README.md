@@ -64,6 +64,7 @@ Name | Gem Install | Repository | License
 [Padrino](http://www.padrinorb.com/) | gem install padrino | https://github.com/padrino/padrino-framework | [MIT](http://opensource.org/licenses/MIT)
 [Ramaze](http://ramaze.net/) | gem install ramaze | https://github.com/ramaze/ramaze | [MIT](http://opensource.org/licenses/MIT)
 [Sinatra](http://www.sinatrarb.com/) | gem install sinatra | https://github.com/sinatra/sinatra/ | [MIT](http://opensource.org/licenses/MIT)
+[Grape](https://github.com/intridea/grape) | gem install grape | https://github.com/intridea/grape | [MIT](http://opensource.org/licenses/MIT)
 
 ## Web framework for PHP
 Name | Repository | License
