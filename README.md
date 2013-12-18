@@ -38,6 +38,7 @@ Name | NPM Install | Repository | License
 [koa](https://github.com/koajs/koa) | \[sudo\] npm install koajs | https://github.com/koajs/koa | [MIT](http://opensource.org/licenses/MIT)
 [partial.js](http://www.partialjs.com/) | \[sudo\] npm install -g partial.js| https://github.com/petersirka/partial.js| [MIT](http://opensource.org/licenses/MIT)
 [SocketStream](http://www.socketstream.org/) | \[sudo\] npm install -g socketstream | https://github.com/socketstream/socketstream | [MIT](https://github.com/socketstream/socketstream/blob/master/LICENSE)
+[Sails.js](http://sailsjs.org) | \[sudo\]npm -g install sails | https://github.com/balderdashy/sails | [MIT](https://github.com/balderdashy/sails/blob/master/LICENSE.md)
 
 ## Web framework for Python
 Name |  PIP Install | Repository | License
