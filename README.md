@@ -69,6 +69,7 @@ Name | Repository | License
 [Flight](http://flightphp.com/)| https://github.com/mikecao/flight | [MIT](http://opensource.org/licenses/MIT)
 [Silex](http://silex.sensiolabs.org/)| https://github.com/silexphp/Silex | [MIT](http://opensource.org/licenses/MIT)
 [Slim](http://slimframework.com/)| https://github.com/codeguy/Slim | [MIT](http://opensource.org/licenses/MIT)
+[Swiftlet](http://swiftlet.org/)| https://github.com/ElbertF/Swiftlet | [MIT](http://opensource.org/licenses/MIT)
 
 ## Java - Microframeworks
 Name | Description | Maven groupId/artifact | License 
