@@ -32,6 +32,7 @@ Name |  PIP Install | Repository | License
 [itty-bitty](https://github.com/toastdriven/itty/) | pip install itty | https://github.com/toastdriven/itty/ | [BSD](Link)
 [web.py](http://webpy.org/) | \[sudo\] pip install web.py | https://github.com/webpy/webpy | Public domain
 [wheezy.web](http://pythonhosted.org/wheezy.web/) | pip intall wheezy.web | https://bitbucket.org/akorn/wheezy.web | [MIT](https://en.wikipedia.org/wiki/MIT_License)
+[Tornado](http://www.tornadoweb.org/en/stable/) | pip install tornado | https://github.com/facebook/tornado | [Apache License 2.0](http://www.apache.org/licenses/)
 
 ## Web framework for Ruby
 Name | Gem Install | Repository | License
