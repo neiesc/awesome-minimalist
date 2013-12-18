@@ -47,3 +47,8 @@ Name | Repository | License
 --- | --- | ---
 [Silex](http://silex.sensiolabs.org/)| https://github.com/silexphp/Silex | [MIT](http://opensource.org/licenses/MIT)
 [Slim](http://slimframework.com/)| https://github.com/codeguy/Slim | [MIT](http://opensource.org/licenses/MIT)
+
+## Java - Microframeworks
+Name | Description | Maven groupId/artifact | License 
+--- | | --- | --- | ---
+[Log4j] (http://logging.apache.org/log4j/2.x/) | Lightweight extendable/customizable logging facility | org.apache.logging.log4j : {log4j-api, log4j-core} | Apache License V2 
