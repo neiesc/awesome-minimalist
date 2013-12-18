@@ -60,6 +60,7 @@ Name | Gem Install | Repository | License
 Name | Repository | License
 --- | --- | ---
 [Flight](http://flightphp.com/)| https://github.com/mikecao/flight | [MIT](http://opensource.org/licenses/MIT)
+[MicroMVC](http://micromvc.com/)| https://github.com/Xeoncross/MicroMVC | [MIT](http://opensource.org/licenses/MIT)
 [Silex](http://silex.sensiolabs.org/)| https://github.com/silexphp/Silex | [MIT](http://opensource.org/licenses/MIT)
 [Slim](http://slimframework.com/)| https://github.com/codeguy/Slim | [MIT](http://opensource.org/licenses/MIT)
 
