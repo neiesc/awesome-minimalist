@@ -50,5 +50,5 @@ Name | Repository | License
 
 ## Java - Microframeworks
 Name | Description | Maven groupId/artifact | License 
---- | | --- | --- | ---
+--- | --- | --- | --- 
 [Log4j] (http://logging.apache.org/log4j/2.x/) | Lightweight extendable/customizable logging facility | org.apache.logging.log4j : {log4j-api, log4j-core} | Apache License V2 
