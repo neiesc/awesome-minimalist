@@ -14,6 +14,14 @@ Name | Minimum size(base) | Repository | License
 [Toast](https://daneden.me/toast/) | 1.2 KiB | https://github.com/daneden/Toast | Unknown
 [Concrete](http://davidlumley.github.io/concrete/) | 3.2 KiB | https://github.com/davidlumley/concrete | [MIT](http://opensource.org/licenses/MIT)
 
+## Frameworks for Front-end JS
+
+Name | Bower Install | Repository | License
+--- | --- | --- | ---
+[Backbone](http://backbonejs.org) | bower install backbone | https://github.com/jashkenas/backbone | [MIT](http://opensource.org/licenses/MIT)
+[Spine](http://spinejs.com/) | bower install spine | https://github.com/spine/spine |  [MIT](http://opensource.org/licenses/MIT)
+[Aura](http://aurajs.com/) | bower install aura | https://github.com/aurajs/aura | [MIT](http://opensource.org/licenses/MIT)
+
 ## Web framework for Node.js
 Name | NPM Install | Repository | License
 --- | --- | --- | ---
