@@ -7,6 +7,7 @@ Use http://refresh-sf.com/yui/ to compress, and get size "after compression"/102
 
 Name | Minimum size(base) | Repository | License
 --- | --- | --- | ---
+[Atatonic](http://atatonic.timbenniks.nl/) | 5.1 KiB (minified) | http://code.google.com/p/atatonic-css-framwork/ | [MIT](http://opensource.org/licenses/mit-license.php)
 [KNACSS](http://knacss.com/) | 13.2 KiB (all modules) | https://github.com/raphaelgoetter/KNACSS | [WTFPL](https://en.wikipedia.org/wiki/WTFPL)
 [Kube](http://imperavi.com/kube/) | 15.2 KiB | https://github.com/sashka/kube | Unknown
 [min](http://minfwk.com/) | 0.9 KiB (minified and gzipped) | https://github.com/owenversteeg/min | [MIT](http://opensource.org/licenses/MIT)
@@ -20,9 +21,10 @@ Name | Minimum size(base) | Repository | License
 
 Name | Bower Install | Repository | License
 --- | --- | --- | ---
-[Backbone](http://backbonejs.org) | bower install backbone | https://github.com/jashkenas/backbone | [MIT](http://opensource.org/licenses/MIT)
-[Spine](http://spinejs.com/) | bower install spine | https://github.com/spine/spine |  [MIT](http://opensource.org/licenses/MIT)
 [Aura](http://aurajs.com/) | bower install aura | https://github.com/aurajs/aura | [MIT](http://opensource.org/licenses/MIT)
+[Backbone](http://backbonejs.org) | bower install backbone | https://github.com/jashkenas/backbone | [MIT](http://opensource.org/licenses/MIT)
+[kraken](http://cferdinandi.github.io/kraken/) | | https://github.com/cferdinandi/kraken | [MIT](http://opensource.org/licenses/MIT))
+[Spine](http://spinejs.com/) | bower install spine | https://github.com/spine/spine |  [MIT](http://opensource.org/licenses/MIT)
 [Stapes](hay.github.io/stapes) | bower install stapes | http://github.com/hay/stapes | [MIT](http://opensource.org/licenses/MIT)
 
 ## Web framework for Haskell
@@ -83,9 +85,11 @@ Name | Repository | License
 [Flight](http://flightphp.com/)| https://github.com/mikecao/flight | [MIT](http://opensource.org/licenses/MIT)
 [MicroMVC](http://micromvc.com/)| https://github.com/Xeoncross/MicroMVC | [MIT](http://opensource.org/licenses/MIT)
 [Nanite](http://nirix.github.io/nanite/) | https://github.com/nirix/nanite | [LGPLv3](https://www.gnu.org/licenses/lgpl.html)
+[Phalcon Framework](http://phalconphp.com/en/) | https://github.com/phalcon/cphalcon | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
 [Silex](http://silex.sensiolabs.org/)| https://github.com/silexphp/Silex | [MIT](http://opensource.org/licenses/MIT)
 [Slim](http://slimframework.com/)| https://github.com/codeguy/Slim | [MIT](http://opensource.org/licenses/MIT)
 [Swiftlet](http://swiftlet.org/)| https://github.com/ElbertF/Swiftlet | [MIT](http://opensource.org/licenses/MIT)
+
 
 
 ## Web framework for .NET (C#)
@@ -93,6 +97,11 @@ Name | Repository | License
 --- | --- | --- | --- 
 [Nancy] (http://nancyfx.org/) | https://github.com/NancyFx/Nancy/ | [MIT](http://opensource.org/licenses/MIT)
 Aurora | https://github.com/frankhale/aurora | [GPL](http://opensource.org/licenses/gpl-3.0.html)
+
+## Web framework for Java
+Name | Repository | License 
+--- | --- | ---
+[Play Framework](http://www.playframework.com/) | https://github.com/playframework/playframework | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Java - Microframeworks
 Name | Description | Maven groupId/artifact | License 
