@@ -3,14 +3,16 @@ List of minimalist frameworks
 A list of minimalist frameworks(simple and lightweight). All in alphabetical order.
 
 ## Framework for CSS
+Use http://refresh-sf.com/yui/ to compress, and get size "after compression"/1024 = KiB
+
 Name | Minimum size(base) | Repository | License
 --- | --- | --- | ---
-[KNACSS](http://knacss.com/) | 8kb | https://github.com/raphaelgoetter/KNACSS | [WTFPL](https://en.wikipedia.org/wiki/WTFPL)
-[Kube](http://imperavi.com/kube/) | Unknown | https://github.com/sashka/kube | Unknown
-[Pure](http://purecss.io/) | 4.4kB | https://github.com/yui/pure | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
-[Simple Grid](http://thisisdallas.github.io/Simple-Grid/) | 1.7kB | https://github.com/ThisIsDallas/Simple-Grid | 
-[Toast](https://daneden.me/toast/) | 2.5kB | https://github.com/daneden/Toast | 
-[Concrete](http://davidlumley.github.io/concrete/) | 3.31 kb | https://github.com/davidlumley/concrete | [MIT](http://opensource.org/licenses/MIT)
+[KNACSS](http://knacss.com/) | 13.2 KiB (all modules) | https://github.com/raphaelgoetter/KNACSS | [WTFPL](https://en.wikipedia.org/wiki/WTFPL)
+[Kube](http://imperavi.com/kube/) | 15.2 KiB | https://github.com/sashka/kube | Unknown
+[Pure](http://purecss.io/) | 18.6 KiB (no gzipped) | https://github.com/yui/pure | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
+[Simple Grid](http://thisisdallas.github.io/Simple-Grid/) | 1.1 KiB | https://github.com/ThisIsDallas/Simple-Grid | Unknown
+[Toast](https://daneden.me/toast/) | 1.2 KiB | https://github.com/daneden/Toast | Unknown
+[Concrete](http://davidlumley.github.io/concrete/) | 3.2 KiB | https://github.com/davidlumley/concrete | [MIT](http://opensource.org/licenses/MIT)
 
 ## Web framework for Node.js
 Name | NPM Install | Repository | License
