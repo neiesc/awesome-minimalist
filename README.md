@@ -5,9 +5,9 @@ A list of minimalist frameworks(simple and lightweight). All in alphabetical ord
 ## Framework for CSS
 Name | Minimum size(base) | Repository | License
 --- | --- | --- | ---
-[KNACSS](http://knacss.com/) | 8kb | http://knacss.com/knacss.html | [WTFPL](https://en.wikipedia.org/wiki/WTFPL)
-[Kube](http://imperavi.com/kube/) | 8kb | http://knacss.com/knacss.html | [WTFPL](https://en.wikipedia.org/wiki/WTFPL)
-[Pure](http://purecss.io/) | 4.4kB | https://github.com/yui/pure/ | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
+[KNACSS](http://knacss.com/) | 8kb | https://github.com/raphaelgoetter/KNACSS | [WTFPL](https://en.wikipedia.org/wiki/WTFPL)
+[Kube](http://imperavi.com/kube/) | Unknown | https://github.com/sashka/kube | Unknown
+[Pure](http://purecss.io/) | 4.4kB | https://github.com/yui/pure | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Simple Grid](http://thisisdallas.github.io/Simple-Grid/) | 1.7kB | https://github.com/ThisIsDallas/Simple-Grid | 
 [Toast](https://daneden.me/toast/) | 2.5kB | https://github.com/daneden/Toast | 
 [Concrete](http://davidlumley.github.io/concrete/) | 3.31 kb | https://github.com/davidlumley/concrete | [MIT](http://opensource.org/licenses/MIT)
@@ -15,12 +15,12 @@ Name | Minimum size(base) | Repository | License
 ## Web framework for Node.js
 Name | NPM Install | Repository | License
 --- | --- | --- | ---
-[Express.js](http://expressjs.com/)| \[sudo\] npm install express | https://github.com/visionmedia/express| [MIT](http://opensource.org/licenses/MIT)
-[Flatiron](http://flatironjs.org/)| \[sudo\] npm install -g flatiron| https://github.com/flatiron|[MIT](http://opensource.org/licenses/MIT)
-[Hapi](http://spumko.github.io/)| npm install hapi | https://github.com/spumko/hapi| Unknown
-[koa](https://github.com/koajs/koa)| \[sudo\] npm install koajs | https://github.com/koajs/koa | [MIT](http://opensource.org/licenses/MIT)
-[partial.js](http://www.partialjs.com/)| \[sudo\] npm install -g partial.js| https://github.com/petersirka/partial.js| [MIT](http://opensource.org/licenses/MIT)
-[SocketStream](http://www.socketstream.org/)| \[sudo\] npm install -g socketstream | https://github.com/socketstream/socketstream | [MIT](https://github.com/socketstream/socketstream/blob/master/LICENSE)
+[Express.js](http://expressjs.com/)| \[sudo\] npm install express | https://github.com/visionmedia/express | [MIT](http://opensource.org/licenses/MIT)
+[Flatiron](http://flatironjs.org/) | \[sudo\] npm install -g flatiron | https://github.com/flatiron | [MIT](http://opensource.org/licenses/MIT)
+[Hapi](http://spumko.github.io/)| npm install hapi | https://github.com/spumko/hapi | Unknown
+[koa](https://github.com/koajs/koa) | \[sudo\] npm install koajs | https://github.com/koajs/koa | [MIT](http://opensource.org/licenses/MIT)
+[partial.js](http://www.partialjs.com/) | \[sudo\] npm install -g partial.js| https://github.com/petersirka/partial.js| [MIT](http://opensource.org/licenses/MIT)
+[SocketStream](http://www.socketstream.org/) | \[sudo\] npm install -g socketstream | https://github.com/socketstream/socketstream | [MIT](https://github.com/socketstream/socketstream/blob/master/LICENSE)
 
 ## Web framework for Python
 Name |  PIP Install | Repository | License
@@ -38,12 +38,12 @@ Name |  PIP Install | Repository | License
 ## Web framework for Ruby
 Name | Gem Install | Repository | License
 --- | --- | --- | ---
-[Cuba](http://cuba.is/)| gem install cuba | https://github.com/soveran/cuba | [MIT](http://opensource.org/licenses/MIT)
-[Padrino](http://www.padrinorb.com/)| gem install padrino | https://github.com/padrino/padrino-framework | [MIT](http://opensource.org/licenses/MIT)
-[Sinatra](http://www.sinatrarb.com/)| gem install sinatra | https://github.com/sinatra/sinatra/ | [MIT](http://opensource.org/licenses/MIT)
+[Cuba](http://cuba.is/) | gem install cuba | https://github.com/soveran/cuba | [MIT](http://opensource.org/licenses/MIT)
+[Padrino](http://www.padrinorb.com/) | gem install padrino | https://github.com/padrino/padrino-framework | [MIT](http://opensource.org/licenses/MIT)
+[Sinatra](http://www.sinatrarb.com/) | gem install sinatra | https://github.com/sinatra/sinatra/ | [MIT](http://opensource.org/licenses/MIT)
 
 ## Web framework for PHP
 Name | Repository | License
 --- | --- | ---
-[Silex](http://silex.sensiolabs.org/)| https://github.com/silexphp/Silex | [MIT](http://opensource.org/licenses/MIT)
-[Slim](http://slimframework.com/)| https://github.com/codeguy/Slim | [MIT](http://opensource.org/licenses/MIT)
+[Silex](http://silex.sensiolabs.org/) | https://github.com/silexphp/Silex | [MIT](http://opensource.org/licenses/MIT)
+[Slim](http://slimframework.com/) | https://github.com/codeguy/Slim | [MIT](http://opensource.org/licenses/MIT)
