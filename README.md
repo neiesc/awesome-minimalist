@@ -47,3 +47,8 @@ Name | Repository | License
 --- | --- | ---
 [Silex](http://silex.sensiolabs.org/) | https://github.com/silexphp/Silex | [MIT](http://opensource.org/licenses/MIT)
 [Slim](http://slimframework.com/) | https://github.com/codeguy/Slim | [MIT](http://opensource.org/licenses/MIT)
+
+## Web framework for Haskell
+Name | Cabal Install | Repository | License
+--- | --- | --- | ---
+[Scotty](http://hackage.haskell.org/package/scotty) | cabal install scotty | https://github.com/scotty-web/scotty | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
