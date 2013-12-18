@@ -49,7 +49,7 @@ Name |  PIP Install | Repository | License
 [Flask](http://flask.pocoo.org/) | pip install Flask | https://github.com/mitsuhiko/flask | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Klein](https://github.com/twisted/klein) | pip install klein | https://github.com/twisted/klein | [MIT](https://en.wikipedia.org/wiki/MIT_License) 
 [Pyramid](http://www.pylonsproject.org/) | pip install pyramid | https://github.com/Pylons/pyramid | [BSD-derived](http://www.repoze.org/LICENSE.txt)
-[itty-bitty](https://github.com/toastdriven/itty/) | pip install itty | https://github.com/toastdriven/itty/ | [BSD](Link)
+[itty-bitty](https://github.com/toastdriven/itty/) | pip install itty | https://github.com/toastdriven/itty/ | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
 [web.py](http://webpy.org/) | \[sudo\] pip install web.py | https://github.com/webpy/webpy | Public domain
 [wheezy.web](http://pythonhosted.org/wheezy.web/) | pip install wheezy.web | https://bitbucket.org/akorn/wheezy.web | [MIT](https://en.wikipedia.org/wiki/MIT_License)
 [Tornado](http://www.tornadoweb.org/en/stable/) | pip install tornado | https://github.com/facebook/tornado | [Apache License 2.0](http://www.apache.org/licenses/)
@@ -59,19 +59,22 @@ Name | Gem Install | Repository | License
 --- | --- | --- | ---
 [Camping](http://camping.io/) | gem install camping | http://github.com/camping/camping | [MIT](http://opensource.org/licenses/MIT)
 [Cuba](http://cuba.is/) | gem install cuba | https://github.com/soveran/cuba | [MIT](http://opensource.org/licenses/MIT)
+[Kenji](https://github.com/kballenegger/kenji) | gem install kenji | https://github.com/kballenegger/Kenji | [Azure](http://license.azuretalon.com/)
+[Nancy](http://guilleiguaran.github.io/nancy/) | gem install nancy | https://github.com/guilleiguaran/nancy | [MIT](http://opensource.org/licenses/MIT)
 [Padrino](http://www.padrinorb.com/) | gem install padrino | https://github.com/padrino/padrino-framework | [MIT](http://opensource.org/licenses/MIT)
 [Ramaze](http://ramaze.net/) | gem install ramaze | https://github.com/ramaze/ramaze | [MIT](http://opensource.org/licenses/MIT)
 [Sinatra](http://www.sinatrarb.com/) | gem install sinatra | https://github.com/sinatra/sinatra/ | [MIT](http://opensource.org/licenses/MIT)
-[Nancy](http://guilleiguaran.github.io/nancy/) | gem install nancy | https://github.com/guilleiguaran/nancy | [MIT](http://opensource.org/licenses/MIT)
 
 ## Web framework for PHP
 Name | Repository | License
 --- | --- | ---
+[AuraPHP](http://auraphp.com/blog/2013/12/12/aura-v2-web-project/) | https://github.com/auraphp/Aura.Web\_Kernel | [BSD](http://opensource.org/licenses/bsd-license.php)
+[Fat Free] (http://fatfreeframework.com/) | https://github.com/bcosca/fatfree | [GPL 3] (http://www.gnu.org/licenses/gpl-3.0.html)
 [Flight](http://flightphp.com/)| https://github.com/mikecao/flight | [MIT](http://opensource.org/licenses/MIT)
 [MicroMVC](http://micromvc.com/)| https://github.com/Xeoncross/MicroMVC | [MIT](http://opensource.org/licenses/MIT)
+[Nanite](http://nirix.github.io/nanite/) | https://github.com/nirix/nanite | [LGPLv3](https://www.gnu.org/licenses/lgpl.html)
 [Silex](http://silex.sensiolabs.org/)| https://github.com/silexphp/Silex | [MIT](http://opensource.org/licenses/MIT)
 [Slim](http://slimframework.com/)| https://github.com/codeguy/Slim | [MIT](http://opensource.org/licenses/MIT)
-[Fat Free] (http://fatfreeframework.com/) | https://github.com/bcosca/fatfree | [GPL 3] (http://www.gnu.org/licenses/gpl-3.0.html)
 [Swiftlet](http://swiftlet.org/)| https://github.com/ElbertF/Swiftlet | [MIT](http://opensource.org/licenses/MIT)
 
 ## Java - Microframeworks
