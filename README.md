@@ -31,3 +31,8 @@ Name | NPM Install | Repository | License
 [Hapi](http://spumko.github.io/)| npm install hapi | https://github.com/spumko/hapi| Unknown
 [partial.js](http://www.partialjs.com/)| \[sudo\] npm install -g partial.js| https://github.com/petersirka/partial.js| [MIT](http://opensource.org/licenses/MIT) 
 [koa](https://github.com/koajs/koa)| \[sudo\] npm install -g koajs | https://github.com/koajs/koa | [MIT](http://opensource.org/licenses/MIT)
+
+## Web framework for Ruby
+Name | Gem Install | Repository | License
+--- | --- | --- | ---
+[Sinatra](http://www.sinatrarb.com/)| gem install sinatra | https://github.com/sinatra/sinatra/ | [MIT](http://opensource.org/licenses/MIT)
