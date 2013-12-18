@@ -84,7 +84,7 @@ Name | Repository | License
 Name | Repository | License 
 --- | --- | --- | --- 
 [Nancy] (http://nancyfx.org/) | https://github.com/NancyFx/Nancy/ | [MIT](http://opensource.org/licenses/MIT)
-
+Aurora | https://github.com/frankhale/aurora | [GPL](http://opensource.org/licenses/gpl-3.0.html)
 
 ## Java - Microframeworks
 Name | Description | Maven groupId/artifact | License 
