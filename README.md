@@ -39,13 +39,11 @@ Name |  PIP Install | Repository | License
 [Bobo](http://bobo.digicool.com/) | pip install bobo | https://github.com/zopefoundation/bobo | [ZPL 2.1](https://en.wikipedia.org/wiki/Zope_Public_License)
 [Bottle](http://bottlepy.org/docs/dev/) | \[sudo\] pip install bottle | https://github.com/defnull/bottle | [MIT](https://en.wikipedia.org/wiki/MIT_License)
 [CherryPy](http://www.cherrypy.org/) | pip install CherryPy | https://bitbucket.org/cherrypy/cherrypy/overview | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
-[Cyclone](http://cyclone.io/) | pip install cyclone | https://github.com/fiorix/cyclone | [Apache License 2.0](http://www.apache.org/licenses/)
 [Flask](http://flask.pocoo.org/) | pip install Flask | https://github.com/mitsuhiko/flask | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
-[Klein](https://github.com/twisted/klein) | pip install klein | https://github.com/twisted/klein | [MIT](https://en.wikipedia.org/wiki/MIT_License) 
 [Pyramid](http://www.pylonsproject.org/) | pip install pyramid | https://github.com/Pylons/pyramid | [BSD-derived](http://www.repoze.org/LICENSE.txt)
 [itty-bitty](https://github.com/toastdriven/itty/) | pip install itty | https://github.com/toastdriven/itty/ | [BSD](Link)
 [web.py](http://webpy.org/) | \[sudo\] pip install web.py | https://github.com/webpy/webpy | Public domain
-[wheezy.web](http://pythonhosted.org/wheezy.web/) | pip install wheezy.web | https://bitbucket.org/akorn/wheezy.web | [MIT](https://en.wikipedia.org/wiki/MIT_License)
+[wheezy.web](http://pythonhosted.org/wheezy.web/) | pip intall wheezy.web | https://bitbucket.org/akorn/wheezy.web | [MIT](https://en.wikipedia.org/wiki/MIT_License)
 [Tornado](http://www.tornadoweb.org/en/stable/) | pip install tornado | https://github.com/facebook/tornado | [Apache License 2.0](http://www.apache.org/licenses/)
 
 ## Web framework for Ruby
@@ -64,6 +62,7 @@ Name | Repository | License
 [Flight](http://flightphp.com/)| https://github.com/mikecao/flight | [MIT](http://opensource.org/licenses/MIT)
 [Silex](http://silex.sensiolabs.org/)| https://github.com/silexphp/Silex | [MIT](http://opensource.org/licenses/MIT)
 [Slim](http://slimframework.com/)| https://github.com/codeguy/Slim | [MIT](http://opensource.org/licenses/MIT)
+[Fat Free] (http://fatfreeframework.com/) | https://github.com/bcosca/fatfree | [GPL 3] (http://www.gnu.org/licenses/gpl-3.0.html)
 
 ## Java - Microframeworks
 Name | Description | Maven groupId/artifact | License 
