@@ -35,5 +35,6 @@ Name | NPM Install | Repository | License
 ## Web framework for Ruby
 Name | Gem Install | Repository | License
 --- | --- | --- | ---
+[Cuba](http://cuba.is/)| gem install cuba | https://github.com/soveran/cuba | [MIT](http://opensource.org/licenses/MIT)
 [Sinatra](http://www.sinatrarb.com/)| gem install sinatra | https://github.com/sinatra/sinatra/ | [MIT](http://opensource.org/licenses/MIT)
 [Padrino](http://www.padrinorb.com/)| gem install padrino | https://github.com/padrino/padrino-framework | [MIT](http://opensource.org/licenses/MIT)
