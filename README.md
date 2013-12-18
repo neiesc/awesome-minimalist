@@ -31,3 +31,4 @@ Name | NPM Install | Repository | License
 [Hapi](http://spumko.github.io/)| npm install hapi | https://github.com/spumko/hapi| Unknown
 [partial.js](http://www.partialjs.com/)| \[sudo\] npm install -g partial.js| https://github.com/petersirka/partial.js| [MIT](http://opensource.org/licenses/MIT) 
 [koa](https://github.com/koajs/koa)| \[sudo\] npm install -g koajs | https://github.com/koajs/koa | [MIT](http://opensource.org/licenses/MIT)
+[restify](https://github.com/mcavage/node-restify)| \[sudo\] npm install -g restify | http://mcavage.me/node-restify/ | [MIT](http://opensource.org/licenses/MIT)
