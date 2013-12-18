@@ -23,6 +23,11 @@ Name | Bower Install | Repository | License
 [Spine](http://spinejs.com/) | bower install spine | https://github.com/spine/spine |  [MIT](http://opensource.org/licenses/MIT)
 [Aura](http://aurajs.com/) | bower install aura | https://github.com/aurajs/aura | [MIT](http://opensource.org/licenses/MIT)
 
+## Web framework for Haskell
+Name | Cabal Install | Repository | License
+--- | --- | --- | ---
+[Scotty](http://hackage.haskell.org/package/scotty) | cabal install scotty | https://github.com/scotty-web/scotty | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
+
 ## Web framework for Node.js
 Name | NPM Install | Repository | License
 --- | --- | --- | ---
@@ -68,4 +73,4 @@ Name | Repository | License
 ## Java - Microframeworks
 Name | Description | Maven groupId/artifact | License 
 --- | --- | --- | --- 
-[Log4j] (http://logging.apache.org/log4j/2.x/) | Lightweight extendable/customizable logging facility | org.apache.logging.log4j : {log4j-api, log4j-core} | Apache License V2 
+[Log4j] (http://logging.apache.org/log4j/2.x/) | Lightweight extendable/customizable logging facility | org.apache.logging.log4j : {log4j-api, log4j-core} | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0.html)
