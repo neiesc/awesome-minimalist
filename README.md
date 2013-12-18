@@ -36,3 +36,4 @@ Name | NPM Install | Repository | License
 Name | Gem Install | Repository | License
 --- | --- | --- | ---
 [Sinatra](http://www.sinatrarb.com/)| gem install sinatra | https://github.com/sinatra/sinatra/ | [MIT](http://opensource.org/licenses/MIT)
+[Padrino](http://www.padrinorb.com/)| gem install padrino | https://github.com/padrino/padrino-framework | [MIT](http://opensource.org/licenses/MIT)
