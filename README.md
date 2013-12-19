@@ -27,6 +27,11 @@ Name | Bower Install | Repository | License
 [Spine](http://spinejs.com/) | bower install spine | https://github.com/spine/spine |  [MIT](http://opensource.org/licenses/MIT)
 [Stapes](hay.github.io/stapes) | bower install stapes | http://github.com/hay/stapes | [MIT](http://opensource.org/licenses/MIT)
 
+## Web framework for Go
+Name | Repository | License 
+--- | --- | ---
+[Beego Framework](http://beego.me/) | https://github.com/astaxie/beego | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+
 ## Web framework for Haskell
 Name | Cabal Install | Repository | License
 --- | --- | --- | ---
@@ -116,9 +121,4 @@ Name | Repository | License
 Name | Description | Maven groupId/artifact | License 
 --- | --- | --- | --- 
 [Log4j] (http://logging.apache.org/log4j/2.x/) | Lightweight extendable/customizable logging facility | org.apache.logging.log4j : {log4j-api, log4j-core} | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0.html)
-
-## Web framework for Go
-Name | Repository | License 
---- | --- | ---
-[Beego Framework](http://beego.me/) | https://github.com/astaxie/beego | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
