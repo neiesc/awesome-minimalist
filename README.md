@@ -116,6 +116,7 @@ Name | Repository | License
 [Spark](http://www.sparkjava.com/) | https://github.com/perwendel/spark | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Restlet](http://restlet.org) | https://github.com/restlet/restlet-framework-java | [Apache License V2](http://opensource.org/licenses/apache-2.0)
 [RestX](http://restx.io/) | https://github.com/restx/restx | [Apache License V2](http://opensource.org/licenses/apache-2.0)
+[Stapler](http://stapler.kohsuke.org/) | https://github.com/stapler/stapler | [BSD](http://opensource.org/licenses/bsd-license.php)
 
 ## Java - Microframeworks
 Name | Description | Maven groupId/artifact | License 
