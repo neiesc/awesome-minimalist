@@ -117,3 +117,8 @@ Name | Description | Maven groupId/artifact | License
 --- | --- | --- | --- 
 [Log4j] (http://logging.apache.org/log4j/2.x/) | Lightweight extendable/customizable logging facility | org.apache.logging.log4j : {log4j-api, log4j-core} | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0.html)
 
+## Web framework for Go
+Name | Repository | License 
+--- | --- | ---
+[Beego Framework](http://beego.me/) | https://github.com/astaxie/beego | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+
