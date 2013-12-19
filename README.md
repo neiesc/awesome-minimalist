@@ -12,7 +12,7 @@ Name | Minimum size(base) | Repository | License
 [KNACSS](http://knacss.com/) | 13.2 KiB (all modules) | https://github.com/raphaelgoetter/KNACSS | [WTFPL](https://en.wikipedia.org/wiki/WTFPL)
 [Kube](http://imperavi.com/kube/) | 15.2 KiB | https://github.com/sashka/kube | Unknown
 [min](http://minfwk.com/) | 0.9 KiB (minified and gzipped) | https://github.com/owenversteeg/min | [MIT](http://opensource.org/licenses/MIT)
-[PocketGrid](http://arnaudleray.github.io/pocketgrid/) | 1 KiB | https://github.com/arnaudleray/pocketgrid | [MIT](http://opensource.org/licenses/MIT)
+[PocketGrid](http://arnaudleray.github.io/pocketgrid/) | 0.5 KiB | https://github.com/arnaudleray/pocketgrid | [MIT](http://opensource.org/licenses/MIT)
 [Pure](http://purecss.io/) | 18.6 KiB (no gzipped) | https://github.com/yui/pure | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [RocketCSS](https://rocketcss.com/) | 6.4 KiB | https://github.com/RocketCSS/RocketCSS | [MIT](http://opensource.org/licenses/MIT)
 [Simple Grid](http://thisisdallas.github.io/Simple-Grid/) | 1.1 KiB | https://github.com/ThisIsDallas/Simple-Grid | Unknown
