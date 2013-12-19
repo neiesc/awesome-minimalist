@@ -47,12 +47,6 @@ Name | Repository | License
 [RestX](http://restx.io/) | https://github.com/restx/restx | [Apache License V2](http://opensource.org/licenses/apache-2.0)
 [Stapler](http://stapler.kohsuke.org/) | https://github.com/stapler/stapler | [BSD](http://opensource.org/licenses/bsd-license.php)
 
-## Web framework for Scala
-Name | Repository | License 
---- | --- | ---
-[Spray](http://spray.io) | https://github.com/spray/spray |  [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-[Play Framework](http://www.playframework.com/) | https://github.com/playframework/playframework | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-
 ## Web framework for Node.js
 Name | NPM Install | Repository | License
 --- | --- | --- | ---
@@ -118,6 +112,12 @@ Name | Gem Install | Repository | License
 [Padrino](http://www.padrinorb.com/) | gem install padrino | https://github.com/padrino/padrino-framework | [MIT](http://opensource.org/licenses/MIT)
 [Ramaze](http://ramaze.net/) | gem install ramaze | https://github.com/ramaze/ramaze | [MIT](http://opensource.org/licenses/MIT)
 [Sinatra](http://www.sinatrarb.com/) | gem install sinatra | https://github.com/sinatra/sinatra/ | [MIT](http://opensource.org/licenses/MIT)
+
+## Web framework for Scala
+Name | Repository | License 
+--- | --- | ---
+[Spray](http://spray.io) | https://github.com/spray/spray |  [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Play Framework](http://www.playframework.com/) | https://github.com/playframework/playframework | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Web framework for .NET (C#)
 Name | Repository | License 
