@@ -36,6 +36,7 @@ Name | Bower Install | Repository | License
 ## Web framework for Go
 Name | Repository | License 
 --- | --- | ---
+[Martini](http://martini.codegangsta.io) | https://github.com/codegangsta/martini | [MIT](http://opensource.org/licenses/MIT)
 [Beego Framework](http://beego.me/) | https://github.com/astaxie/beego | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [gocraft/web](https://github.com/gocraft/web) | https://github.com/gocraft/web | [MIT](http://opensource.org/licenses/MIT)
 
