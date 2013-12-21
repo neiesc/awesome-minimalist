@@ -61,6 +61,7 @@ Name | NPM Install | Repository | License
 [Flatiron](http://flatironjs.org) | \[sudo\] npm install -g flatiron | https://github.com/flatiron | [MIT](http://opensource.org/licenses/MIT)
 [Hapi](http://spumko.github.io)| npm install hapi | https://github.com/spumko/hapi | Unknown
 [koa](https://github.com/koajs/koa) | \[sudo\] npm install koajs | https://github.com/koajs/koa | [MIT](http://opensource.org/licenses/MIT)
+[Meryl](https://github.com/kadirpekel/meryl) | npm install meryl | https://github.com/kadirpekel/meryl | [MIT](http://opensource.org/licenses/MIT)
 [partial.js](http://www.partialjs.com) | \[sudo\] npm install -g partial.js| https://github.com/petersirka/partial.js| [MIT](http://opensource.org/licenses/MIT)
 [Restify](http://mcavage.me/node-restify) | npm install restify | https://github.com/mcavage/node-restify | [MIT](http://opensource.org/licenses/MIT)
 [SocketStream](http://www.socketstream.org) | \[sudo\] npm install -g socketstream | https://github.com/socketstream/socketstream | [MIT](https://github.com/socketstream/socketstream/blob/master/LICENSE)
