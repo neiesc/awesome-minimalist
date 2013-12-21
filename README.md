@@ -30,6 +30,7 @@ Name | Bower Install | Repository | License
 --- | --- | --- | ---
 [Aura](http://aurajs.com/) | bower install aura | https://github.com/aurajs/aura | [MIT](http://opensource.org/licenses/MIT)
 [kraken](http://cferdinandi.github.io/kraken/) | | https://github.com/cferdinandi/kraken | [MIT](http://opensource.org/licenses/MIT)
+[Riot.js](https://moot.it/blog/technology/riotjs-the-1kb-mvp-framework.html) | | https://github.com/moot/riotjs/ | Unknown
 [Spine](http://spinejs.com/) | bower install spine | https://github.com/spine/spine |  [MIT](http://opensource.org/licenses/MIT)
 [Stapes](http://hay.github.io/stapes) | bower install stapes | http://github.com/hay/stapes | [MIT](http://opensource.org/licenses/MIT)
 
