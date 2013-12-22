@@ -127,6 +127,7 @@ Name | Gem Install | Repository | License
 ## Web framework for Scala
 Name | Repository | License
 --- | --- | ---
+[Finatra](http://finatra.info) | https://github.com/twitter/finatra | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Scalatra](http://scalatra.org) | https://github.com/scalatra/scalatra | [BSD](http://opensource.org/licenses/bsd-license.php)
 [Spray](http://spray.io) | https://github.com/spray/spray |  [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Play Framework](http://www.playframework.com/) | https://github.com/playframework/playframework | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
