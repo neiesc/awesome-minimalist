@@ -138,3 +138,9 @@ Name | Repository | License
 --- | --- | --- | ---
 [Aurora](https://github.com/frankhale/aurora) | https://github.com/frankhale/aurora | [GPL](http://opensource.org/licenses/gpl-3.0.html)
 [Nancy](http://nancyfx.org/) | https://github.com/NancyFx/Nancy/ | [MIT](http://opensource.org/licenses/MIT)
+
+## Web framework for Javascript
+Name | Repository | License
+--- | --- | --- | ---
+[Meteor](https://github.com/meteor/meteor) | https://github.com/meteor/meteor | [MIT](http://opensource.org/licenses/MIT)
+
