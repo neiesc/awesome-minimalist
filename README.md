@@ -56,6 +56,11 @@ Name | Repository | License
 [Spark](http://www.sparkjava.com/) | https://github.com/perwendel/spark | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Stapler](http://stapler.kohsuke.org/) | https://github.com/stapler/stapler | [BSD](http://opensource.org/licenses/bsd-license.php)
 
+## Web framework for Javascript
+Name | Repository | License
+--- | --- | --- | ---
+[Meteor](https://www.meteor.com) | https://github.com/meteor/meteor | [MIT](http://opensource.org/licenses/MIT)
+
 ## Web framework for Node.js
 Name | NPM Install | Repository | License
 --- | --- | --- | ---
@@ -138,9 +143,3 @@ Name | Repository | License
 --- | --- | --- | ---
 [Aurora](https://github.com/frankhale/aurora) | https://github.com/frankhale/aurora | [GPL](http://opensource.org/licenses/gpl-3.0.html)
 [Nancy](http://nancyfx.org/) | https://github.com/NancyFx/Nancy/ | [MIT](http://opensource.org/licenses/MIT)
-
-## Web framework for Javascript
-Name | Repository | License
---- | --- | --- | ---
-[Meteor](https://github.com/meteor/meteor) | https://github.com/meteor/meteor | [MIT](http://opensource.org/licenses/MIT)
-
