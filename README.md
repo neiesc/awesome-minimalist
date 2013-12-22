@@ -35,7 +35,7 @@ Name | Bower Install | Repository | License
 [Stapes](http://hay.github.io/stapes) | bower install stapes | http://github.com/hay/stapes | [MIT](http://opensource.org/licenses/MIT)
 
 ## Web framework for Go
-Name | Repository | License 
+Name | Repository | License
 --- | --- | ---
 [Martini](http://martini.codegangsta.io) | https://github.com/codegangsta/martini | [MIT](http://opensource.org/licenses/MIT)
 [Beego Framework](http://beego.me/) | https://github.com/astaxie/beego | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
@@ -47,7 +47,7 @@ Name | Cabal Install | Repository | License
 [Scotty](http://hackage.haskell.org/package/scotty) | cabal install scotty | https://github.com/scotty-web/scotty | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
 
 ## Web framework for Java
-Name | Repository | License 
+Name | Repository | License
 --- | --- | ---
 [Play Framework](http://www.playframework.com/) | https://github.com/playframework/playframework | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Spark](http://www.sparkjava.com/) | https://github.com/perwendel/spark | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
@@ -104,7 +104,7 @@ Name |  PIP Install | Repository | License
 [Cyclone](http://cyclone.io/) | pip install cyclone | https://github.com/fiorix/cyclone | [Apache License 2.0](http://www.apache.org/licenses/)
 [Flask](http://flask.pocoo.org/) | pip install Flask | https://github.com/mitsuhiko/flask | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [itty-bitty](https://github.com/toastdriven/itty/) | pip install itty | https://github.com/toastdriven/itty/ | [BSD](Link)
-[Klein](https://github.com/twisted/klein) | pip install klein | https://github.com/twisted/klein | [MIT](https://en.wikipedia.org/wiki/MIT_License) 
+[Klein](https://github.com/twisted/klein) | pip install klein | https://github.com/twisted/klein | [MIT](https://en.wikipedia.org/wiki/MIT_License)
 [ObjectWeb](https://github.com/aisola/ObjectWeb) | Unknown | https://github.com/aisola/ObjectWeb | [LGPLv3](https://www.gnu.org/licenses/lgpl.html)
 [Pyramid](http://www.pylonsproject.org/) | pip install pyramid | https://github.com/Pylons/pyramid | [BSD-derived](http://www.repoze.org/LICENSE.txt)
 [Tornado](http://www.tornadoweb.org/en/stable/) | pip install tornado | https://github.com/facebook/tornado | [Apache License 2.0](http://www.apache.org/licenses/)
@@ -125,13 +125,15 @@ Name | Gem Install | Repository | License
 [Sinatra](http://www.sinatrarb.com/) | gem install sinatra | https://github.com/sinatra/sinatra/ | [MIT](http://opensource.org/licenses/MIT)
 
 ## Web framework for Scala
-Name | Repository | License 
+Name | Repository | License
 --- | --- | ---
+[Finatra](http://finatra.info) | https://github.com/twitter/finatra | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Scalatra](http://scalatra.org) | https://github.com/scalatra/scalatra | [BSD](http://opensource.org/licenses/bsd-license.php)
 [Spray](http://spray.io) | https://github.com/spray/spray |  [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Play Framework](http://www.playframework.com/) | https://github.com/playframework/playframework | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Web framework for .NET (C#)
-Name | Repository | License 
---- | --- | --- | --- 
+Name | Repository | License
+--- | --- | --- | ---
 [Nancy](http://nancyfx.org/) | https://github.com/NancyFx/Nancy/ | [MIT](http://opensource.org/licenses/MIT)
 [Aurora](https://github.com/frankhale/aurora) | https://github.com/frankhale/aurora | [GPL](http://opensource.org/licenses/gpl-3.0.html)
