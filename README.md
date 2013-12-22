@@ -45,6 +45,7 @@ Name | Repository | License
 Name | Cabal Install | Repository | License
 --- | --- | --- | ---
 [Scotty](http://hackage.haskell.org/package/scotty) | cabal install scotty | https://github.com/scotty-web/scotty | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
+[Snap](http://snapframework.com/) | cabal install snap | https://github.com/snapframework/snap | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
 
 ## Web framework for Java
 Name | Repository | License 
