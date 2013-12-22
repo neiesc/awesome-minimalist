@@ -81,7 +81,7 @@ Name | Repository | License
 [AuraPHP](http://auraphp.com/blog/2013/12/12/aura-v2-web-project/) | https://github.com/auraphp/Aura.Web\_Kernel | [BSD](http://opensource.org/licenses/bsd-license.php)
 [Bullet](http://bulletphp.com/)| https://github.com/vlucas/bulletphp | [MIT](http://opensource.org/licenses/MIT)
 [Deano](http://github.com/colindean/deano) | http://github.com/colindean/deano | [MIT](http://opensource.org/licenses/MIT)
-[Fat Free](http://fatfreeframework.com/) | https://github.com/bcosca/fatfree | [GPL 3] (http://www.gnu.org/licenses/gpl-3.0.html)
+[Fat Free](http://fatfreeframework.com/) | https://github.com/bcosca/fatfree | [GPL 3](http://www.gnu.org/licenses/gpl-3.0.html)
 [Flight](http://flightphp.com/) | https://github.com/mikecao/flight | [MIT](http://opensource.org/licenses/MIT)
 [Hackwork](https://github.com/ZDroid/hackwork) | https://github.com/ZDroid/hackwork | [MIT](http://opensource.org/licenses/MIT)
 [Limonade](http://limonade-php.github.io/)| https://github.com/sofadesign/limonade | Unknown
