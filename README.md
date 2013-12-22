@@ -31,11 +31,11 @@ Name | Bower Install | Repository | License
 [Aura](http://aurajs.com/) | bower install aura | https://github.com/aurajs/aura | [MIT](http://opensource.org/licenses/MIT)
 [kraken](http://cferdinandi.github.io/kraken/) | Unknown | https://github.com/cferdinandi/kraken | [MIT](http://opensource.org/licenses/MIT)
 [Responsive](http://jimbobsquarepants.github.io/Responsive/) | Unknown | https://github.com/JimBobSquarePants/Responsive | [MIT](http://opensource.org/licenses/MIT)
-[Spine](http://spinejs.com/) | bower install spine | https://github.com/spine/spine |  [MIT](http://opensource.org/licenses/MIT)
+[Spine](http://spinejs.com/) | bower install spine | https://github.com/spine/spine | [MIT](http://opensource.org/licenses/MIT)
 [Stapes](http://hay.github.io/stapes) | bower install stapes | http://github.com/hay/stapes | [MIT](http://opensource.org/licenses/MIT)
 
 ## Web framework for Go
-Name | Repository | License 
+Name | Repository | License
 --- | --- | ---
 [Beego Framework](http://beego.me/) | https://github.com/astaxie/beego | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [gocraft/web](https://github.com/gocraft/web) | https://github.com/gocraft/web | [MIT](http://opensource.org/licenses/MIT)
@@ -48,7 +48,7 @@ Name | Cabal Install | Repository | License
 [Snap](http://snapframework.com/) | cabal install snap | https://github.com/snapframework/snap | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
 
 ## Web framework for Java
-Name | Repository | License 
+Name | Repository | License
 --- | --- | ---
 [Play Framework](http://www.playframework.com/) | https://github.com/playframework/playframework | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Restlet](http://restlet.org) | https://github.com/restlet/restlet-framework-java | [Apache License V2](http://opensource.org/licenses/apache-2.0)
@@ -78,18 +78,18 @@ Name | cpan install | Repository | License
 ## Web framework for PHP
 Name | Repository | License
 --- | --- | ---
-[Afro](http://github.com/jbrooksuk/Afro)  | https://github.com/jbrooksuk/Afro | [MIT](http://jbrooksuk.mit-license.org)
+[Afro](http://github.com/jbrooksuk/Afro) | https://github.com/jbrooksuk/Afro | [MIT](http://jbrooksuk.mit-license.org)
 [AuraPHP](http://auraphp.com/blog/2013/12/12/aura-v2-web-project/) | https://github.com/auraphp/Aura.Web\_Kernel | [BSD](http://opensource.org/licenses/bsd-license.php)
 [Bullet](http://bulletphp.com/)| https://github.com/vlucas/bulletphp | [MIT](http://opensource.org/licenses/MIT)
 [Deano](http://github.com/colindean/deano) | http://github.com/colindean/deano | [MIT](http://opensource.org/licenses/MIT)
-[Fat Free](http://fatfreeframework.com/) | https://github.com/bcosca/fatfree | [GPL 3] (http://www.gnu.org/licenses/gpl-3.0.html)
+[Fat Free](http://fatfreeframework.com/) | https://github.com/bcosca/fatfree | [GPL 3](http://www.gnu.org/licenses/gpl-3.0.html)
 [Flight](http://flightphp.com/) | https://github.com/mikecao/flight | [MIT](http://opensource.org/licenses/MIT)
 [Hackwork](https://github.com/ZDroid/hackwork) | https://github.com/ZDroid/hackwork | [MIT](http://opensource.org/licenses/MIT)
 [Limonade](http://limonade-php.github.io/)| https://github.com/sofadesign/limonade | Unknown
 [MicroMVC](http://micromvc.com/) | https://github.com/Xeoncross/MicroMVC | [MIT](http://opensource.org/licenses/MIT)
 [Nanite](http://nirix.github.io/nanite/) | https://github.com/nirix/nanite | [LGPLv3](https://www.gnu.org/licenses/lgpl.html)
 [Phalcon Framework](http://phalconphp.com/en/) | https://github.com/phalcon/cphalcon | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
-[polyframework](http://polymedio.github.io/polyframework/) | https://github.com/polymedio/polyframework | [BSD3](http://opensource.org/licenses/BSD-3-Clausebs)
+[polyframework](http://polymedio.github.io/polyframework/) | https://github.com/polymedio/polyframework | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
 [Respect\Rest](http://github.com/Respect/Rest) | http://github.com/Respect/Rest | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
 [Silex](http://silex.sensiolabs.org/) | https://github.com/silexphp/Silex | [MIT](http://opensource.org/licenses/MIT)
 [Slim](http://slimframework.com/) | https://github.com/codeguy/Slim | [MIT](http://opensource.org/licenses/MIT)
@@ -97,15 +97,15 @@ Name | Repository | License
 [Yaf](http://www.yafdev.com/) | https://github.com/laruence/php-yaf | [PHP License v3.01](http://www.php.net/license/3_01.txt)
 
 ## Web framework for Python
-Name |  PIP Install | Repository | License
+Name | PIP Install | Repository | License
 --- | --- | --- | ---
 [Bobo](http://bobo.digicool.com/) | pip install bobo | https://github.com/zopefoundation/bobo | [ZPL 2.1](https://en.wikipedia.org/wiki/Zope_Public_License)
 [Bottle](http://bottlepy.org/docs/dev/) | \[sudo\] pip install bottle | https://github.com/defnull/bottle | [MIT](https://en.wikipedia.org/wiki/MIT_License)
 [CherryPy](http://www.cherrypy.org/) | pip install CherryPy | https://bitbucket.org/cherrypy/cherrypy/overview | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Cyclone](http://cyclone.io/) | pip install cyclone | https://github.com/fiorix/cyclone | [Apache License 2.0](http://www.apache.org/licenses/)
 [Flask](http://flask.pocoo.org/) | pip install Flask | https://github.com/mitsuhiko/flask | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
-[itty-bitty](https://github.com/toastdriven/itty/) | pip install itty | https://github.com/toastdriven/itty/ | [BSD](Link)
-[Klein](https://github.com/twisted/klein) | pip install klein | https://github.com/twisted/klein | [MIT](https://en.wikipedia.org/wiki/MIT_License) 
+[itty-bitty](https://github.com/toastdriven/itty/) | pip install itty | https://github.com/toastdriven/itty/ | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
+[Klein](https://github.com/twisted/klein) | pip install klein | https://github.com/twisted/klein | [MIT](https://en.wikipedia.org/wiki/MIT_License)
 [ObjectWeb](https://github.com/aisola/ObjectWeb) | Unknown | https://github.com/aisola/ObjectWeb | [LGPLv3](https://www.gnu.org/licenses/lgpl.html)
 [Pyramid](http://www.pylonsproject.org/) | pip install pyramid | https://github.com/Pylons/pyramid | [BSD-derived](http://www.repoze.org/LICENSE.txt)
 [Tornado](http://www.tornadoweb.org/en/stable/) | pip install tornado | https://github.com/facebook/tornado | [Apache License 2.0](http://www.apache.org/licenses/)
@@ -126,13 +126,13 @@ Name | Gem Install | Repository | License
 [Sinatra](http://www.sinatrarb.com/) | gem install sinatra | https://github.com/sinatra/sinatra/ | [MIT](http://opensource.org/licenses/MIT)
 
 ## Web framework for Scala
-Name | Repository | License 
+Name | Repository | License
 --- | --- | ---
 [Play Framework](http://www.playframework.com/) | https://github.com/playframework/playframework | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Spray](http://spray.io) | https://github.com/spray/spray |  [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Web framework for .NET (C#)
-Name | Repository | License 
---- | --- | --- | --- 
+Name | Repository | License
+--- | --- | --- | ---
 [Aurora](https://github.com/frankhale/aurora) | https://github.com/frankhale/aurora | [GPL](http://opensource.org/licenses/gpl-3.0.html)
 [Nancy](http://nancyfx.org/) | https://github.com/NancyFx/Nancy/ | [MIT](http://opensource.org/licenses/MIT)
