@@ -117,6 +117,7 @@ Name | PIP Install | Repository | License
 [Tornado](http://www.tornadoweb.org/en/stable/) | pip install tornado | https://github.com/facebook/tornado | [Apache License 2.0](http://www.apache.org/licenses/)
 [web.py](http://webpy.org/) | \[sudo\] pip install web.py | https://github.com/webpy/webpy | Public domain
 [wheezy.web](http://pythonhosted.org/wheezy.web/) | pip install wheezy.web | https://bitbucket.org/akorn/wheezy.web | [MIT](https://en.wikipedia.org/wiki/MIT_License)
+[Django](https://www.djangoproject.com/) | pip install Django | https://github.com/django/django | [BSD](https://en.wikipedia.org/wiki/BSD_License)
 
 ## Web framework for Ruby
 Name | Gem Install | Repository | License
