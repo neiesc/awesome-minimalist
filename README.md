@@ -3,7 +3,7 @@ List of minimalist frameworks
 A list of minimalist frameworks (simple and lightweight). All in alphabetical order.
 
 ## Framework for CSS
-Use http://refresh-sf.com/yui/ to compress, and get size "after compression"/1024 = KiB
+Use http://refresh-sf.com/yui/ to compress, and get size "after compression and gzip"/1024 = KiB
 
 Name | Minimum size (base) | Repository | License
 --- | --- | --- | ---
