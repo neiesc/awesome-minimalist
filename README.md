@@ -31,10 +31,10 @@ Name | Repository | License
 Name | Bower Install | Repository | License
 --- | --- | --- | ---
 [Aura](http://aurajs.com/) | bower install aura | https://github.com/aurajs/aura | [MIT](http://opensource.org/licenses/MIT)
-[kraken](http://cferdinandi.github.io/kraken/) | Unknown | https://github.com/cferdinandi/kraken | [MIT](http://opensource.org/licenses/MIT)
-[min.js](https://github.com/remy/min.js) | Unknown | https://github.com/remy/min.js | [MIT](http://opensource.org/licenses/MIT)
+[Kraken](http://cferdinandi.github.io/kraken/) | Unknown | https://github.com/cferdinandi/kraken | [MIT](http://opensource.org/licenses/MIT)
+[Min.js](https://github.com/remy/min.js) | Unknown | https://github.com/remy/min.js | [MIT](http://opensource.org/licenses/MIT)
 [Responsive](http://jimbobsquarepants.github.io/Responsive/) | Unknown | https://github.com/JimBobSquarePants/Responsive | [MIT](http://opensource.org/licenses/MIT)
-[scaleApp](http://scaleapp.org/) | bower install scaleapp | https://github.com/flosse/scaleApp | [MIT](http://opensource.org/licenses/MIT)
+[ScaleApp](http://scaleapp.org/) | bower install scaleapp | https://github.com/flosse/scaleApp | [MIT](http://opensource.org/licenses/MIT)
 [Spine](http://spinejs.com/) | bower install spine | https://github.com/spine/spine | [MIT](http://opensource.org/licenses/MIT)
 [Stapes](http://hay.github.io/stapes) | bower install stapes | http://github.com/hay/stapes | [MIT](http://opensource.org/licenses/MIT)
 
@@ -42,7 +42,7 @@ Name | Bower Install | Repository | License
 Name | Repository | License
 --- | --- | ---
 [Beego Framework](http://beego.me/) | https://github.com/astaxie/beego | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-[gocraft/web](https://github.com/gocraft/web) | https://github.com/gocraft/web | [MIT](http://opensource.org/licenses/MIT)
+[Gocraft/web](https://github.com/gocraft/web) | https://github.com/gocraft/web | [MIT](http://opensource.org/licenses/MIT)
 [Martini](http://martini.codegangsta.io) | https://github.com/codegangsta/martini | [MIT](http://opensource.org/licenses/MIT)
 
 ## Web framework for Haskell
@@ -71,7 +71,7 @@ Name | NPM Install | Repository | License
 [Express.js](http://expressjs.com) | \[sudo\] npm install express | https://github.com/visionmedia/express | [MIT](http://opensource.org/licenses/MIT)
 [Flatiron](http://flatironjs.org) | \[sudo\] npm install -g flatiron | https://github.com/flatiron | [MIT](http://opensource.org/licenses/MIT)
 [Hapi](http://spumko.github.io)| npm install hapi | https://github.com/spumko/hapi | Unknown
-[koa](https://github.com/koajs/koa) | \[sudo\] npm install koajs | https://github.com/koajs/koa | [MIT](http://opensource.org/licenses/MIT)
+[Koa](https://github.com/koajs/koa) | \[sudo\] npm install koajs | https://github.com/koajs/koa | [MIT](http://opensource.org/licenses/MIT)
 [Meryl](https://github.com/kadirpekel/meryl) | npm install meryl | https://github.com/kadirpekel/meryl | [MIT](http://opensource.org/licenses/MIT)
 [Partial.js](http://www.partialjs.com) | \[sudo\] npm install -g partial.js| https://github.com/petersirka/partial.js| [MIT](http://opensource.org/licenses/MIT)
 [Restify](http://mcavage.me/node-restify) | npm install restify | https://github.com/mcavage/node-restify | [MIT](http://opensource.org/licenses/MIT)
@@ -118,8 +118,8 @@ Name | PIP Install | Repository | License
 [ObjectWeb](https://github.com/aisola/ObjectWeb) | Unknown | https://github.com/aisola/ObjectWeb | [LGPLv3](https://www.gnu.org/licenses/lgpl.html)
 [Pyramid](http://www.pylonsproject.org/) | pip install pyramid | https://github.com/Pylons/pyramid | [BSD-derived](http://www.repoze.org/LICENSE.txt)
 [Tornado](http://www.tornadoweb.org/en/stable/) | pip install tornado | https://github.com/facebook/tornado | [Apache License 2.0](http://www.apache.org/licenses/)
-[web.py](http://webpy.org/) | \[sudo\] pip install web.py | https://github.com/webpy/webpy | Public domain
-[wheezy.web](http://pythonhosted.org/wheezy.web/) | pip install wheezy.web | https://bitbucket.org/akorn/wheezy.web | [MIT](https://en.wikipedia.org/wiki/MIT_License)
+[Web.py](http://webpy.org/) | \[sudo\] pip install web.py | https://github.com/webpy/webpy | Public domain
+[Wheezy.web](http://pythonhosted.org/wheezy.web/) | pip install wheezy.web | https://bitbucket.org/akorn/wheezy.web | [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 ## Web framework for Ruby
 Name | Gem Install | Repository | License
