@@ -8,10 +8,12 @@ Use http://refresh-sf.com/yui/ to compress, and get size "after compression and 
 Name | Minimum size (base) | Repository | License
 --- | --- | --- | ---
 [Atatonic](http://atatonic.timbenniks.nl/) | 5.1 KiB (minified) | http://code.google.com/p/atatonic-css-framwork/ | [MIT](http://opensource.org/licenses/mit-license.php)
+[Cascade Framework](http://www.cascade-framework.com/) | 10.6 KiB (all modules) | https://github.com/jslegers/cascadeframework | [MIT](http://opensource.org/licenses/MIT)
+[Cascade Framework Light](http://jslegers.github.io/cascadeframeworklight/) | 2.0 KiB (all modules) | https://github.com/jslegers/cascadeframeworklight | [MIT](http://opensource.org/licenses/MIT)
 [Concrete](http://davidlumley.github.io/concrete/) | 3.2 KiB | https://github.com/davidlumley/concrete | [MIT](http://opensource.org/licenses/MIT)
 [KNACSS](http://knacss.com/) | 13.2 KiB (all modules) | https://github.com/raphaelgoetter/KNACSS | [WTFPL](https://en.wikipedia.org/wiki/WTFPL)
 [Kube](http://imperavi.com/kube/) | 15.2 KiB | https://github.com/sashka/kube | Unknown
-[min](http://minfwk.com/) | 0.9 KiB (minified and gzipped) | https://github.com/owenversteeg/min | [MIT](http://opensource.org/licenses/MIT)
+[Min](http://minfwk.com/) | 0.9 KiB (minified and gzipped) | https://github.com/owenversteeg/min | [MIT](http://opensource.org/licenses/MIT)
 [Mistype](https://github.com/ZDroid/mistype) | 2.1 KiB | https://github.com/ZDroid/mistype | [MIT](http://opensource.org/licenses/MIT)
 [PocketGrid](http://arnaudleray.github.io/pocketgrid/) | 0.5 KiB | https://github.com/arnaudleray/pocketgrid | [MIT](http://opensource.org/licenses/MIT)
 [Pure](http://purecss.io/) | 4.3 KiB (gzipped) | https://github.com/yui/pure | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
@@ -29,9 +31,10 @@ Name | Repository | License
 Name | Bower Install | Repository | License
 --- | --- | --- | ---
 [Aura](http://aurajs.com/) | bower install aura | https://github.com/aurajs/aura | [MIT](http://opensource.org/licenses/MIT)
-[kraken](http://cferdinandi.github.io/kraken/) | Unknown | https://github.com/cferdinandi/kraken | [MIT](http://opensource.org/licenses/MIT)
+[Kraken](http://cferdinandi.github.io/kraken/) | Unknown | https://github.com/cferdinandi/kraken | [MIT](http://opensource.org/licenses/MIT)
+[Min.js](https://github.com/remy/min.js) | Unknown | https://github.com/remy/min.js | [MIT](http://opensource.org/licenses/MIT)
 [Responsive](http://jimbobsquarepants.github.io/Responsive/) | Unknown | https://github.com/JimBobSquarePants/Responsive | [MIT](http://opensource.org/licenses/MIT)
-[scaleApp](http://scaleapp.org/) | bower install scaleapp | https://github.com/flosse/scaleApp | [MIT](http://opensource.org/licenses/MIT)
+[ScaleApp](http://scaleapp.org/) | bower install scaleapp | https://github.com/flosse/scaleApp | [MIT](http://opensource.org/licenses/MIT)
 [Spine](http://spinejs.com/) | bower install spine | https://github.com/spine/spine | [MIT](http://opensource.org/licenses/MIT)
 [Stapes](http://hay.github.io/stapes) | bower install stapes | http://github.com/hay/stapes | [MIT](http://opensource.org/licenses/MIT)
 
@@ -39,7 +42,7 @@ Name | Bower Install | Repository | License
 Name | Repository | License
 --- | --- | ---
 [Beego Framework](http://beego.me/) | https://github.com/astaxie/beego | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-[gocraft/web](https://github.com/gocraft/web) | https://github.com/gocraft/web | [MIT](http://opensource.org/licenses/MIT)
+[Gocraft/web](https://github.com/gocraft/web) | https://github.com/gocraft/web | [MIT](http://opensource.org/licenses/MIT)
 [Martini](http://martini.codegangsta.io) | https://github.com/codegangsta/martini | [MIT](http://opensource.org/licenses/MIT)
 
 ## Web framework for Haskell
@@ -68,9 +71,9 @@ Name | NPM Install | Repository | License
 [Express.js](http://expressjs.com) | \[sudo\] npm install express | https://github.com/visionmedia/express | [MIT](http://opensource.org/licenses/MIT)
 [Flatiron](http://flatironjs.org) | \[sudo\] npm install -g flatiron | https://github.com/flatiron | [MIT](http://opensource.org/licenses/MIT)
 [Hapi](http://spumko.github.io)| npm install hapi | https://github.com/spumko/hapi | Unknown
-[koa](https://github.com/koajs/koa) | \[sudo\] npm install koajs | https://github.com/koajs/koa | [MIT](http://opensource.org/licenses/MIT)
+[Koa](https://github.com/koajs/koa) | \[sudo\] npm install koajs | https://github.com/koajs/koa | [MIT](http://opensource.org/licenses/MIT)
 [Meryl](https://github.com/kadirpekel/meryl) | npm install meryl | https://github.com/kadirpekel/meryl | [MIT](http://opensource.org/licenses/MIT)
-[partial.js](http://www.partialjs.com) | \[sudo\] npm install -g partial.js| https://github.com/petersirka/partial.js| [MIT](http://opensource.org/licenses/MIT)
+[Partial.js](http://www.partialjs.com) | \[sudo\] npm install -g partial.js| https://github.com/petersirka/partial.js| [MIT](http://opensource.org/licenses/MIT)
 [Restify](http://mcavage.me/node-restify) | npm install restify | https://github.com/mcavage/node-restify | [MIT](http://opensource.org/licenses/MIT)
 [SocketStream](http://www.socketstream.org) | \[sudo\] npm install -g socketstream | https://github.com/socketstream/socketstream | [MIT](https://github.com/socketstream/socketstream/blob/master/LICENSE)
 [Sails.js](http://sailsjs.org) | \[sudo\]npm -g install sails | https://github.com/balderdashy/sails | [MIT](https://github.com/balderdashy/sails/blob/master/LICENSE.md)
@@ -110,13 +113,13 @@ Name | PIP Install | Repository | License
 [CherryPy](http://www.cherrypy.org/) | pip install CherryPy | https://bitbucket.org/cherrypy/cherrypy/overview | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Cyclone](http://cyclone.io/) | pip install cyclone | https://github.com/fiorix/cyclone | [Apache License 2.0](http://www.apache.org/licenses/)
 [Flask](http://flask.pocoo.org/) | pip install Flask | https://github.com/mitsuhiko/flask | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
-[itty-bitty](https://github.com/toastdriven/itty/) | pip install itty | https://github.com/toastdriven/itty/ | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
+[Itty-Bitty](https://github.com/toastdriven/itty/) | pip install itty | https://github.com/toastdriven/itty/ | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
 [Klein](https://github.com/twisted/klein) | pip install klein | https://github.com/twisted/klein | [MIT](https://en.wikipedia.org/wiki/MIT_License)
 [ObjectWeb](https://github.com/aisola/ObjectWeb) | Unknown | https://github.com/aisola/ObjectWeb | [LGPLv3](https://www.gnu.org/licenses/lgpl.html)
 [Pyramid](http://www.pylonsproject.org/) | pip install pyramid | https://github.com/Pylons/pyramid | [BSD-derived](http://www.repoze.org/LICENSE.txt)
 [Tornado](http://www.tornadoweb.org/en/stable/) | pip install tornado | https://github.com/facebook/tornado | [Apache License 2.0](http://www.apache.org/licenses/)
-[web.py](http://webpy.org/) | \[sudo\] pip install web.py | https://github.com/webpy/webpy | Public domain
-[wheezy.web](http://pythonhosted.org/wheezy.web/) | pip install wheezy.web | https://bitbucket.org/akorn/wheezy.web | [MIT](https://en.wikipedia.org/wiki/MIT_License)
+[Web.py](http://webpy.org/) | \[sudo\] pip install web.py | https://github.com/webpy/webpy | Public domain
+[Wheezy.web](http://pythonhosted.org/wheezy.web/) | pip install wheezy.web | https://bitbucket.org/akorn/wheezy.web | [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 ## Web framework for Ruby
 Name | Gem Install | Repository | License
