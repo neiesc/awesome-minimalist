@@ -2,6 +2,22 @@ List of minimalist frameworks
 =========================
 A list of minimalist frameworks (simple and lightweight). All in alphabetical order.
 
+###Index
+* [Framework for CSS](#framework-for-css)
+* [Web Framework for C](#web-framework-for-c)
+* [Frameworks for Front-end JS](#frameworks-for-front-end-js)
+* [Web framework for Go](#web-framework-for-go)
+* [Web framework for Haskell](#web-framework-for-haskell)
+* [Web framework for Java](#web-framework-for-java)
+* [Web framework for Javascript](#web-framework-for-javascript)
+* [Web framework for Node.js](#web-framework-for-nodejs)
+* [Web framework for Perl](#web-framework-for-perl)
+* [Web framework for PHP](#web-framework-for-php)
+* [Web framework for Python](#web-framework-for-python)
+* [Web framework for Ruby](#web-framework-for-ruby)
+* [Web framework for Scala](#web-framework-for-scala)
+* [Web framework for .NET (C#)](#web-framework-for-net-c)
+
 ## Framework for CSS
 Use http://refresh-sf.com/yui/ to compress, and get size "after compression and gzip"/1024 = KiB
 
