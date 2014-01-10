@@ -134,6 +134,7 @@ Name | PIP Install | Repository | License
 [Itty-Bitty](https://github.com/toastdriven/itty/) | pip install itty | https://github.com/toastdriven/itty/ | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
 [Klein](https://github.com/twisted/klein) | pip install klein | https://github.com/twisted/klein | [MIT](https://en.wikipedia.org/wiki/MIT_License)
 [ObjectWeb](https://github.com/aisola/ObjectWeb) | Unknown | https://github.com/aisola/ObjectWeb | [LGPLv3](https://www.gnu.org/licenses/lgpl.html)
+[Pecan](http://pecanpy.org/) | pip install pecan | https://github.com/stackforge/pecan | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Pyramid](http://www.pylonsproject.org/) | pip install pyramid | https://github.com/Pylons/pyramid | [BSD-derived](http://www.repoze.org/LICENSE.txt)
 [Tornado](http://www.tornadoweb.org/en/stable/) | pip install tornado | https://github.com/facebook/tornado | [Apache License 2.0](http://www.apache.org/licenses/)
 [Web.py](http://webpy.org/) | \[sudo\] pip install web.py | https://github.com/webpy/webpy | Public domain
