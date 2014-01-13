@@ -144,9 +144,11 @@ Name | PIP Install | Repository | License
 ## Web framework for Ruby
 Name | Gem Install | Repository | License
 --- | --- | --- | ---
+[Brooklyn](https://github.com/luislavena/brooklyn) | gem install brooklyn | https://github.com/luislavena/brooklyn | [MIT](http://opensource.org/licenses/MIT)
 [Camping](http://camping.io/) | gem install camping | http://github.com/camping/camping | [MIT](http://opensource.org/licenses/MIT)
 [Cuba](http://cuba.is/) | gem install cuba | https://github.com/soveran/cuba | [MIT](http://opensource.org/licenses/MIT)
 [Grape](http://intridea.github.io/grape) | gem install grape | https://github.com/intridea/grape | [MIT](http://opensource.org/licenses/MIT)
+[Hobbit](https://github.com/patriciomacadden/hobbit) | gem install hobbit | https://github.com/patriciomacadden/hobbit | [MIT](http://opensource.org/licenses/MIT)
 [Kenji](https://github.com/kballenegger/kenji) | gem install kenji | https://github.com/kballenegger/Kenji | [Azure](http://license.azuretalon.com/)
 [Nancy](http://guilleiguaran.github.io/nancy) | gem install nancy | https://github.com/guilleiguaran/nancy | [MIT](http://opensource.org/licenses/MIT)
 [New York, New York](http://alisnic.github.io/nyny/) | gem install nyny | https://github.com/alisnic/nyny | [MIT](http://opensource.org/licenses/MIT)
