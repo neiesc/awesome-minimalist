@@ -23,6 +23,7 @@ Use http://refresh-sf.com/yui/ to compress, and get size "after compression and 
 
 Name | Minimum size (base) | Repository | License
 --- | --- | --- | ---
+[iceCream] (http://html5-ninja.com/icecream/) | 1.8 Kib (minified) | http://html5-ninja.com/icecream/ | [WTFPL](https://en.wikipedia.org/wiki/WTFPL)
 [Atatonic](http://atatonic.timbenniks.nl/) | 5.1 KiB (minified) | http://code.google.com/p/atatonic-css-framwork/ | [MIT](http://opensource.org/licenses/mit-license.php)
 [Cascade Framework](http://www.cascade-framework.com/) | 10.6 KiB (all modules) | https://github.com/jslegers/cascadeframework | [MIT](http://opensource.org/licenses/MIT)
 [Cascade Framework Light](http://jslegers.github.io/cascadeframeworklight/) | 2.0 KiB (all modules) | https://github.com/jslegers/cascadeframeworklight | [MIT](http://opensource.org/licenses/MIT)
