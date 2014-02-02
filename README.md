@@ -10,6 +10,7 @@ A list of minimalist frameworks (simple and lightweight). All in alphabetical or
 * [Web framework for Haskell](#web-framework-for-haskell)
 * [Web framework for Java](#web-framework-for-java)
 * [Web framework for Javascript](#web-framework-for-javascript)
+* [Web framework for Lua](#web-framework-for-lua)
 * [Web framework for Node.js](#web-framework-for-nodejs)
 * [Web framework for Perl](#web-framework-for-perl)
 * [Web framework for PHP](#web-framework-for-php)
@@ -83,6 +84,12 @@ Name | Repository | License
 Name | Repository | License
 --- | --- | --- | ---
 [Meteor](https://www.meteor.com) | https://github.com/meteor/meteor | [MIT](http://opensource.org/licenses/MIT)
+
+## Web Framework for Lua
+Name | Bower Install | Repository | License
+--- | --- | --- | ---
+[Lapis](http://leafo.net/lapis/) | luarocks install lapis | https://github.com/leafo/lapis | [MIT](http://opensource.org/licenses/MIT)
+
 
 ## Web framework for Node.js
 Name | NPM Install | Repository | License
