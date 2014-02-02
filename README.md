@@ -173,6 +173,7 @@ Name | Repository | License
 [Play Framework](http://www.playframework.com/) | https://github.com/playframework/playframework | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Scalatra](http://scalatra.org) | https://github.com/scalatra/scalatra | [BSD](http://opensource.org/licenses/bsd-license.php)
 [Spray](http://spray.io) | https://github.com/spray/spray |  [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Unfiltered](http://unfiltered.databinder.net/Unfiltered.html) | https://github.com/unfiltered/unfiltered | [MIT](https://github.com/unfiltered/unfiltered/blob/master/LICENSE)
 
 ## Web framework for .NET (C#)
 Name | Repository | License
