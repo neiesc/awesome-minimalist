@@ -135,6 +135,7 @@ Name | PIP Install | Repository | License
 [Flask](http://flask.pocoo.org/) | pip install Flask | https://github.com/mitsuhiko/flask | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Itty-Bitty](https://github.com/toastdriven/itty/) | pip install itty | https://github.com/toastdriven/itty/ | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
 [Klein](https://github.com/twisted/klein) | pip install klein | https://github.com/twisted/klein | [MIT](https://en.wikipedia.org/wiki/MIT_License)
+[Morepath](http://morepath.readthedocs.org) | pip install morepath | https://github.com/morepath/morepath | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
 [ObjectWeb](https://github.com/aisola/ObjectWeb) | Unknown | https://github.com/aisola/ObjectWeb | [LGPLv3](https://www.gnu.org/licenses/lgpl.html)
 [Pecan](http://pecanpy.org/) | pip install pecan | https://github.com/stackforge/pecan | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Pyramid](http://www.pylonsproject.org/) | pip install pyramid | https://github.com/Pylons/pyramid | [BSD-derived](http://www.repoze.org/LICENSE.txt)
