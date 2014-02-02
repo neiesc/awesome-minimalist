@@ -25,7 +25,7 @@ Use http://refresh-sf.com/yui/ to compress, and get size "after compression and 
 Name | Minimum size (base) | Repository | License
 --- | --- | --- | ---
 [Atatonic](http://atatonic.timbenniks.nl/) | 5.1 KiB (minified) | http://code.google.com/p/atatonic-css-framwork/ | [MIT](http://opensource.org/licenses/mit-license.php)
-[Bijou](https://github.com/andhart/bijou) | 1.5 KiB (minified and gzipped) | https://github.com/andhart/bijou | [MIT](http://opensource.org/licenses/mit-license.php)
+[Bijou](https://github.com/andhart/bijou) | 1.065 KiB (minified and gzipped) | https://github.com/andhart/bijou | [MIT](http://opensource.org/licenses/mit-license.php)
 [Cardinal](http://cardinalcss.com) | 4.25 KiB (minified and gzipped) | https://github.com/cbracco/cardinal | [MIT](http://opensource.org/licenses/mit-license.php)
 [Cascade Framework](http://www.cascade-framework.com/) | 10.6 KiB (all modules) | https://github.com/jslegers/cascadeframework | [MIT](http://opensource.org/licenses/MIT)
 [Cascade Framework Light](http://jslegers.github.io/cascadeframeworklight/) | 2.0 KiB (all modules) | https://github.com/jslegers/cascadeframeworklight | [MIT](http://opensource.org/licenses/MIT)
