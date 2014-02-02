@@ -100,7 +100,7 @@ Name | NPM Install | Repository | License
 [Hapi](http://spumko.github.io)| npm install hapi | https://github.com/spumko/hapi | Unknown
 [Koa](https://github.com/koajs/koa) | \[sudo\] npm install koajs | https://github.com/koajs/koa | [MIT](http://opensource.org/licenses/MIT)
 [Meryl](https://github.com/kadirpekel/meryl) | npm install meryl | https://github.com/kadirpekel/meryl | [MIT](http://opensource.org/licenses/MIT)
-[total.js](http://www.partialjs.com) | npm install total.js | https://github.com/totaljs/framework | [MIT](http://opensource.org/licenses/MIT)
+[total.js](http://www.totaljs.com) | npm install total.js | https://github.com/totaljs/framework | [MIT](http://opensource.org/licenses/MIT)
 [Restify](http://mcavage.me/node-restify) | npm install restify | https://github.com/mcavage/node-restify | [MIT](http://opensource.org/licenses/MIT)
 [SocketStream](http://www.socketstream.org) | \[sudo\] npm install -g socketstream | https://github.com/socketstream/socketstream | [MIT](https://github.com/socketstream/socketstream/blob/master/LICENSE)
 [Sails.js](http://sailsjs.org) | \[sudo\]npm -g install sails | https://github.com/balderdashy/sails | [MIT](https://github.com/balderdashy/sails/blob/master/LICENSE.md)
