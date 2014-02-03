@@ -112,7 +112,7 @@ Name | NPM Install | Repository | License
 ## Web framework for Perl
 Name | cpan install | Repository | License
 --- | --- | --- | --- | ---
-[Dancer](http://www.perldancer.org]) | cpan Dancer | https://github.com/PerlDancer/Dancer | [Artistic](http://en.wikipedia.org/wiki/Artistic_License) or [GPL v.1](http://en.wikipedia.org/wiki/GNU_General_Public_License#Version_1)
+[Dancer](http://www.perldancer.org) | cpan Dancer | https://github.com/PerlDancer/Dancer | [Artistic](http://en.wikipedia.org/wiki/Artistic_License) or [GPL v.1](http://en.wikipedia.org/wiki/GNU_General_Public_License#Version_1)
 [Mojolicious](ihttp://mojolicio.us) | cpan Mojolicious | https://github.com/kraih/mojo | [Artistic 2.0](ihttp://en.wikipedia.org/wiki/Artistic_License#Artistic_License_2.0)
 
 ## Web framework for PHP
