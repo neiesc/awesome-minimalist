@@ -46,8 +46,8 @@ Name | Minimum size (base) | Repository | License
 
 Name | Repository | License
 --- | --- | ---
-[Raphters](https://github.com/DanielWaterworth/Raphters) | https://github.com/DanielWaterworth/Raphters | [GPL]((http://opensource.org/licenses/gpl-3.0.html)
 [go-horse](https://github.com/gabrielfalcao/go-horse) | https://github.com/gabrielfalcao/go-horse | [MIT]((http://opensource.org/licenses/MIT)
+[Raphters](https://github.com/DanielWaterworth/Raphters) | https://github.com/DanielWaterworth/Raphters | [GPL]((http://opensource.org/licenses/gpl-3.0.html)
 
 ## Frameworks for Front-end JS
 Name | Bower Install | Repository | License
