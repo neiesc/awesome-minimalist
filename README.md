@@ -9,7 +9,7 @@ A list of minimalist frameworks (simple and lightweight). All in alphabetical or
 * [Web framework for Go](#web-framework-for-go)
 * [Web framework for Haskell](#web-framework-for-haskell)
 * [Web framework for Java](#web-framework-for-java)
-* [Web framework for Javascript](#web-framework-for-javascript)
+* [Web framework for JavaScript](#web-framework-for-javascript)
 * [Web framework for Lua](#web-framework-for-lua)
 * [Web framework for Node.js](#web-framework-for-nodejs)
 * [Web framework for Perl](#web-framework-for-perl)
@@ -84,7 +84,7 @@ Name | Repository | License
 [Spark](http://www.sparkjava.com/) | https://github.com/perwendel/spark | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Stapler](http://stapler.kohsuke.org/) | https://github.com/stapler/stapler | [BSD](http://opensource.org/licenses/bsd-license.php)
 
-## Web framework for Javascript
+## Web framework for JavaScript
 Name | Repository | License
 --- | --- | --- | ---
 [Meteor](https://www.meteor.com) | https://github.com/meteor/meteor | [MIT](http://opensource.org/licenses/MIT)
