@@ -88,6 +88,7 @@ Name | Repository | License
 Name | Repository | License
 --- | --- | --- | ---
 [Meteor](https://www.meteor.com) | https://github.com/meteor/meteor | [MIT](http://opensource.org/licenses/MIT)
+[stapes](http://hay.github.io/stapes/) | https://github.com/hay/stapes
 
 ## Web Framework for Lua
 Name | Bower Install | Repository | License
