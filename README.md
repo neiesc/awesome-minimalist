@@ -56,7 +56,7 @@ Name | Bower Install | Repository | License
 [Kraken](http://cferdinandi.github.io/kraken/) | Unknown | https://github.com/cferdinandi/kraken | [MIT](http://opensource.org/licenses/MIT)
 [Min.js](https://github.com/remy/min.js) | Unknown | https://github.com/remy/min.js | [MIT](http://opensource.org/licenses/MIT)
 [Reactive.coffee](http://yang.github.io/reactive-coffee/) | bower install reactive-coffee | https://github.com/yang/reactive-coffee | [MIT](http://opensource.org/licenses/MIT)
-[Responsive](http://jimbobsquarepants.github.io/Responsive/) | Unknown | https://github.com/JimBobSquarePants/Responsive | [MIT](http://opensource.org/licenses/MIT)
+[Responsive](http://http://responsivebp.com/) | Unknown | https://github.com/ResponsiveBP/Responsive | [MIT](http://opensource.org/licenses/MIT)
 [ScaleApp](http://scaleapp.org/) | bower install scaleapp | https://github.com/flosse/scaleApp | [MIT](http://opensource.org/licenses/MIT)
 [skelJS](http://skeljs.org/) | Unknown | https://github.com/n33/skelJS | [MIT](http://opensource.org/licenses/MIT)
 [Spine](http://spinejs.com/) | bower install spine | https://github.com/spine/spine | [MIT](http://opensource.org/licenses/MIT)
