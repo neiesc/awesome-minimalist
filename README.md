@@ -88,7 +88,6 @@ Name | Repository | License
 ## Web framework for JavaScript
 Name | Repository | License
 --- | --- | --- | ---
-[Meteor](https://www.meteor.com) | https://github.com/meteor/meteor | [MIT](http://opensource.org/licenses/MIT)
 [Stapes](http://hay.github.io/stapes/) | https://github.com/hay/stapes | [MIT](http://opensource.org/licenses/MIT)
 
 ## Web Framework for Lua
