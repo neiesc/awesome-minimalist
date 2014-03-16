@@ -5,6 +5,7 @@ A list of minimalist frameworks (simple and lightweight). All in alphabetical or
 ###Index
 * [Framework for CSS](#framework-for-css)
 * [Web Framework for C](#web-framework-for-c)
+* [Database framework for PHP](#database-framework-for-php)
 * [Frameworks for Front-end JS](#frameworks-for-front-end-js)
 * [Web framework for Go](#web-framework-for-go)
 * [Web framework for Haskell](#web-framework-for-haskell)
@@ -48,6 +49,11 @@ Name | Repository | License
 --- | --- | ---
 [go-horse](https://github.com/gabrielfalcao/go-horse) | https://github.com/gabrielfalcao/go-horse | [MIT]((http://opensource.org/licenses/MIT)
 [Raphters](https://github.com/DanielWaterworth/Raphters) | https://github.com/DanielWaterworth/Raphters | [GPL]((http://opensource.org/licenses/gpl-3.0.html)
+
+## Database framework for PHP
+Name | Minimum size (base) | Repository | License
+--- | --- | --- | ---
+[Medoo](http://medoo.in/) | 10KB | https://github.com/catfan/Medoo | [MIT](http://opensource.org/licenses/MIT)
 
 ## Frameworks for Front-end JS
 Name | Bower Install | Repository | License
