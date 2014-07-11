@@ -172,6 +172,7 @@ Name | Gem Install | Repository | License
 [Crepe](https://github.com/crepe/crepe) | gem install crepe --pre | https://github.com/stephencelis/crepe | [MIT](http://opensource.org/licenses/MIT)
 [Hobbit](https://github.com/patriciomacadden/hobbit) | gem install hobbit | https://github.com/patriciomacadden/hobbit | [MIT](http://opensource.org/licenses/MIT)
 [Kenji](https://github.com/kballenegger/kenji) | gem install kenji | https://github.com/kballenegger/Kenji | [Azure](http://license.azuretalon.com/)
+[Lotus](http://lotusrb.org/) | gem install lotusrb | https://github.com/lotus/lotus | [MIT](http://opensource.org/licenses/MIT)
 [Nancy](http://guilleiguaran.github.io/nancy) | gem install nancy | https://github.com/guilleiguaran/nancy | [MIT](http://opensource.org/licenses/MIT)
 [New York, New York](http://alisnic.github.io/nyny/) | gem install nyny | https://github.com/alisnic/nyny | [MIT](http://opensource.org/licenses/MIT)
 [Padrino](http://www.padrinorb.com/) | gem install padrino | https://github.com/padrino/padrino-framework | [MIT](http://opensource.org/licenses/MIT)
