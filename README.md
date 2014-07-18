@@ -166,6 +166,7 @@ Name | PIP Install | Repository | License
 Name | Gem Install | Repository | License
 --- | --- | --- | ---
 [Brooklyn](https://github.com/luislavena/brooklyn) | gem install brooklyn | https://github.com/luislavena/brooklyn | [MIT](http://opensource.org/licenses/MIT)
+[Busker](https://github.com/pachacamac/busker) | gem install busker | https://github.com/pachacamac/busker | [MIT](http://opensource.org/licenses/MIT)
 [Camping](http://camping.io/) | gem install camping | http://github.com/camping/camping | [MIT](http://opensource.org/licenses/MIT)
 [Cuba](http://cuba.is/) | gem install cuba | https://github.com/soveran/cuba | [MIT](http://opensource.org/licenses/MIT)
 [Grape](http://intridea.github.io/grape) | gem install grape | https://github.com/intridea/grape | [MIT](http://opensource.org/licenses/MIT)
