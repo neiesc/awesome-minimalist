@@ -85,6 +85,7 @@ Name | Cabal Install | Repository | License
 ## Web framework for Java
 Name | Repository | License
 --- | --- | ---
+[Ninja Framework](http://www.ninjaframework.org/) | https://github.com/ninjaframework/ninja | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Play Framework](http://www.playframework.com/) | https://github.com/playframework/playframework | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Restlet](http://restlet.org) | https://github.com/restlet/restlet-framework-java | [Apache License V2](http://opensource.org/licenses/apache-2.0)
 [RestX](http://restx.io/) | https://github.com/restx/restx | [Apache License V2](http://opensource.org/licenses/apache-2.0)
