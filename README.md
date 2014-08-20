@@ -162,6 +162,7 @@ Name | PIP Install | Repository | License
 [Tornado](http://www.tornadoweb.org/en/stable/) | pip install tornado | https://github.com/facebook/tornado | [Apache License 2.0](http://www.apache.org/licenses/)
 [Web.py](http://webpy.org/) | \[sudo\] pip install web.py | https://github.com/webpy/webpy | Public domain
 [Wheezy.web](http://pythonhosted.org/wheezy.web/) | pip install wheezy.web | https://bitbucket.org/akorn/wheezy.web | [MIT](https://en.wikipedia.org/wiki/MIT_License)
+[Falcon](http://falconframework.org/) | pip install falcon | https://github.com/racker/falcon | [Apache License 2.0](http://www.apache.org/licenses/)
 
 ## Web framework for Ruby
 Name | Gem Install | Repository | License
