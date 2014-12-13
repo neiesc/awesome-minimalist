@@ -143,8 +143,11 @@ Name | Repository | License
 [Respect\Rest](http://github.com/Respect/Rest) | http://github.com/Respect/Rest | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
 [Silex](http://silex.sensiolabs.org/) | https://github.com/silexphp/Silex | [MIT](http://opensource.org/licenses/MIT)
 [Slim](http://slimframework.com/) | https://github.com/codeguy/Slim | [MIT](http://opensource.org/licenses/MIT)
+[Smce Framework](http://www.smceframework.com/) | https://github.com/imadige/smceframework-MVC | [MIT](https://github.com/imadige/smceframework-MVC/blob/master/LICENSE)
 [Swiftlet](http://swiftlet.org/) | https://github.com/ElbertF/Swiftlet | [MIT](http://opensource.org/licenses/MIT)
 [Yaf](http://www.yafdev.com/) | https://github.com/laruence/php-yaf | [PHP License v3.01](http://www.php.net/license/3_01.txt)
+
+
 ## Web framework for Python
 Name | PIP Install | Repository | License
 --- | --- | --- | ---
