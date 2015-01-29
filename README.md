@@ -151,6 +151,8 @@ Name | Repository | License
 ## Web framework for Python
 Name | PIP Install | Repository | License
 --- | --- | --- | ---
+
+[Appier](http://appier.hive.pt/) | pip install appier | https://github.com/hivesolutions/appier | [Apache License 2.0](http://www.apache.org/licenses/)
 [Bobo](http://bobo.digicool.com/) | pip install bobo | https://github.com/zopefoundation/bobo | [ZPL 2.1](https://en.wikipedia.org/wiki/Zope_Public_License)
 [Bottle](http://bottlepy.org/docs/dev/) | \[sudo\] pip install bottle | https://github.com/defnull/bottle | [MIT](https://en.wikipedia.org/wiki/MIT_License)
 [CherryPy](http://www.cherrypy.org/) | pip install CherryPy | https://bitbucket.org/cherrypy/cherrypy/overview | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
