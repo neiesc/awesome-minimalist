@@ -37,6 +37,7 @@ Name | Minimum size (base) | Repository | License
 [Kube](http://imperavi.com/kube/) | 15.2 KiB | https://github.com/sashka/kube | Unknown
 [Min](http://minfwk.com/) | 0.9 KiB (minified and gzipped) | https://github.com/owenversteeg/min | [MIT](http://opensource.org/licenses/MIT)
 [Mistype](https://github.com/ZDroid/mistype) | 2.1 KiB | https://github.com/ZDroid/mistype | [MIT](http://opensource.org/licenses/MIT)
+[Picnic CSS](http://www.picnicss.com/) | 3.0 KiB (minified and gzipped) | https://github.com/picnicss/picnic | [MIT](http://opensource.org/licenses/MIT)
 [PocketGrid](http://arnaudleray.github.io/pocketgrid/) | 0.5 KiB | https://github.com/arnaudleray/pocketgrid | [MIT](http://opensource.org/licenses/MIT)
 [Pure](http://purecss.io/) | 4.3 KiB (gzipped) | https://github.com/yui/pure | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [RocketCSS](https://rocketcss.com/) | 6.4 KiB | https://github.com/RocketCSS/RocketCSS | [MIT](http://opensource.org/licenses/MIT)
