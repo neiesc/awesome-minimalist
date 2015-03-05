@@ -27,6 +27,7 @@ Name | Minimum size (base) | Repository | License
 --- | --- | --- | ---
 [Atatonic](http://atatonic.timbenniks.nl/) | 5.1 KiB (minified) | http://code.google.com/p/atatonic-css-framwork/ | [MIT](http://opensource.org/licenses/mit-license.php)
 [Base](http://git.io/base) | 2.95 KiB (minified + gzipped) | https://github.com/matthewhartman/base | [MIT](http://opensource.org/licenses/mit-license.php)
+[Bass](http://www.basscss.com/) | 3.79 KiB (minified + gzipped) | https://github.com/jxnblk/basscss | [MIT](http://opensource.org/licenses/MIT)
 [Bijou](http://andhart.github.io/bijou) | 1.065 KiB (minified and gzipped) | https://github.com/andhart/bijou | [MIT](http://opensource.org/licenses/mit-license.php)
 [Cardinal](http://cardinalcss.com) | 4.25 KiB (minified and gzipped) | https://github.com/cbracco/cardinal | [MIT](http://opensource.org/licenses/mit-license.php)
 [Cascade Framework](http://www.cascade-framework.com/) | 10.6 KiB (all modules) | https://github.com/jslegers/cascadeframework | [MIT](http://opensource.org/licenses/MIT)
