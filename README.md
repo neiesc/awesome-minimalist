@@ -146,6 +146,7 @@ Name | Repository | License
 [Slim](http://slimframework.com/) | https://github.com/codeguy/Slim | [MIT](http://opensource.org/licenses/MIT)
 [Smce Framework](http://www.smceframework.com/) | https://github.com/imadige/smceframework-MVC | [MIT](https://github.com/imadige/smceframework-MVC/blob/master/LICENSE)
 [Swiftlet](http://swiftlet.org/) | https://github.com/ElbertF/Swiftlet | [MIT](http://opensource.org/licenses/MIT)
+[Wave Framework](http://www.waveframework.com/) | https://github.com/kristovaher/Wave-Framework | [LGPLv3](http://www.gnu.org/licenses/lgpl-3.0.en.html)
 [Yaf](http://www.yafdev.com/) | https://github.com/laruence/php-yaf | [PHP License v3.01](http://www.php.net/license/3_01.txt)
 
 
