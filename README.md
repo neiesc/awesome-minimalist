@@ -54,6 +54,7 @@ Name | Repository | License
 Name | Minimum size (base) | Repository | License
 --- | --- | --- | ---
 [Medoo](http://medoo.in/) | 10KB | https://github.com/catfan/Medoo | [MIT](http://opensource.org/licenses/MIT)
+[RedBeanPHP 4](http://www.redbeanphp.com/) | 289KB | https://github.com/gabordemooij/redbean | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [NotORM](http://www.notorm.com) | 44KB | https://github.com/vrana/notorm | [GNU](http://www.gnu.org/licenses/gpl-2.0.html)
 
 ## Frameworks for Front-end JS
