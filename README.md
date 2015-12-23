@@ -64,7 +64,7 @@ Name | Bower Install | Repository | License
 [Reactive.coffee](http://yang.github.io/reactive-coffee/) | bower install reactive-coffee | https://github.com/yang/reactive-coffee | [MIT](http://opensource.org/licenses/MIT)
 [Responsive](http://http://responsivebp.com/) | Unknown | https://github.com/ResponsiveBP/Responsive | [MIT](http://opensource.org/licenses/MIT)
 [ScaleApp](http://scaleapp.org/) | bower install scaleapp | https://github.com/flosse/scaleApp | [MIT](http://opensource.org/licenses/MIT)
-[skelJS](http://skeljs.org/) | Unknown | https://github.com/n33/skelJS | [MIT](http://opensource.org/licenses/MIT)
+[skel](http://skel.io/) | Unknown | https://github.com/n33/skel | [MIT](http://opensource.org/licenses/MIT)
 [Spine](http://spinejs.com/) | bower install spine | https://github.com/spine/spine | [MIT](http://opensource.org/licenses/MIT)
 [Stapes](http://hay.github.io/stapes) | bower install stapes | http://github.com/hay/stapes | [MIT](http://opensource.org/licenses/MIT)
 
