@@ -96,6 +96,7 @@ Name | Repository | License
 [RestX](http://restx.io/) | https://github.com/restx/restx | [Apache License V2](http://opensource.org/licenses/apache-2.0)
 [Spark](http://www.sparkjava.com/) | https://github.com/perwendel/spark | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Stapler](http://stapler.kohsuke.org/) | https://github.com/stapler/stapler | [BSD](http://opensource.org/licenses/bsd-license.php)
+[Blade](http://bladejava.com/) | https://github.com/biezhi/blade | [Apache License V2](http://opensource.org/licenses/apache-2.0)
 
 ## Web framework for JavaScript
 Name | Repository | License
