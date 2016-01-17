@@ -145,11 +145,7 @@ Name | Repository | License
 [Frankie Framework](http://frankie.readthedocs.org/en/develop/) | https://github.com/wdalmut/frankie | [MIT](http://opensource.org/licenses/MIT)
 [Hackwork](https://github.com/ZDroid/hackwork) | https://github.com/ZDroid/hackwork | [MIT](http://opensource.org/licenses/MIT)
 [Limonade](http://limonade-php.github.io/)| https://github.com/sofadesign/limonade | Unknown
-<<<<<<< HEAD
-[Lumen](http://lumen.laravel.com) | https://github.com/laravel/lumen | [MIT](http://opensource.org/licenses/MIT)
-=======
 [Lumen](https://lumen.laravel.com/)| https://github.com/laravel/lumen | [MIT](http://opensource.org/licenses/MIT)
->>>>>>> 0e691bc287a1d076ebafcb3a04dd6040ec1b0f83
 [MicroMVC](http://micromvc.com/) | https://github.com/Xeoncross/MicroMVC | [MIT](http://opensource.org/licenses/MIT)
 [Nanite](http://nirix.github.io/nanite/) | https://github.com/nirix/nanite | [LGPLv3](https://www.gnu.org/licenses/lgpl.html)
 [One PHP](http://oneframework.net/)| https://github.com/juliomatcom/one-php-microframework | [MIT](http://opensource.org/licenses/MIT)
@@ -160,16 +156,10 @@ Name | Repository | License
 [Slim](http://slimframework.com/) | https://github.com/codeguy/Slim | [MIT](http://opensource.org/licenses/MIT)
 [Smce Framework](http://www.smceframework.com/) | https://github.com/imadige/smceframework-MVC | [MIT](https://github.com/imadige/smceframework-MVC/blob/master/LICENSE)
 [Swiftlet](http://swiftlet.org/) | https://github.com/ElbertF/Swiftlet | [MIT](http://opensource.org/licenses/MIT)
-<<<<<<< HEAD
-[Wave Framework](http://www.waveframework.com/) | https://github.com/kristovaher/Wave-Framework | [LGPLv3](http://www.gnu.org/licenses/lgpl-3.0.en.html)
-[Yaf](http://www.yafdev.com/) | https://github.com/laruence/php-yaf | [PHP License v3.01](http://www.php.net/license/3_01.txt)
-
-=======
 [Wave Framework](http://www.waveframework.com/) | https://github.com/kristovaher/Wave-Framework | [LGPLv3](https://www.gnu.org/licenses/lgpl.html)
 [Yaf](http://www.yafdev.com/) | https://github.com/laruence/php-yaf | [PHP License v3.01](http://www.php.net/license/3_01.txt)
 [Zaphpa](http://zaphpa.org/) | https://github.com/zaphpa/zaphpa/ | [MIT](http://opensource.org/licenses/MIT)
 [Tonic](http://www.peej.co.uk/tonic/) | http://github.com/peej/tonic | [MIT](http://opensource.org/licenses/MIT)
->>>>>>> 0e691bc287a1d076ebafcb3a04dd6040ec1b0f83
 
 ## Web framework for Python
 Name | PIP Install | Repository | License
