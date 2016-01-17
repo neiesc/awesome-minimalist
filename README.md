@@ -59,6 +59,8 @@ Name | Repository | License
 Name | Minimum size (base) | Repository | License
 --- | --- | --- | ---
 [Medoo](http://medoo.in/) | 10KB | https://github.com/catfan/Medoo | [MIT](http://opensource.org/licenses/MIT)
+[RedBeanPHP 4](http://www.redbeanphp.com/) | 289KB | https://github.com/gabordemooij/redbean | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
+[NotORM](http://www.notorm.com) | 44KB | https://github.com/vrana/notorm | [GNU](http://www.gnu.org/licenses/gpl-2.0.html)
 
 ## Frameworks for Front-end JS
 Name | Bower Install | Repository | License
@@ -140,21 +142,34 @@ Name | Repository | License
 [Fat Free](http://fatfreeframework.com/) | https://github.com/bcosca/fatfree | [GPL 3](http://www.gnu.org/licenses/gpl-3.0.html)
 [Fitzgerald](http://gregmolnar.github.io/fitzgerald/) | https://github.com/gregmolnar/fitzgerald | [MIT](http://opensource.org/licenses/MIT)
 [Flight](http://flightphp.com/) | https://github.com/mikecao/flight | [MIT](http://opensource.org/licenses/MIT)
+[Frankie Framework](http://frankie.readthedocs.org/en/develop/) | https://github.com/wdalmut/frankie | [MIT](http://opensource.org/licenses/MIT)
 [Hackwork](https://github.com/ZDroid/hackwork) | https://github.com/ZDroid/hackwork | [MIT](http://opensource.org/licenses/MIT)
 [Limonade](http://limonade-php.github.io/)| https://github.com/sofadesign/limonade | Unknown
+<<<<<<< HEAD
 [Lumen](http://lumen.laravel.com) | https://github.com/laravel/lumen | [MIT](http://opensource.org/licenses/MIT)
+=======
+[Lumen](https://lumen.laravel.com/)| https://github.com/laravel/lumen | [MIT](http://opensource.org/licenses/MIT)
+>>>>>>> 0e691bc287a1d076ebafcb3a04dd6040ec1b0f83
 [MicroMVC](http://micromvc.com/) | https://github.com/Xeoncross/MicroMVC | [MIT](http://opensource.org/licenses/MIT)
 [Nanite](http://nirix.github.io/nanite/) | https://github.com/nirix/nanite | [LGPLv3](https://www.gnu.org/licenses/lgpl.html)
+[One PHP](http://oneframework.net/)| https://github.com/juliomatcom/one-php-microframework | [MIT](http://opensource.org/licenses/MIT)
 [Phalcon Framework](http://phalconphp.com/en/) | https://github.com/phalcon/cphalcon | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
-[polyframework](http://polymedio.github.io/polyframework/) | https://github.com/polymedio/polyframework | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
+[PolyFramework](http://polymedio.github.io/polyframework/) | https://github.com/polymedio/polyframework | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
 [Respect\Rest](http://github.com/Respect/Rest) | http://github.com/Respect/Rest | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
 [Silex](http://silex.sensiolabs.org/) | https://github.com/silexphp/Silex | [MIT](http://opensource.org/licenses/MIT)
 [Slim](http://slimframework.com/) | https://github.com/codeguy/Slim | [MIT](http://opensource.org/licenses/MIT)
 [Smce Framework](http://www.smceframework.com/) | https://github.com/imadige/smceframework-MVC | [MIT](https://github.com/imadige/smceframework-MVC/blob/master/LICENSE)
 [Swiftlet](http://swiftlet.org/) | https://github.com/ElbertF/Swiftlet | [MIT](http://opensource.org/licenses/MIT)
+<<<<<<< HEAD
 [Wave Framework](http://www.waveframework.com/) | https://github.com/kristovaher/Wave-Framework | [LGPLv3](http://www.gnu.org/licenses/lgpl-3.0.en.html)
 [Yaf](http://www.yafdev.com/) | https://github.com/laruence/php-yaf | [PHP License v3.01](http://www.php.net/license/3_01.txt)
 
+=======
+[Wave Framework](http://www.waveframework.com/) | https://github.com/kristovaher/Wave-Framework | [LGPLv3](https://www.gnu.org/licenses/lgpl.html)
+[Yaf](http://www.yafdev.com/) | https://github.com/laruence/php-yaf | [PHP License v3.01](http://www.php.net/license/3_01.txt)
+[Zaphpa](http://zaphpa.org/) | https://github.com/zaphpa/zaphpa/ | [MIT](http://opensource.org/licenses/MIT)
+[Tonic](http://www.peej.co.uk/tonic/) | http://github.com/peej/tonic | [MIT](http://opensource.org/licenses/MIT)
+>>>>>>> 0e691bc287a1d076ebafcb3a04dd6040ec1b0f83
 
 ## Web framework for Python
 Name | PIP Install | Repository | License
