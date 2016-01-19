@@ -154,7 +154,7 @@ Name | Repository | License
 [PolyFramework](http://polymedio.github.io/polyframework/) | https://github.com/polymedio/polyframework | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
 [Respect\Rest](http://github.com/Respect/Rest) | http://github.com/Respect/Rest | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
 [Silex](http://silex.sensiolabs.org/) | https://github.com/silexphp/Silex | [MIT](http://opensource.org/licenses/MIT)
-[Slim](http://slimframework.com/) | https://github.com/codeguy/Slim | [MIT](http://opensource.org/licenses/MIT)
+[Slim](http://slimframework.com/) | https://github.com/slimphp/Slim | [MIT](http://opensource.org/licenses/MIT)
 [Smce Framework](http://www.smceframework.com/) | https://github.com/imadige/smceframework-MVC | [MIT](https://github.com/imadige/smceframework-MVC/blob/master/LICENSE)
 [Swiftlet](http://swiftlet.org/) | https://github.com/ElbertF/Swiftlet | [MIT](http://opensource.org/licenses/MIT)
 [Wave Framework](http://www.waveframework.com/) | https://github.com/kristovaher/Wave-Framework | [LGPLv3](https://www.gnu.org/licenses/lgpl.html)
