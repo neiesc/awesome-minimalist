@@ -58,6 +58,8 @@ Name | Repository | License
 ## Database framework for PHP
 Name | Minimum size (base) | Repository | License
 --- | --- | --- | ---
+[activerecord](https://bephp.github.io/activerecord/) | 744KB | https://github.com/bephp/activerecord.git | [MIT](http://opensource.org/licenses/MIT)
+[Flourish](http://flourishlib.com/) | 9MB | https://github.com/flourishlib/flourish-classes | [MIT](http://opensource.org/licenses/MIT)
 [Medoo](http://medoo.in/) | 10KB | https://github.com/catfan/Medoo | [MIT](http://opensource.org/licenses/MIT)
 [RedBeanPHP 4](http://www.redbeanphp.com/) | 289KB | https://github.com/gabordemooij/redbean | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [NotORM](http://www.notorm.com) | 44KB | https://github.com/vrana/notorm | [GNU](http://www.gnu.org/licenses/gpl-2.0.html)
