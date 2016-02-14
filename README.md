@@ -140,6 +140,7 @@ Name | Repository | License
 [Afro](http://github.com/jbrooksuk/Afro) | https://github.com/jbrooksuk/Afro | [MIT](http://jbrooksuk.mit-license.org)
 [AuraPHP](http://auraphp.com/blog/2013/12/12/aura-v2-web-project/) | https://github.com/auraphp/Aura.Web_Kernel | [BSD](http://opensource.org/licenses/bsd-license.php)
 [Bullet](http://bulletphp.com/)| https://github.com/vlucas/bulletphp | [MIT](http://opensource.org/licenses/MIT)
+[CrudKit](http://crudkit.com/)| https://github.com/skyronic/crudkit/ | [MIT](http://opensource.org/licenses/MIT)
 [Deano](http://github.com/colindean/deano) | http://github.com/colindean/deano | [MIT](http://opensource.org/licenses/MIT)
 [Fat Free](http://fatfreeframework.com/) | https://github.com/bcosca/fatfree | [GPL 3](http://www.gnu.org/licenses/gpl-3.0.html)
 [Fitzgerald](http://gregmolnar.github.io/fitzgerald/) | https://github.com/gregmolnar/fitzgerald | [MIT](http://opensource.org/licenses/MIT)
