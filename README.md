@@ -109,6 +109,7 @@ Name | Repository | License
 --- | --- | --- | ---
 [Stapes](http://hay.github.io/stapes/) | https://github.com/hay/stapes | [MIT](http://opensource.org/licenses/MIT)
 [Mithril](http://lhorie.github.io/mithril/) | https://github.com/lhorie/mithril.js | [MIT](http://opensource.org/licenses/MIT)
+[Umbrella](http://umbrellajs.com/) | https://github.com/umbrellajs/umbrella | [MIT](http://opensource.org/licenses/MIT)
 
 ## Web Framework for Lua
 Name | Bower Install | Repository | License
