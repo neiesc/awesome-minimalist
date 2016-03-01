@@ -176,6 +176,7 @@ Name | PIP Install | Repository | License
 [CherryPy](http://www.cherrypy.org/) | pip install CherryPy | https://bitbucket.org/cherrypy/cherrypy/overview | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Cyclone](http://cyclone.io/) | pip install cyclone | https://github.com/fiorix/cyclone | [Apache License 2.0](http://www.apache.org/licenses/)
 [Flask](http://flask.pocoo.org/) | pip install Flask | https://github.com/mitsuhiko/flask | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
+[Fresco](http://ollycope.com/software/fresco/) | pip install fresco | https://bitbucket.org/ollyc/fresco | [Apache License 2.0](http://www.apache.org/licenses/)
 [Itty-Bitty](https://github.com/toastdriven/itty/) | pip install itty | https://github.com/toastdriven/itty/ | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
 [Klein](https://github.com/twisted/klein) | pip install klein | https://github.com/twisted/klein | [MIT](https://en.wikipedia.org/wiki/MIT_License)
 [Morepath](http://morepath.readthedocs.org) | pip install morepath | https://github.com/morepath/morepath | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
