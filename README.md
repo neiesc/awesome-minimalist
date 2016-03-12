@@ -36,6 +36,7 @@ Name | Minimum size (base) | Repository | License
 [iceCream](http://html5-ninja.com/icecream/) | 1.8 Kib (minified) | http://html5-ninja.com/icecream/ | [WTFPL](https://en.wikipedia.org/wiki/WTFPL)
 [KNACSS](http://knacss.com/) | 13.2 KiB (all modules) | https://github.com/raphaelgoetter/KNACSS | [WTFPL](https://en.wikipedia.org/wiki/WTFPL)
 [Kube](http://imperavi.com/kube/) | 15.2 KiB | https://github.com/sashka/kube | Unknown
+[Milligram](http://milligram.github.io/) | 2.0 KiB (minified and gzipped) | https://github.com/milligram/milligram | [MIT](http://opensource.org/licenses/MIT)
 [Min](http://minfwk.com/) | 0.9 KiB (minified and gzipped) | https://github.com/owenversteeg/min | [MIT](http://opensource.org/licenses/MIT)
 [Mistype](https://github.com/ZDroid/mistype) | 2.1 KiB | https://github.com/ZDroid/mistype | [MIT](http://opensource.org/licenses/MIT)
 [Picnic CSS](http://www.picnicss.com/) | 3.0 KiB (minified and gzipped) | https://github.com/picnicss/picnic | [MIT](http://opensource.org/licenses/MIT)
@@ -74,6 +75,7 @@ Name | Bower Install | Repository | License
 [skel](http://skel.io/) | Unknown | https://github.com/n33/skel | [MIT](http://opensource.org/licenses/MIT)
 [Spine](http://spinejs.com/) | bower install spine | https://github.com/spine/spine | [MIT](http://opensource.org/licenses/MIT)
 [Stapes](http://hay.github.io/stapes) | bower install stapes | http://github.com/hay/stapes | [MIT](http://opensource.org/licenses/MIT)
+[Topcoat](http://topcoat.io/) | bower lookup topcoat | https://github.com/topcoat/topcoat | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Web framework for Go
 Name | Repository | License
@@ -92,6 +94,8 @@ Name | Cabal Install | Repository | License
 ## Web framework for Java
 Name | Repository | License
 --- | --- | ---
+[Blade](http://bladejava.com/) | https://github.com/biezhi/blade | [Apache License V2](http://opensource.org/licenses/apache-2.0)
+[Jodd](http://jodd.org/) | https://github.com/oblac/jodd | [BSD-2](https://opensource.org/licenses/BSD-2-Clause)
 [Ninja Framework](http://www.ninjaframework.org/) | https://github.com/ninjaframework/ninja | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Play Framework](http://www.playframework.com/) | https://github.com/playframework/playframework | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Restlet](http://restlet.org) | https://github.com/restlet/restlet-framework-java | [Apache License V2](http://opensource.org/licenses/apache-2.0)
@@ -99,7 +103,7 @@ Name | Repository | License
 [Resty](https://dreampie.gitbooks.io/resty-chs/content/index.html) | https://github.com/Dreampie/resty | [Apache License V2](http://opensource.org/licenses/apache-2.0)
 [Spark](http://www.sparkjava.com/) | https://github.com/perwendel/spark | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Stapler](http://stapler.kohsuke.org/) | https://github.com/stapler/stapler | [BSD](http://opensource.org/licenses/bsd-license.php)
-[Blade](http://bladejava.com/) | https://github.com/biezhi/blade | [Apache License V2](http://opensource.org/licenses/apache-2.0)
+
 
 ## Web framework for JavaScript
 Name | Repository | License
@@ -111,7 +115,7 @@ Name | Repository | License
 Name | Bower Install | Repository | License
 --- | --- | --- | ---
 [Lapis](http://leafo.net/lapis/) | luarocks install lapis | https://github.com/leafo/lapis | [MIT](http://opensource.org/licenses/MIT)
-
+[Vanilla](https://github.com/idevz/vanilla) | luarocks install vanilla | https://github.com/idevz/vanilla | [MIT](http://opensource.org/licenses/MIT)
 
 ## Web framework for Node.js
 Name | NPM Install | Repository | License
@@ -152,7 +156,7 @@ Name | Repository | License
 [One PHP](http://oneframework.net/)| https://github.com/juliomatcom/one-php-microframework | [MIT](http://opensource.org/licenses/MIT)
 [Phalcon Framework](http://phalconphp.com/en/) | https://github.com/phalcon/cphalcon | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
 [PolyFramework](http://polymedio.github.io/polyframework/) | https://github.com/polymedio/polyframework | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
-[Respect\Rest](http://github.com/Respect/Rest) | http://github.com/Respect/Rest | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
+[Respect\\Rest](http://github.com/Respect/Rest) | http://github.com/Respect/Rest | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
 [Silex](http://silex.sensiolabs.org/) | https://github.com/silexphp/Silex | [MIT](http://opensource.org/licenses/MIT)
 [Slim](http://slimframework.com/) | https://github.com/codeguy/Slim | [MIT](http://opensource.org/licenses/MIT)
 [Smce Framework](http://www.smceframework.com/) | https://github.com/imadige/smceframework-MVC | [MIT](https://github.com/imadige/smceframework-MVC/blob/master/LICENSE)
@@ -161,6 +165,7 @@ Name | Repository | License
 [Yaf](http://www.yafdev.com/) | https://github.com/laruence/php-yaf | [PHP License v3.01](http://www.php.net/license/3_01.txt)
 [Zaphpa](http://zaphpa.org/) | https://github.com/zaphpa/zaphpa/ | [MIT](http://opensource.org/licenses/MIT)
 [Tonic](http://www.peej.co.uk/tonic/) | http://github.com/peej/tonic | [MIT](http://opensource.org/licenses/MIT)
+[toKernel](http://www.tokernel.com/) | https://github.com/tokernel/toKernel.1 | [GPL](http://opensource.org/licenses/gpl-3.0.html)
 
 ## Web framework for Python
 Name | PIP Install | Repository | License
