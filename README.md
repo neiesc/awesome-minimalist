@@ -59,6 +59,8 @@ Name | Repository | License
 ## Database framework for PHP
 Name | Minimum size (base) | Repository | License
 --- | --- | --- | ---
+[activerecord](https://bephp.github.io/activerecord/) | 744KB | https://github.com/bephp/activerecord.git | [MIT](http://opensource.org/licenses/MIT)
+[Flourish](http://flourishlib.com/) | 9MB | https://github.com/flourishlib/flourish-classes | [MIT](http://opensource.org/licenses/MIT)
 [Medoo](http://medoo.in/) | 10KB | https://github.com/catfan/Medoo | [MIT](http://opensource.org/licenses/MIT)
 [RedBeanPHP 4](http://www.redbeanphp.com/) | 289KB | https://github.com/gabordemooij/redbean | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [NotORM](http://www.notorm.com) | 44KB | https://github.com/vrana/notorm | [GNU](http://www.gnu.org/licenses/gpl-2.0.html)
@@ -95,6 +97,7 @@ Name | Cabal Install | Repository | License
 Name | Repository | License
 --- | --- | ---
 [Blade](http://bladejava.com/) | https://github.com/biezhi/blade | [Apache License V2](http://opensource.org/licenses/apache-2.0)
+[JFinal](https://www.gitbook.com/book/jfinal/jfinal-manual/details) | https://github.com/jfinal/jfinal | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Jodd](http://jodd.org/) | https://github.com/oblac/jodd | [BSD-2](https://opensource.org/licenses/BSD-2-Clause)
 [Ninja Framework](http://www.ninjaframework.org/) | https://github.com/ninjaframework/ninja | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Play Framework](http://www.playframework.com/) | https://github.com/playframework/playframework | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
@@ -110,6 +113,7 @@ Name | Repository | License
 --- | --- | --- | ---
 [Stapes](http://hay.github.io/stapes/) | https://github.com/hay/stapes | [MIT](http://opensource.org/licenses/MIT)
 [Mithril](http://lhorie.github.io/mithril/) | https://github.com/lhorie/mithril.js | [MIT](http://opensource.org/licenses/MIT)
+[Umbrella](http://umbrellajs.com/) | https://github.com/umbrellajs/umbrella | [MIT](http://opensource.org/licenses/MIT)
 
 ## Web Framework for Lua
 Name | Bower Install | Repository | License
@@ -143,6 +147,7 @@ Name | Repository | License
 [Afro](http://github.com/jbrooksuk/Afro) | https://github.com/jbrooksuk/Afro | [MIT](http://jbrooksuk.mit-license.org)
 [AuraPHP](http://auraphp.com/blog/2013/12/12/aura-v2-web-project/) | https://github.com/auraphp/Aura.Web_Kernel | [BSD](http://opensource.org/licenses/bsd-license.php)
 [Bullet](http://bulletphp.com/)| https://github.com/vlucas/bulletphp | [MIT](http://opensource.org/licenses/MIT)
+[CrudKit](http://crudkit.com/)| https://github.com/skyronic/crudkit/ | [MIT](http://opensource.org/licenses/MIT)
 [Deano](http://github.com/colindean/deano) | http://github.com/colindean/deano | [MIT](http://opensource.org/licenses/MIT)
 [Fat Free](http://fatfreeframework.com/) | https://github.com/bcosca/fatfree | [GPL 3](http://www.gnu.org/licenses/gpl-3.0.html)
 [Fitzgerald](http://gregmolnar.github.io/fitzgerald/) | https://github.com/gregmolnar/fitzgerald | [MIT](http://opensource.org/licenses/MIT)
@@ -158,7 +163,7 @@ Name | Repository | License
 [PolyFramework](http://polymedio.github.io/polyframework/) | https://github.com/polymedio/polyframework | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
 [Respect\\Rest](http://github.com/Respect/Rest) | http://github.com/Respect/Rest | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
 [Silex](http://silex.sensiolabs.org/) | https://github.com/silexphp/Silex | [MIT](http://opensource.org/licenses/MIT)
-[Slim](http://slimframework.com/) | https://github.com/codeguy/Slim | [MIT](http://opensource.org/licenses/MIT)
+[Slim](http://slimframework.com/) | https://github.com/slimphp/Slim | [MIT](http://opensource.org/licenses/MIT)
 [Smce Framework](http://www.smceframework.com/) | https://github.com/imadige/smceframework-MVC | [MIT](https://github.com/imadige/smceframework-MVC/blob/master/LICENSE)
 [Swiftlet](http://swiftlet.org/) | https://github.com/ElbertF/Swiftlet | [MIT](http://opensource.org/licenses/MIT)
 [Wave Framework](http://www.waveframework.com/) | https://github.com/kristovaher/Wave-Framework | [LGPLv3](https://www.gnu.org/licenses/lgpl.html)
@@ -176,6 +181,7 @@ Name | PIP Install | Repository | License
 [CherryPy](http://www.cherrypy.org/) | pip install CherryPy | https://bitbucket.org/cherrypy/cherrypy/overview | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Cyclone](http://cyclone.io/) | pip install cyclone | https://github.com/fiorix/cyclone | [Apache License 2.0](http://www.apache.org/licenses/)
 [Flask](http://flask.pocoo.org/) | pip install Flask | https://github.com/mitsuhiko/flask | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
+[Fresco](http://ollycope.com/software/fresco/) | pip install fresco | https://bitbucket.org/ollyc/fresco | [Apache License 2.0](http://www.apache.org/licenses/)
 [Itty-Bitty](https://github.com/toastdriven/itty/) | pip install itty | https://github.com/toastdriven/itty/ | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
 [Klein](https://github.com/twisted/klein) | pip install klein | https://github.com/twisted/klein | [MIT](https://en.wikipedia.org/wiki/MIT_License)
 [Morepath](http://morepath.readthedocs.org) | pip install morepath | https://github.com/morepath/morepath | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
@@ -194,16 +200,22 @@ Name | Gem Install | Repository | License
 [Busker](https://github.com/pachacamac/busker) | gem install busker | https://github.com/pachacamac/busker | [MIT](http://opensource.org/licenses/MIT)
 [Camping](http://camping.io/) | gem install camping | http://github.com/camping/camping | [MIT](http://opensource.org/licenses/MIT)
 [Cuba](http://cuba.is/) | gem install cuba | https://github.com/soveran/cuba | [MIT](http://opensource.org/licenses/MIT)
+[Dashing](http://dashing.io/) | gem install dashing | https://github.com/Shopify/dashing | [MIT](http://opensource.org/licenses/MIT)
 [Grape](http://intridea.github.io/grape) | gem install grape | https://github.com/intridea/grape | [MIT](http://opensource.org/licenses/MIT)
 [Crepe](https://github.com/crepe/crepe) | gem install crepe --pre | https://github.com/stephencelis/crepe | [MIT](http://opensource.org/licenses/MIT)
+[Hanami](http://hanamirb.org/) | gem install hanami | https://github.com/hanami/hanami | [MIT](http://opensource.org/licenses/MIT)
 [Hobbit](https://github.com/patriciomacadden/hobbit) | gem install hobbit | https://github.com/patriciomacadden/hobbit | [MIT](http://opensource.org/licenses/MIT)
+[Karafka](https://github.com/karafka/karafka) | gem install karafka | https://github.com/karafka/karafka | [MIT](http://opensource.org/licenses/MIT)
 [Kenji](https://github.com/kballenegger/kenji) | gem install kenji | https://github.com/kballenegger/Kenji | [Azure](http://license.azuretalon.com/)
 [Lotus](http://lotusrb.org/) | gem install lotusrb | https://github.com/lotus/lotus | [MIT](http://opensource.org/licenses/MIT)
 [Nancy](http://guilleiguaran.github.io/nancy) | gem install nancy | https://github.com/guilleiguaran/nancy | [MIT](http://opensource.org/licenses/MIT)
 [New York, New York](http://alisnic.github.io/nyny/) | gem install nyny | https://github.com/alisnic/nyny | [MIT](http://opensource.org/licenses/MIT)
 [Padrino](http://www.padrinorb.com/) | gem install padrino | https://github.com/padrino/padrino-framework | [MIT](http://opensource.org/licenses/MIT)
+[Rack](http://rack.github.io/) | gem install rack | https://github.com/rack/rack | [MIT](http://opensource.org/licenses/MIT)
 [Ramaze](http://ramaze.net/) | gem install ramaze | https://github.com/ramaze/ramaze | [MIT](http://opensource.org/licenses/MIT)
 [Sinatra](http://www.sinatrarb.com/) | gem install sinatra | https://github.com/sinatra/sinatra/ | [MIT](http://opensource.org/licenses/MIT)
+[Trailblazer](http://trailblazer.to/) | gem install trailblazer | https://github.com/apotonick/trailblazer | [MIT](http://opensource.org/licenses/MIT)
+[Volt](http://voltframework.com/) | gem install volt | https://github.com/voltrb/volt/ | [MIT](http://opensource.org/licenses/MIT)
 
 ## Web framework for Scala
 Name | Repository | License
