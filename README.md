@@ -100,6 +100,7 @@ Name | Repository | License
 [JFinal](https://www.gitbook.com/book/jfinal/jfinal-manual/details) | https://github.com/jfinal/jfinal | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Jodd](http://jodd.org/) | https://github.com/oblac/jodd | [BSD-2](https://opensource.org/licenses/BSD-2-Clause)
 [Ninja Framework](http://www.ninjaframework.org/) | https://github.com/ninjaframework/ninja | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Pippo](http://pippo.ro/) | https://github.com/decebals/pippo | [Apache License V2](http://opensource.org/licenses/apache-2.0)
 [Play Framework](http://www.playframework.com/) | https://github.com/playframework/playframework | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Restlet](http://restlet.org) | https://github.com/restlet/restlet-framework-java | [Apache License V2](http://opensource.org/licenses/apache-2.0)
 [RestX](http://restx.io/) | https://github.com/restx/restx | [Apache License V2](http://opensource.org/licenses/apache-2.0)
