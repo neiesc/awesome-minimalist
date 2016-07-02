@@ -160,6 +160,7 @@ Name | Repository | License
 [Lumen](https://lumen.laravel.com/)| https://github.com/laravel/lumen | [MIT](http://opensource.org/licenses/MIT)
 [MicroMVC](http://micromvc.com/) | https://github.com/Xeoncross/MicroMVC | [MIT](http://opensource.org/licenses/MIT)
 [Nanite](http://nirix.github.io/nanite/) | https://github.com/nirix/nanite | [LGPLv3](https://www.gnu.org/licenses/lgpl.html)
+[Opulence](https://www.opulencephp.com/)| https://github.com/opulencephp/Opulence | [MIT](http://opensource.org/licenses/MIT)
 [One PHP](http://oneframework.net/)| https://github.com/juliomatcom/one-php-microframework | [MIT](http://opensource.org/licenses/MIT)
 [Phalcon Framework](http://phalconphp.com/en/) | https://github.com/phalcon/cphalcon | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
 [PolyFramework](http://polymedio.github.io/polyframework/) | https://github.com/polymedio/polyframework | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
