@@ -6,7 +6,7 @@ A list of minimalist frameworks (simple and lightweight). All in alphabetical or
 * [Framework for CSS](#framework-for-css)
 * [Web Framework for C](#web-framework-for-c)
 * [Database framework for PHP](#database-framework-for-php)
-* [Frameworks for Front-end JS](#frameworks-for-front-end-js)
+* [Frameworks for Front-end JS](#frameworks-for-front-endresponsablecss-js)
 * [Web framework for Go](#web-framework-for-go)
 * [Web framework for Haskell](#web-framework-for-haskell)
 * [Web framework for Java](#web-framework-for-java)
@@ -42,7 +42,7 @@ Name | Minimum size (base) | Repository | License
 [Picnic CSS](http://www.picnicss.com/) | 3.0 KiB (minified and gzipped) | https://github.com/picnicss/picnic | [MIT](http://opensource.org/licenses/MIT)
 [PocketGrid](http://arnaudleray.github.io/pocketgrid/) | 0.5 KiB | https://github.com/arnaudleray/pocketgrid | [MIT](http://opensource.org/licenses/MIT)
 [Pure](http://purecss.io/) | 4.3 KiB (gzipped) | https://github.com/yui/pure | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
-[Responsable](http://responsablecss.com/) | 2.63 KiB (minified and gzipped) | https://github.com/Responsable/Responsable-Framework | [CC-BY-SA](http://creativecommons.org/licenses/by-sa/2.5/)
+[Responsable](https://github.com/Responsable/Responsable-Framework) | 2.63 KiB (minified and gzipped) | https://github.com/Responsable/Responsable-Framework | [CC-BY-SA](http://creativecommons.org/licenses/by-sa/2.5/)
 [RocketCSS](https://rocketcss.com/) | 6.4 KiB | https://github.com/RocketCSS/RocketCSS | [MIT](http://opensource.org/licenses/MIT)
 [Simple Grid](http://thisisdallas.github.io/Simple-Grid/) | 1.1 KiB | https://github.com/ThisIsDallas/Simple-Grid | Unknown
 [Skeleton](http://getskeleton.com/) | 1.63 KiB (minified and gzipped) | https://github.com/dhg/Skeleton | [MIT](http://opensource.org/licenses/MIT)
