@@ -21,11 +21,12 @@ A list of minimalist frameworks (simple and lightweight). All in alphabetical or
 * [Web framework for .NET (C#)](#web-framework-for-net-c)
 
 ## Framework for CSS
-Use http://refresh-sf.com/yui/ to compress, and get size "after compression and gzip"/1024 = KiB
+Use http://refresh-sf.com/yui/ to compress, and get size "Output"
 
 Name | Minimum size (base) | Repository | License
 --- | --- | --- | ---
 [Atatonic](http://atatonic.timbenniks.nl/) | 5.1 KiB (minified) | http://code.google.com/p/atatonic-css-framwork/ | [MIT](http://opensource.org/licenses/mit-license.php)
+[Avalanche](http://colourgarden.net/avalanche/) | 79 bytes | https://github.com/colourgarden/avalanche/ | [MIT](http://opensource.org/licenses/mit-license.php)
 [Base](http://git.io/base) | 2.95 KiB (minified + gzipped) | https://github.com/matthewhartman/base | [MIT](http://opensource.org/licenses/mit-license.php)
 [Bass](http://www.basscss.com/) | 3.79 KiB (minified + gzipped) | https://github.com/jxnblk/basscss | [MIT](http://opensource.org/licenses/MIT)
 [Bijou](http://andhart.github.io/bijou) | 1.065 KiB (minified and gzipped) | https://github.com/andhart/bijou | [MIT](http://opensource.org/licenses/mit-license.php)
