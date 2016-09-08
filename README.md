@@ -183,6 +183,7 @@ Name | PIP Install | Repository | License
 [Bobo](http://bobo.digicool.com/) | pip install bobo | https://github.com/zopefoundation/bobo | [ZPL 2.1](https://en.wikipedia.org/wiki/Zope_Public_License)
 [Bottle](http://bottlepy.org/docs/dev/) | \[sudo\] pip install bottle | https://github.com/defnull/bottle | [MIT](https://en.wikipedia.org/wiki/MIT_License)
 [CherryPy](http://www.cherrypy.org/) | pip install CherryPy | https://bitbucket.org/cherrypy/cherrypy/overview | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
+[Clastic](https://github.com/mahmoud/clastic/) | pip install clastic | https://github.com/mahmoud/clastic | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Cyclone](http://cyclone.io/) | pip install cyclone | https://github.com/fiorix/cyclone | [Apache License 2.0](http://www.apache.org/licenses/)
 [Flask](http://flask.pocoo.org/) | pip install Flask | https://github.com/mitsuhiko/flask | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Fresco](http://ollycope.com/software/fresco/) | pip install fresco | https://bitbucket.org/ollyc/fresco | [Apache License 2.0](http://www.apache.org/licenses/)
