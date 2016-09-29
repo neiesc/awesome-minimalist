@@ -36,7 +36,7 @@ Name | Minimum size (base) | Repository | License
 [Concrete](http://davidlumley.github.io/concrete/) | 3.2 KiB | https://github.com/davidlumley/concrete | [MIT](http://opensource.org/licenses/MIT)
 [iceCream](http://html5-ninja.com/icecream/) | 1.8 Kib (minified) | http://html5-ninja.com/icecream/ | [WTFPL](https://en.wikipedia.org/wiki/WTFPL)
 [KNACSS](http://knacss.com/) | 13.2 KiB (all modules) | https://github.com/raphaelgoetter/KNACSS | [WTFPL](https://en.wikipedia.org/wiki/WTFPL)
-[Kube](http://imperavi.com/kube/) | 15.2 KiB | https://github.com/sashka/kube | Unknown
+[Kube](http://imperavi.com/kube/) | 15.2 KiB | https://github.com/sashka/kube | [MIT](http://opensource.org/licenses/MIT)
 [Milligram](http://milligram.github.io/) | 2.0 KiB (minified and gzipped) | https://github.com/milligram/milligram | [MIT](http://opensource.org/licenses/MIT)
 [Min](http://minfwk.com/) | 0.9 KiB (minified and gzipped) | https://github.com/owenversteeg/min | [MIT](http://opensource.org/licenses/MIT)
 [Mistype](https://github.com/ZDroid/mistype) | 2.1 KiB | https://github.com/ZDroid/mistype | [MIT](http://opensource.org/licenses/MIT)
