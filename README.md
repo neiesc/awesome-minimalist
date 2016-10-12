@@ -100,6 +100,7 @@ Name | Repository | License
 [Blade](http://bladejava.com/) | https://github.com/biezhi/blade | [Apache License V2](http://opensource.org/licenses/apache-2.0)
 [JFinal](https://www.gitbook.com/book/jfinal/jfinal-manual/details) | https://github.com/jfinal/jfinal | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Jodd](http://jodd.org/) | https://github.com/oblac/jodd | [BSD-2](https://opensource.org/licenses/BSD-2-Clause)
+[Molecule](http://molecule.vtence.com) | https://github.com/testinfected/molecule | [MIT](https://vtence.mit-license.org)
 [Ninja Framework](http://www.ninjaframework.org/) | https://github.com/ninjaframework/ninja | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Pippo](http://pippo.ro/) | https://github.com/decebals/pippo | [Apache License V2](http://opensource.org/licenses/apache-2.0)
 [Play Framework](http://www.playframework.com/) | https://github.com/playframework/playframework | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
