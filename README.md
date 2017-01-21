@@ -56,8 +56,8 @@ Name | Minimum size (base) | Repository | License
 
 Name | Repository | License
 --- | --- | ---
-[go-horse](https://github.com/gabrielfalcao/go-horse) | https://github.com/gabrielfalcao/go-horse | [MIT]((http://opensource.org/licenses/MIT)
-[Raphters](https://github.com/DanielWaterworth/Raphters) | https://github.com/DanielWaterworth/Raphters | [GPL]((http://opensource.org/licenses/gpl-3.0.html)
+[go-horse](https://github.com/gabrielfalcao/go-horse) | https://github.com/gabrielfalcao/go-horse | [MIT](http://opensource.org/licenses/MIT)
+[Raphters](https://github.com/DanielWaterworth/Raphters) | https://github.com/DanielWaterworth/Raphters | [GPL](http://opensource.org/licenses/gpl-3.0.html)
 
 ## Database framework for PHP
 Name | Minimum size (base) | Repository | License
