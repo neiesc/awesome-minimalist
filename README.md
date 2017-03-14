@@ -81,7 +81,7 @@ Name | Bower Install | Repository | License
 [Spine](http://spinejs.com/) | bower install spine | https://github.com/spine/spine | [MIT](http://opensource.org/licenses/MIT)
 [Stapes](http://hay.github.io/stapes) | bower install stapes | http://github.com/hay/stapes | [MIT](http://opensource.org/licenses/MIT)
 [Topcoat](http://topcoat.io/) | bower lookup topcoat | https://github.com/topcoat/topcoat | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-[VertxUI](https://github.com/nielsbaloe/vertxui/) | through Java | https://github.com/nielsbaloe/vertxui|  [GNU](http://www.gnu.org/licenses/gpl-2.0.html)
+[VertxUI](https://github.com/nielsbaloe/vertxui/) | through Java | https://github.com/nielsbaloe/vertxui |  [GNU](http://www.gnu.org/licenses/gpl-2.0.html)
 
 ## Web framework for Go
 Name | Repository | License
@@ -117,7 +117,7 @@ Name | Repository | License
 
 ## Web framework for JavaScript
 Name | Repository | License
---- | --- | --- | ---
+--- | --- | ---
 [Stapes](http://hay.github.io/stapes/) | https://github.com/hay/stapes | [MIT](http://opensource.org/licenses/MIT)
 [Mithril](http://lhorie.github.io/mithril/) | https://github.com/lhorie/mithril.js | [MIT](http://opensource.org/licenses/MIT)
 [Umbrella](http://umbrellajs.com/) | https://github.com/umbrellajs/umbrella | [MIT](http://opensource.org/licenses/MIT)
@@ -145,7 +145,7 @@ Name | NPM Install | Repository | License
 
 ## Web framework for Perl
 Name | cpan install | Repository | License
---- | --- | --- | --- | ---
+--- | --- | --- | ---
 [Dancer](http://www.perldancer.org) | cpan Dancer | https://github.com/PerlDancer/Dancer | [Artistic](http://en.wikipedia.org/wiki/Artistic_License) or [GPL v.1](http://en.wikipedia.org/wiki/GNU_General_Public_License#Version_1)
 [Mojolicious](ihttp://mojolicio.us) | cpan Mojolicious | https://github.com/kraih/mojo | [Artistic 2.0](ihttp://en.wikipedia.org/wiki/Artistic_License#Artistic_License_2.0)
 
@@ -241,6 +241,6 @@ Name | Repository | License
 
 ## Web framework for .NET (C#)
 Name | Repository | License
---- | --- | --- | ---
+--- | --- | ---
 [Aurora](https://github.com/frankhale/aurora) | https://github.com/frankhale/aurora | [GPL](http://opensource.org/licenses/gpl-3.0.html)
 [Nancy](http://nancyfx.org/) | https://github.com/NancyFx/Nancy/ | [MIT](http://opensource.org/licenses/MIT)
