@@ -81,6 +81,7 @@ Name | Bower Install | Repository | License
 [Spine](http://spinejs.com/) | bower install spine | https://github.com/spine/spine | [MIT](http://opensource.org/licenses/MIT)
 [Stapes](http://hay.github.io/stapes) | bower install stapes | http://github.com/hay/stapes | [MIT](http://opensource.org/licenses/MIT)
 [Topcoat](http://topcoat.io/) | bower lookup topcoat | https://github.com/topcoat/topcoat | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[VertxUI](https://github.com/nielsbaloe/vertxui/) | through Java | https://github.com/nielsbaloe/vertxui|  [GNU](http://www.gnu.org/licenses/gpl-2.0.html)
 
 ## Web framework for Go
 Name | Repository | License
