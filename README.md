@@ -7,6 +7,7 @@ A list of minimalist frameworks (simple and lightweight). All in alphabetical or
 * [Web Framework for C](#web-framework-for-c)
 * [Database framework for PHP](#database-framework-for-php)
 * [Frameworks for Front-end JS](#frameworks-for-front-endresponsablecss-js)
+* [Web framework for Dart](#web-framework-for-dart)
 * [Web framework for Go](#web-framework-for-go)
 * [Web framework for Haskell](#web-framework-for-haskell)
 * [Web framework for Java](#web-framework-for-java)
@@ -83,6 +84,10 @@ Name | Bower Install | Repository | License
 [Topcoat](http://topcoat.io/) | bower lookup topcoat | https://github.com/topcoat/topcoat | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [VertxUI](https://github.com/nielsbaloe/vertxui/) | through Java | https://github.com/nielsbaloe/vertxui|  [GNU](http://www.gnu.org/licenses/gpl-2.0.html)
 
+## Web framework for Dart
+Name | Pub Install | Repository | License
+--- | --- | --- | ---
+[Angel](https://angel-dart.github.io) | pub global activate angel_cli | https://github.com/angel-dart/angel | [MIT](http://opensource.org/licenses/MIT)
 
 ## Web framework for Go
 Name | Repository | License
