@@ -124,7 +124,7 @@ Name | Repository | License
 [Umbrella](http://umbrellajs.com/) | https://github.com/umbrellajs/umbrella | [MIT](http://opensource.org/licenses/MIT)
 
 ## Web Framework for Lua
-Name | Bower Install | Repository | License
+Name | LuaRocks Install | Repository | License
 --- | --- | --- | ---
 [Lapis](http://leafo.net/lapis/) | luarocks install lapis | https://github.com/leafo/lapis | [MIT](http://opensource.org/licenses/MIT)
 [Vanilla](https://github.com/idevz/vanilla) | luarocks install vanilla | https://github.com/idevz/vanilla | [MIT](http://opensource.org/licenses/MIT)
