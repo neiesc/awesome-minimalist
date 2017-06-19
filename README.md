@@ -194,6 +194,7 @@ Name | PIP Install | Repository | License
 [CherryPy](http://www.cherrypy.org/) | pip install CherryPy | https://bitbucket.org/cherrypy/cherrypy/overview | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Clastic](https://github.com/mahmoud/clastic/) | pip install clastic | https://github.com/mahmoud/clastic | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Cyclone](http://cyclone.io/) | pip install cyclone | https://github.com/fiorix/cyclone | [Apache License 2.0](http://www.apache.org/licenses/)
+[Falcon](http://falconframework.org/) | pip install falcon | https://github.com/racker/falcon | [Apache License 2.0](http://www.apache.org/licenses/)
 [Flask](http://flask.pocoo.org/) | pip install Flask | https://github.com/mitsuhiko/flask | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Fresco](http://ollycope.com/software/fresco/) | pip install fresco | https://bitbucket.org/ollyc/fresco | [Apache License 2.0](http://www.apache.org/licenses/)
 [Itty-Bitty](https://github.com/toastdriven/itty/) | pip install itty | https://github.com/toastdriven/itty/ | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
@@ -202,10 +203,10 @@ Name | PIP Install | Repository | License
 [ObjectWeb](https://github.com/aisola/ObjectWeb) | Unknown | https://github.com/aisola/ObjectWeb | [LGPLv3](https://www.gnu.org/licenses/lgpl.html)
 [Pecan](http://pecanpy.org/) | pip install pecan | https://github.com/stackforge/pecan | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Pyramid](http://www.pylonsproject.org/) | pip install pyramid | https://github.com/Pylons/pyramid | [BSD-derived](http://www.repoze.org/LICENSE.txt)
+[Sanic](https://github.com/channelcat/sanic) | pip install sanic | https://github.com/channelcat/sanic | [MIT](https://en.wikipedia.org/wiki/MIT_License)
 [Tornado](http://www.tornadoweb.org/en/stable/) | pip install tornado | https://github.com/facebook/tornado | [Apache License 2.0](http://www.apache.org/licenses/)
 [Web.py](http://webpy.org/) | \[sudo\] pip install web.py | https://github.com/webpy/webpy | Public domain
 [Wheezy.web](http://pythonhosted.org/wheezy.web/) | pip install wheezy.web | https://bitbucket.org/akorn/wheezy.web | [MIT](https://en.wikipedia.org/wiki/MIT_License)
-[Falcon](http://falconframework.org/) | pip install falcon | https://github.com/racker/falcon | [Apache License 2.0](http://www.apache.org/licenses/)
 
 ## Web framework for Ruby
 Name | Gem Install | Repository | License
