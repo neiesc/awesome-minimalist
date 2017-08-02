@@ -39,6 +39,7 @@ Name | Minimum size (base) | Repository | License
 [iceCream](http://html5-ninja.com/icecream/) | 1.8 Kib (minified) | http://html5-ninja.com/icecream/ | [WTFPL](https://en.wikipedia.org/wiki/WTFPL)
 [KNACSS](http://knacss.com/) | 13.2 KiB (all modules) | https://github.com/raphaelgoetter/KNACSS | [WTFPL](https://en.wikipedia.org/wiki/WTFPL)
 [Kube](http://imperavi.com/kube/) | 15.2 KiB | https://github.com/sashka/kube | [MIT](http://opensource.org/licenses/MIT)
+[Lesli CSS](https://www.lesli.tech/css) | 37.3 KiB | https://github.com/LesliTech/LesliCSS | [GNU](http://www.gnu.org/licenses/gpl-2.0.html)
 [Milligram](http://milligram.github.io/) | 2.0 KiB (minified and gzipped) | https://github.com/milligram/milligram | [MIT](http://opensource.org/licenses/MIT)
 [Min](https://mincss.com/) | 0.9 KiB (minified and gzipped) | https://github.com/owenversteeg/min | [MIT](http://opensource.org/licenses/MIT)
 [mini.css](https://chalarangelo.github.io/mini.css/) | 7KB (minified + gzipped) | https://github.com/Chalarangelo/mini.css | [MIT](http://opensource.org/licenses/MIT)
