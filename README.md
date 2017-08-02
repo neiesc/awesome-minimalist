@@ -159,10 +159,12 @@ Name | Repository | License
 [Bullet](http://bulletphp.com/)| https://github.com/vlucas/bulletphp | [MIT](http://opensource.org/licenses/MIT)
 [CrudKit](http://crudkit.com/)| https://github.com/skyronic/crudkit/ | [MIT](http://opensource.org/licenses/MIT)
 [Deano](http://github.com/colindean/deano) | http://github.com/colindean/deano | [MIT](http://opensource.org/licenses/MIT)
+[Equip Framework](https://equipframework.readthedocs.io/en/latest/) | https://github.com/equip/framework | [MIT](http://opensource.org/licenses/MIT)
 [Fat Free](http://fatfreeframework.com/) | https://github.com/bcosca/fatfree | [GPL 3](http://www.gnu.org/licenses/gpl-3.0.html)
 [Fitzgerald](http://gregmolnar.github.io/fitzgerald/) | https://github.com/gregmolnar/fitzgerald | [MIT](http://opensource.org/licenses/MIT)
 [Flight](http://flightphp.com/) | https://github.com/mikecao/flight | [MIT](http://opensource.org/licenses/MIT)
 [Frankie Framework](http://frankie.readthedocs.org/en/develop/) | https://github.com/wdalmut/frankie | [MIT](http://opensource.org/licenses/MIT)
+[IceHawk Framework](https://icehawk.github.io/) | https://github.com/icehawk/icehawk | [MIT](http://opensource.org/licenses/MIT)
 [Hackwork](https://github.com/ZDroid/hackwork) | https://github.com/ZDroid/hackwork | [MIT](http://opensource.org/licenses/MIT)
 [Limonade](http://limonade-php.github.io/)| https://github.com/sofadesign/limonade | Unknown
 [Lumen](https://lumen.laravel.com/)| https://github.com/laravel/lumen | [MIT](http://opensource.org/licenses/MIT)
