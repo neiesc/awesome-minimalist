@@ -36,6 +36,7 @@ Name | Minimum size (base) | Repository | License
 [Cascade Framework Light](http://jslegers.github.io/cascadeframeworklight/) | 2.0 KiB (all modules) | https://github.com/jslegers/cascadeframeworklight | [MIT](http://opensource.org/licenses/MIT)
 [Concise CSS](http://concisecss.com/) | 3.46 kiB (Core: minified + gzipped) | https://github.com/ConciseCSS/concise.css | [MIT](http://opensource.org/licenses/MIT)
 [Concrete](http://davidlumley.github.io/concrete/) | 3.2 KiB | https://github.com/davidlumley/concrete | [MIT](http://opensource.org/licenses/MIT)
+[Furtive](http://furtive.co/) | 2.47 KiB | https://github.com/johnotander/furtive | [MIT](http://opensource.org/licenses/MIT)
 [iceCream](http://html5-ninja.com/icecream/) | 1.8 Kib (minified) | http://html5-ninja.com/icecream/ | [WTFPL](https://en.wikipedia.org/wiki/WTFPL)
 [KNACSS](http://knacss.com/) | 13.2 KiB (all modules) | https://github.com/raphaelgoetter/KNACSS | [WTFPL](https://en.wikipedia.org/wiki/WTFPL)
 [Kube](http://imperavi.com/kube/) | 15.2 KiB | https://github.com/sashka/kube | [MIT](http://opensource.org/licenses/MIT)
