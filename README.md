@@ -30,6 +30,7 @@ Name | Minimum size (base) | Repository | License
 [Base](http://git.io/base) | 2.95 KiB (minified + gzipped) | https://github.com/matthewhartman/base | [MIT](http://opensource.org/licenses/mit-license.php)
 [Bass](http://www.basscss.com/) | 3.79 KiB (minified + gzipped) | https://github.com/jxnblk/basscss | [MIT](http://opensource.org/licenses/MIT)
 [Bijou](http://andhart.github.io/bijou) | 1.065 KiB (minified and gzipped) | https://github.com/andhart/bijou | [MIT](http://opensource.org/licenses/mit-license.php)
+[Blaze CSS](http://blazecss.com/) | 182.5 KiB (minified and gzipped) | https://github.com/BlazeCSS/blaze | [MIT](http://opensource.org/licenses/mit-license.php)
 [Cardinal](http://cardinalcss.com) | 4.25 KiB (minified and gzipped) | https://github.com/cbracco/cardinal | [MIT](http://opensource.org/licenses/mit-license.php)
 [Cascade Framework](http://www.cascade-framework.com/) | 10.6 KiB (all modules) | https://github.com/jslegers/cascadeframework | [MIT](http://opensource.org/licenses/MIT)
 [Cascade Framework Light](http://jslegers.github.io/cascadeframeworklight/) | 2.0 KiB (all modules) | https://github.com/jslegers/cascadeframeworklight | [MIT](http://opensource.org/licenses/MIT)
