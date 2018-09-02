@@ -252,4 +252,5 @@ Name | Repository | License
 Name | Repository | License
 --- | --- | ---
 [Aurora](https://github.com/frankhale/aurora) | https://github.com/frankhale/aurora | [GPL](http://opensource.org/licenses/gpl-3.0.html)
+[Butterfly Server .NET](http://butterflyserver.io/) | https://github.com/firesharkstudios/butterfly-server-dotnet | [MPL](https://www.mozilla.org/en-US/MPL/2.0/)
 [Nancy](http://nancyfx.org/) | https://github.com/NancyFx/Nancy/ | [MIT](http://opensource.org/licenses/MIT)
