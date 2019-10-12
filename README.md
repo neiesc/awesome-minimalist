@@ -158,7 +158,6 @@ Name | cpan install | Repository | License
 ## Web framework for PHP
 Name | Repository | License
 --- | --- | ---
-[Afro](http://github.com/jbrooksuk/Afro) | https://github.com/jbrooksuk/Afro | [MIT](http://jbrooksuk.mit-license.org)
 [AuraPHP](http://auraphp.com/blog/2013/12/12/aura-v2-web-project/) | https://github.com/auraphp/Aura.Web_Kernel | [BSD](http://opensource.org/licenses/bsd-license.php)
 [Bullet](http://bulletphp.com/)| https://github.com/vlucas/bulletphp | [MIT](http://opensource.org/licenses/MIT)
 [CrudKit](http://crudkit.com/)| https://github.com/skyronic/crudkit/ | [MIT](http://opensource.org/licenses/MIT)
