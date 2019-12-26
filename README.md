@@ -45,7 +45,7 @@ Name | Minimum size (base) | Repository | License
 [Milligram](http://milligram.io/) | 2.0 KiB (minified and gzipped) | https://github.com/milligram/milligram | [MIT](http://opensource.org/licenses/MIT)
 [Min](https://mincss.com/) | 0.9 KiB (minified and gzipped) | https://github.com/owenversteeg/min | [MIT](http://opensource.org/licenses/MIT)
 [mini.css](https://chalarangelo.github.io/mini.css/) | 7KB (minified + gzipped) | https://github.com/Chalarangelo/mini.css | [MIT](http://opensource.org/licenses/MIT)
-[Mistype](https://github.com/ZDroid/mistype) | 2.1 KiB | https://github.com/ZDroid/mistype | [MIT](http://opensource.org/licenses/MIT)
+[Mistype](https://github.com/zdroid/mistype) | 2.1 KiB | https://github.com/zdroid/mistype | [MIT](http://opensource.org/licenses/MIT)
 [Picnic CSS](http://www.picnicss.com/) | 3.0 KiB (minified and gzipped) | https://github.com/picnicss/picnic | [MIT](http://opensource.org/licenses/MIT)
 [PocketGrid](http://arnaudleray.github.io/pocketgrid/) | 0.5 KiB | https://github.com/arnaudleray/pocketgrid | [MIT](http://opensource.org/licenses/MIT)
 [Pure](http://purecss.io/) | 4.3 KiB (gzipped) | https://github.com/yui/pure | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
@@ -168,7 +168,7 @@ Name | Repository | License
 [Flight](http://flightphp.com/) | https://github.com/mikecao/flight | [MIT](http://opensource.org/licenses/MIT)
 [Frankie Framework](http://frankie.readthedocs.org/en/develop/) | https://github.com/wdalmut/frankie | [MIT](http://opensource.org/licenses/MIT)
 [IceHawk Framework](https://icehawk.github.io/) | https://github.com/icehawk/icehawk | [MIT](http://opensource.org/licenses/MIT)
-[Hackwork](https://github.com/ZDroid/hackwork) | https://github.com/ZDroid/hackwork | [MIT](http://opensource.org/licenses/MIT)
+[Hackwork](https://github.com/zdroid/hackwork) | https://github.com/zdroid/hackwork | [MIT](http://opensource.org/licenses/MIT)
 [Limonade](http://limonade-php.github.io/)| https://github.com/sofadesign/limonade | Unknown
 [Lumen](https://lumen.laravel.com/)| https://github.com/laravel/lumen | [MIT](http://opensource.org/licenses/MIT)
 [MicroMVC](http://micromvc.com/) | https://github.com/Xeoncross/MicroMVC | [MIT](http://opensource.org/licenses/MIT)
