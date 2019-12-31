@@ -119,7 +119,7 @@ Name | Repository | License
 [Resty](https://dreampie.gitbooks.io/resty-chs/content/index.html) | https://github.com/Dreampie/resty | [Apache License V2](http://opensource.org/licenses/apache-2.0)
 [Spark](http://www.sparkjava.com/) | https://github.com/perwendel/spark | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Stapler](http://stapler.kohsuke.org/) | https://github.com/stapler/stapler | [BSD](http://opensource.org/licenses/bsd-license.php)
-
+[Cloudopt Next](http://next.cloudopt.net/) | https://github.com/cloudoptlab/cloudopt-next | [Apache-2.0](http://opensource.org/licenses/apache-2.0)
 
 ## Web framework for JavaScript
 Name | Repository | License
