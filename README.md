@@ -51,7 +51,7 @@ Name | Minimum size (base) | Repository | License
 [Pure](http://purecss.io/) | 4.3 KiB (gzipped) | https://github.com/yui/pure | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Responsable](https://github.com/Responsable/Responsable-Framework) | 2.63 KiB (minified and gzipped) | https://github.com/Responsable/Responsable-Framework | [CC-BY-SA](http://creativecommons.org/licenses/by-sa/2.5/)
 [RocketCSS](https://rocketcss.com/) | 6.4 KiB | https://github.com/RocketCSS/RocketCSS | [MIT](http://opensource.org/licenses/MIT)
-[Simple Grid](http://thisisdallas.github.io/Simple-Grid/) | 1.1 KiB | https://github.com/ThisIsDallas/Simple-Grid | Unknown
+[Simple Grid](http://thisisdallas.github.io/Simple-Grid/) | 1.1 KiB | https://github.com/ThisIsDallas/Simple-Grid | [MIT](http://opensource.org/licenses/MIT)
 [Skeleton](http://getskeleton.com/) | 1.63 KiB (minified and gzipped) | https://github.com/dhg/Skeleton | [MIT](http://opensource.org/licenses/MIT)
 [Tachyons](http://tachyons.io/) | 16.94 KB (minified and gzipped) | https://github.com/tachyons-css/tachyons | [MIT](http://opensource.org/licenses/MIT)
 [Toast](https://daneden.me/toast/) | 1.2 KiB | https://github.com/daneden/Toast | [MIT](http://opensource.org/licenses/MIT)
