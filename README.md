@@ -141,7 +141,7 @@ Name | NPM Install | Repository | License
 [Codekart](http://codekart.jojoin.com) | npm install codekart | https://github.com/myworld4059/Codekart | [MIT](http://opensource.org/licenses/MIT)
 [Feathers](http://feathersjs.com/) | npm install -g feathers-cli | https://github.com/feathersjs/feathers | [MIT](http://opensource.org/licenses/MIT)
 [Flatiron](http://flatironjs.org) | \[sudo\] npm install -g flatiron | https://github.com/flatiron | [MIT](http://opensource.org/licenses/MIT)
-[Hapi](http://spumko.github.io)| npm install hapi | https://github.com/spumko/hapi | Unknown
+[Hapi](https://hapi.dev/)| npm install hapi | https://github.com/spumko/hapi | [View License](https://hapi.dev/policies/license/)
 [Koa](https://github.com/koajs/koa) | \[sudo\] npm install koajs | https://github.com/koajs/koa | [MIT](http://opensource.org/licenses/MIT)
 [Meryl](https://github.com/kadirpekel/meryl) | npm install meryl | https://github.com/kadirpekel/meryl | [MIT](http://opensource.org/licenses/MIT)
 [total.js](http://www.totaljs.com) | npm install total.js | https://github.com/totaljs/framework | [MIT](http://opensource.org/licenses/MIT)
@@ -159,7 +159,7 @@ Name | cpan install | Repository | License
 Name | Repository | License
 --- | --- | ---
 [AuraPHP](http://auraphp.com/blog/2013/12/12/aura-v2-web-project/) | https://github.com/auraphp/Aura.Web_Kernel | [BSD](http://opensource.org/licenses/bsd-license.php)
-[Bullet](http://bulletphp.com/)| https://github.com/vlucas/bulletphp | [MIT](http://opensource.org/licenses/MIT)
+[Bullet](http://bulletphp.com/)| https://github.com/vlucas/bulletphp | [BSD3](https://opensource.org/licenses/BSD-3-Clause)
 [CrudKit](http://crudkit.com/)| https://github.com/skyronic/crudkit/ | [MIT](http://opensource.org/licenses/MIT)
 [Deano](http://github.com/colindean/deano) | http://github.com/colindean/deano | [MIT](http://opensource.org/licenses/MIT)
 [Equip Framework](https://equipframework.readthedocs.io/en/latest/) | https://github.com/equip/framework | [MIT](http://opensource.org/licenses/MIT)
@@ -172,7 +172,7 @@ Name | Repository | License
 [Limonade](http://limonade-php.github.io/)| https://github.com/sofadesign/limonade | [MIT](http://opensource.org/licenses/MIT)
 [Lumen](https://lumen.laravel.com/)| https://github.com/laravel/lumen | [MIT](http://opensource.org/licenses/MIT)
 [MicroMVC](http://micromvc.com/) | https://github.com/Xeoncross/MicroMVC | [MIT](http://opensource.org/licenses/MIT)
-[Mini 3](https://github.com/panique/mini3) | https://github.com/panique/mini3 | Unknown
+[Mini 3](https://github.com/panique/mini3) | https://github.com/panique/mini3 | [MIT](http://opensource.org/licenses/MIT)
 [Nanite](http://nirix.github.io/nanite/) | https://github.com/nirix/nanite | [LGPLv3](https://www.gnu.org/licenses/lgpl.html)
 [Opulence](https://www.opulencephp.com/)| https://github.com/opulencephp/Opulence | [MIT](http://opensource.org/licenses/MIT)
 [One PHP](http://oneframework.net/)| https://github.com/juliomatcom/one-php-microframework | [MIT](http://opensource.org/licenses/MIT)
