@@ -54,7 +54,7 @@ Name | Minimum size (base) | Repository | License
 [Simple Grid](http://thisisdallas.github.io/Simple-Grid/) | 1.1 KiB | https://github.com/ThisIsDallas/Simple-Grid | Unknown
 [Skeleton](http://getskeleton.com/) | 1.63 KiB (minified and gzipped) | https://github.com/dhg/Skeleton | [MIT](http://opensource.org/licenses/MIT)
 [Tachyons](http://tachyons.io/) | 16.94 KB (minified and gzipped) | https://github.com/tachyons-css/tachyons | [MIT](http://opensource.org/licenses/MIT)
-[Toast](https://daneden.me/toast/) | 1.2 KiB | https://github.com/daneden/Toast | Unknown
+[Toast](https://daneden.me/toast/) | 1.2 KiB | https://github.com/daneden/Toast | [MIT](http://opensource.org/licenses/MIT)
 [YAML](http://www.yaml.de/) | 5.9 KiB | https://github.com/yamlcss/yaml | [CC-BY 2.0](http://creativecommons.org/licenses/by/2.0/)
 
 ## Web Framework for C
@@ -153,7 +153,7 @@ Name | NPM Install | Repository | License
 Name | cpan install | Repository | License
 --- | --- | --- | ---
 [Dancer](http://www.perldancer.org) | cpan Dancer | https://github.com/PerlDancer/Dancer | [Artistic](http://en.wikipedia.org/wiki/Artistic_License) or [GPL v.1](http://en.wikipedia.org/wiki/GNU_General_Public_License#Version_1)
-[Mojolicious](ihttp://mojolicio.us) | cpan Mojolicious | https://github.com/kraih/mojo | [Artistic 2.0](ihttp://en.wikipedia.org/wiki/Artistic_License#Artistic_License_2.0)
+[Mojolicious](ihttp://mojolicio.us) | cpan Mojolicious | https://github.com/kraih/mojo | [Artistic 2.0](http://en.wikipedia.org/wiki/Artistic_License#Artistic_License_2.0)
 
 ## Web framework for PHP
 Name | Repository | License
@@ -169,7 +169,7 @@ Name | Repository | License
 [Frankie Framework](http://frankie.readthedocs.org/en/develop/) | https://github.com/wdalmut/frankie | [MIT](http://opensource.org/licenses/MIT)
 [IceHawk Framework](https://icehawk.github.io/) | https://github.com/icehawk/icehawk | [MIT](http://opensource.org/licenses/MIT)
 [Hackwork](https://github.com/zdroid/hackwork) | https://github.com/zdroid/hackwork | [MIT](http://opensource.org/licenses/MIT)
-[Limonade](http://limonade-php.github.io/)| https://github.com/sofadesign/limonade | Unknown
+[Limonade](http://limonade-php.github.io/)| https://github.com/sofadesign/limonade | [MIT](http://opensource.org/licenses/MIT)
 [Lumen](https://lumen.laravel.com/)| https://github.com/laravel/lumen | [MIT](http://opensource.org/licenses/MIT)
 [MicroMVC](http://micromvc.com/) | https://github.com/Xeoncross/MicroMVC | [MIT](http://opensource.org/licenses/MIT)
 [Mini 3](https://github.com/panique/mini3) | https://github.com/panique/mini3 | Unknown
