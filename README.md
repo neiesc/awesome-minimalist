@@ -51,10 +51,10 @@ Name | Minimum size (base) | Repository | License
 [Pure](http://purecss.io/) | 4.3 KiB (gzipped) | https://github.com/yui/pure | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Responsable](https://github.com/Responsable/Responsable-Framework) | 2.63 KiB (minified and gzipped) | https://github.com/Responsable/Responsable-Framework | [CC-BY-SA](http://creativecommons.org/licenses/by-sa/2.5/)
 [RocketCSS](https://rocketcss.com/) | 6.4 KiB | https://github.com/RocketCSS/RocketCSS | [MIT](http://opensource.org/licenses/MIT)
-[Simple Grid](http://thisisdallas.github.io/Simple-Grid/) | 1.1 KiB | https://github.com/ThisIsDallas/Simple-Grid | Unknown
+[Simple Grid](http://thisisdallas.github.io/Simple-Grid/) | 1.1 KiB | https://github.com/ThisIsDallas/Simple-Grid | [MIT](http://opensource.org/licenses/MIT)
 [Skeleton](http://getskeleton.com/) | 1.63 KiB (minified and gzipped) | https://github.com/dhg/Skeleton | [MIT](http://opensource.org/licenses/MIT)
 [Tachyons](http://tachyons.io/) | 16.94 KB (minified and gzipped) | https://github.com/tachyons-css/tachyons | [MIT](http://opensource.org/licenses/MIT)
-[Toast](https://daneden.me/toast/) | 1.2 KiB | https://github.com/daneden/Toast | Unknown
+[Toast](https://daneden.me/toast/) | 1.2 KiB | https://github.com/daneden/Toast | [MIT](http://opensource.org/licenses/MIT)
 [YAML](http://www.yaml.de/) | 5.9 KiB | https://github.com/yamlcss/yaml | [CC-BY 2.0](http://creativecommons.org/licenses/by/2.0/)
 
 ## Web Framework for C
@@ -141,7 +141,7 @@ Name | NPM Install | Repository | License
 [Codekart](http://codekart.jojoin.com) | npm install codekart | https://github.com/myworld4059/Codekart | [MIT](http://opensource.org/licenses/MIT)
 [Feathers](http://feathersjs.com/) | npm install -g feathers-cli | https://github.com/feathersjs/feathers | [MIT](http://opensource.org/licenses/MIT)
 [Flatiron](http://flatironjs.org) | \[sudo\] npm install -g flatiron | https://github.com/flatiron | [MIT](http://opensource.org/licenses/MIT)
-[Hapi](http://spumko.github.io)| npm install hapi | https://github.com/spumko/hapi | Unknown
+[Hapi](https://hapi.dev/)| npm install hapi | https://github.com/spumko/hapi | [Custom License](https://hapi.dev/policies/license/)
 [Koa](https://github.com/koajs/koa) | \[sudo\] npm install koajs | https://github.com/koajs/koa | [MIT](http://opensource.org/licenses/MIT)
 [Meryl](https://github.com/kadirpekel/meryl) | npm install meryl | https://github.com/kadirpekel/meryl | [MIT](http://opensource.org/licenses/MIT)
 [total.js](http://www.totaljs.com) | npm install total.js | https://github.com/totaljs/framework | [MIT](http://opensource.org/licenses/MIT)
@@ -153,13 +153,13 @@ Name | NPM Install | Repository | License
 Name | cpan install | Repository | License
 --- | --- | --- | ---
 [Dancer](http://www.perldancer.org) | cpan Dancer | https://github.com/PerlDancer/Dancer | [Artistic](http://en.wikipedia.org/wiki/Artistic_License) or [GPL v.1](http://en.wikipedia.org/wiki/GNU_General_Public_License#Version_1)
-[Mojolicious](ihttp://mojolicio.us) | cpan Mojolicious | https://github.com/kraih/mojo | [Artistic 2.0](ihttp://en.wikipedia.org/wiki/Artistic_License#Artistic_License_2.0)
+[Mojolicious](ihttp://mojolicio.us) | cpan Mojolicious | https://github.com/kraih/mojo | [Artistic 2.0](http://en.wikipedia.org/wiki/Artistic_License#Artistic_License_2.0)
 
 ## Web framework for PHP
 Name | Repository | License
 --- | --- | ---
 [AuraPHP](http://auraphp.com/blog/2013/12/12/aura-v2-web-project/) | https://github.com/auraphp/Aura.Web_Kernel | [BSD](http://opensource.org/licenses/bsd-license.php)
-[Bullet](http://bulletphp.com/)| https://github.com/vlucas/bulletphp | [MIT](http://opensource.org/licenses/MIT)
+[Bullet](http://bulletphp.com/)| https://github.com/vlucas/bulletphp | [BSD3](https://opensource.org/licenses/BSD-3-Clause)
 [CrudKit](http://crudkit.com/)| https://github.com/skyronic/crudkit/ | [MIT](http://opensource.org/licenses/MIT)
 [Deano](http://github.com/colindean/deano) | http://github.com/colindean/deano | [MIT](http://opensource.org/licenses/MIT)
 [Equip Framework](https://equipframework.readthedocs.io/en/latest/) | https://github.com/equip/framework | [MIT](http://opensource.org/licenses/MIT)
@@ -169,10 +169,10 @@ Name | Repository | License
 [Frankie Framework](http://frankie.readthedocs.org/en/develop/) | https://github.com/wdalmut/frankie | [MIT](http://opensource.org/licenses/MIT)
 [IceHawk Framework](https://icehawk.github.io/) | https://github.com/icehawk/icehawk | [MIT](http://opensource.org/licenses/MIT)
 [Hackwork](https://github.com/zdroid/hackwork) | https://github.com/zdroid/hackwork | [MIT](http://opensource.org/licenses/MIT)
-[Limonade](http://limonade-php.github.io/)| https://github.com/sofadesign/limonade | Unknown
+[Limonade](http://limonade-php.github.io/)| https://github.com/sofadesign/limonade | [MIT](http://opensource.org/licenses/MIT)
 [Lumen](https://lumen.laravel.com/)| https://github.com/laravel/lumen | [MIT](http://opensource.org/licenses/MIT)
 [MicroMVC](http://micromvc.com/) | https://github.com/Xeoncross/MicroMVC | [MIT](http://opensource.org/licenses/MIT)
-[Mini 3](https://github.com/panique/mini3) | https://github.com/panique/mini3 | Unknown
+[Mini 3](https://github.com/panique/mini3) | https://github.com/panique/mini3 | [MIT](http://opensource.org/licenses/MIT)
 [Nanite](http://nirix.github.io/nanite/) | https://github.com/nirix/nanite | [LGPLv3](https://www.gnu.org/licenses/lgpl.html)
 [Opulence](https://www.opulencephp.com/)| https://github.com/opulencephp/Opulence | [MIT](http://opensource.org/licenses/MIT)
 [One PHP](http://oneframework.net/)| https://github.com/juliomatcom/one-php-microframework | [MIT](http://opensource.org/licenses/MIT)
