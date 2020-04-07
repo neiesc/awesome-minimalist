@@ -141,7 +141,7 @@ Name | NPM Install | Repository | License
 [Codekart](http://codekart.jojoin.com) | npm install codekart | https://github.com/myworld4059/Codekart | [MIT](http://opensource.org/licenses/MIT)
 [Feathers](http://feathersjs.com/) | npm install -g feathers-cli | https://github.com/feathersjs/feathers | [MIT](http://opensource.org/licenses/MIT)
 [Flatiron](http://flatironjs.org) | \[sudo\] npm install -g flatiron | https://github.com/flatiron | [MIT](http://opensource.org/licenses/MIT)
-[Hapi](https://hapi.dev/)| npm install hapi | https://github.com/spumko/hapi | [View License](https://hapi.dev/policies/license/)
+[Hapi](https://hapi.dev/)| npm install hapi | https://github.com/spumko/hapi | [Custom License](https://hapi.dev/policies/license/)
 [Koa](https://github.com/koajs/koa) | \[sudo\] npm install koajs | https://github.com/koajs/koa | [MIT](http://opensource.org/licenses/MIT)
 [Meryl](https://github.com/kadirpekel/meryl) | npm install meryl | https://github.com/kadirpekel/meryl | [MIT](http://opensource.org/licenses/MIT)
 [total.js](http://www.totaljs.com) | npm install total.js | https://github.com/totaljs/framework | [MIT](http://opensource.org/licenses/MIT)
