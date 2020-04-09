@@ -107,6 +107,7 @@ Name | Cabal Install | Repository | License
 Name | Repository | License
 --- | --- | ---
 [Blade](http://bladejava.com/) | https://github.com/biezhi/blade | [Apache License V2](http://opensource.org/licenses/apache-2.0)
+[Cloudopt Next](https://next.cloudopt.net/) | https://github.com/cloudoptlab/cloudopt-next | [Apache-2.0](http://opensource.org/licenses/apache-2.0)
 [JFinal](https://www.gitbook.com/book/jfinal/jfinal-manual/details) | https://github.com/jfinal/jfinal | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Jodd](http://jodd.org/) | https://github.com/oblac/jodd | [BSD-2](https://opensource.org/licenses/BSD-2-Clause)
 [Jooby](http://jooby.org/) | https://github.com/jooby-project/jooby | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
