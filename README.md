@@ -93,7 +93,7 @@ Name | Bower Install | Repository | License
 Name | Repository | License
 --- | --- | ---
 [Beego Framework](http://beego.me/) | https://github.com/astaxie/beego | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-[chi](https://github.com/go-chi/chi) | https://github.com/go-chi/chi | [MIT License](http://opensource.org/licenses/MIT)
+[chi](https://github.com/go-chi/chi) | https://github.com/go-chi/chi | [MIT](http://opensource.org/licenses/MIT)
 [Gocraft/web](https://github.com/gocraft/web) | https://github.com/gocraft/web | [MIT](http://opensource.org/licenses/MIT)
 [Martini](http://martini.codegangsta.io) | https://github.com/codegangsta/martini | [MIT](http://opensource.org/licenses/MIT)
 [Traffic](https://github.com/pilu/traffic) | https://github.com/pilu/traffic | [MIT](http://opensource.org/licenses/MIT)
