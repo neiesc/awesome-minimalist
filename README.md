@@ -6,7 +6,7 @@ A list of minimalist frameworks (simple and lightweight). All in alphabetical or
 * [Framework for CSS](#framework-for-css)
 * [Web Framework for C](#web-framework-for-c)
 * [Database framework for PHP](#database-framework-for-php)
-* [Frameworks for Front-end JS](#frameworks-for-front-endresponsablecss-js)
+* [Frameworks for Front-end JS](#frameworks-for-front-end-js)
 * [Web framework for Go](#web-framework-for-go)
 * [Web framework for Haskell](#web-framework-for-haskell)
 * [Web framework for Java](#web-framework-for-java)
