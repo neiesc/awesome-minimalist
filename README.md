@@ -203,6 +203,8 @@ Name | PIP Install | Repository | License
 [Clastic](https://github.com/mahmoud/clastic/) | pip install clastic | https://github.com/mahmoud/clastic | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Cyclone](http://cyclone.io/) | pip install cyclone | https://github.com/fiorix/cyclone | [Apache License 2.0](http://www.apache.org/licenses/)
 [Falcon](http://falconframework.org/) | pip install falcon | https://github.com/racker/falcon | [Apache License 2.0](http://www.apache.org/licenses/)
+[FastAPI](https://fastapi.tiangolo.com/) | pip install fastapi | https://github.com/tiangolo/fastapi | [MIT](https://en.wikipedi
+a.org/wiki/MIT_License)
 [Flask](http://flask.pocoo.org/) | pip install Flask | https://github.com/mitsuhiko/flask | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Fresco](http://ollycope.com/software/fresco/) | pip install fresco | https://bitbucket.org/ollyc/fresco | [Apache License 2.0](http://www.apache.org/licenses/)
 [Itty-Bitty](https://github.com/toastdriven/itty/) | pip install itty | https://github.com/toastdriven/itty/ | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
