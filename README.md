@@ -141,6 +141,7 @@ Name | NPM Install | Repository | License
 --- | --- | --- | ---
 [Express.js](http://expressjs.com) | \[sudo\] npm install express | https://github.com/visionmedia/express | [MIT](http://opensource.org/licenses/MIT)
 [Codekart](http://codekart.jojoin.com) | npm install codekart | https://github.com/myworld4059/Codekart | [MIT](http://opensource.org/licenses/MIT)
+[Fastify](https://www.fastify.io/) | npm install fastify | https://github.com/fastify/fastify | [MIT](http://opensource.org/licenses/MIT)
 [Feathers](http://feathersjs.com/) | npm install -g feathers-cli | https://github.com/feathersjs/feathers | [MIT](http://opensource.org/licenses/MIT)
 [Flatiron](http://flatironjs.org) | \[sudo\] npm install -g flatiron | https://github.com/flatiron | [MIT](http://opensource.org/licenses/MIT)
 [Hapi](https://hapi.dev/)| npm install hapi | https://github.com/spumko/hapi | [Custom License](https://hapi.dev/policies/license/)
