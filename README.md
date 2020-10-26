@@ -3,22 +3,24 @@ List of minimalist frameworks
 A list of minimalist frameworks (simple and lightweight). All in alphabetical order.
 
 ### Index
-* [Framework for CSS](#framework-for-css)
-* [Web Framework for C](#web-framework-for-c)
-* [Database framework for PHP](#database-framework-for-php)
-* [Frameworks for Front-end JS](#frameworks-for-front-end-js)
-* [Web framework for Go](#web-framework-for-go)
-* [Web framework for Haskell](#web-framework-for-haskell)
-* [Web framework for Java](#web-framework-for-java)
-* [Web framework for JavaScript](#web-framework-for-javascript)
-* [Web framework for Lua](#web-framework-for-lua)
-* [Web framework for Node.js](#web-framework-for-nodejs)
-* [Web framework for Perl](#web-framework-for-perl)
-* [Web framework for PHP](#web-framework-for-php)
-* [Web framework for Python](#web-framework-for-python)
-* [Web framework for Ruby](#web-framework-for-ruby)
-* [Web framework for Scala](#web-framework-for-scala)
-* [Web framework for .NET (C#)](#web-framework-for-net-c)
+- [List of minimalist frameworks](#list-of-minimalist-frameworks)
+    - [Index](#index)
+  - [Framework for CSS](#framework-for-css)
+  - [Web Framework for C](#web-framework-for-c)
+  - [Database framework for PHP](#database-framework-for-php)
+  - [Frameworks for Front-end JS](#frameworks-for-front-end-js)
+  - [Web framework for Go](#web-framework-for-go)
+  - [Web framework for Haskell](#web-framework-for-haskell)
+  - [Web framework for Java](#web-framework-for-java)
+  - [Web framework for JavaScript](#web-framework-for-javascript)
+  - [Web Framework for Lua](#web-framework-for-lua)
+  - [Web framework for Node.js](#web-framework-for-nodejs)
+  - [Web framework for Perl](#web-framework-for-perl)
+  - [Web framework for PHP](#web-framework-for-php)
+  - [Web framework for Python](#web-framework-for-python)
+  - [Web framework for Ruby](#web-framework-for-ruby)
+  - [Web framework for Scala](#web-framework-for-scala)
+  - [Web framework for .NET (C#)](#web-framework-for-net-c)
 
 ## Framework for CSS
 Use http://refresh-sf.com/ to compress, and get size "Gzip"
@@ -141,6 +143,7 @@ Name | NPM Install | Repository | License
 --- | --- | --- | ---
 [Express.js](http://expressjs.com) | \[sudo\] npm install express | https://github.com/visionmedia/express | [MIT](http://opensource.org/licenses/MIT)
 [Codekart](http://codekart.jojoin.com) | npm install codekart | https://github.com/myworld4059/Codekart | [MIT](http://opensource.org/licenses/MIT)
+[Fastify](https://www.fastify.io/) | npm install fastify | https://github.com/fastify/fastify | [MIT](http://opensource.org/licenses/MIT)
 [Feathers](http://feathersjs.com/) | npm install -g feathers-cli | https://github.com/feathersjs/feathers | [MIT](http://opensource.org/licenses/MIT)
 [Flatiron](http://flatironjs.org) | \[sudo\] npm install -g flatiron | https://github.com/flatiron | [MIT](http://opensource.org/licenses/MIT)
 [Hapi](https://hapi.dev/)| npm install hapi | https://github.com/spumko/hapi | [Custom License](https://hapi.dev/policies/license/)
