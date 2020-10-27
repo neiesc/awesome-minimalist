@@ -55,6 +55,7 @@ Name | Minimum size (base) | Repository | License
 [Skeleton](http://getskeleton.com/) | 1.63 KiB (minified and gzipped) | https://github.com/dhg/Skeleton | [MIT](http://opensource.org/licenses/MIT)
 [Tachyons](http://tachyons.io/) | 16.94 KB (minified and gzipped) | https://github.com/tachyons-css/tachyons | [MIT](http://opensource.org/licenses/MIT)
 [Toast](https://daneden.me/toast/) | 1.2 KiB | https://github.com/daneden/Toast | [MIT](http://opensource.org/licenses/MIT)
+[Wing](https://github.com/kbrsh/wing) | 2KB (minified + gzipped) | https://github.com/kbrsh/wing | [MIT](http://opensource.org/licenses/MIT)
 [YAML](http://www.yaml.de/) | 5.9 KiB | https://github.com/yamlcss/yaml | [CC-BY 2.0](http://creativecommons.org/licenses/by/2.0/)
 
 ## Web Framework for C
