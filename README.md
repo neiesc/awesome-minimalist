@@ -3,7 +3,7 @@ Awesome minimalist frameworks
 A curated list of awesome resources, pointers, and tips related to minimalist frameworks (simple and lightweight).
 Everything in alphabetical order.
 
-### Contents
+## Contents
 * [Framework for CSS](#framework-for-css)
 * [Web Framework for C](#web-framework-for-c)
 * [Database framework for PHP](#database-framework-for-php)
