@@ -1,25 +1,25 @@
-Awesome minimalist frameworks
-=========================
+# Awesome minimalist frameworks [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+
 A curated list of awesome resources, pointers, and tips related to minimalist frameworks (simple and lightweight).
 Everything in alphabetical order.
 
 ## Contents
-* [Framework for CSS](#framework-for-css)
-* [Web Framework for C](#web-framework-for-c)
-* [Database framework for PHP](#database-framework-for-php)
-* [Frameworks for Front-end JS](#frameworks-for-front-end-js)
-* [Web framework for Go](#web-framework-for-go)
-* [Web framework for Haskell](#web-framework-for-haskell)
-* [Web framework for Java](#web-framework-for-java)
-* [Web framework for JavaScript](#web-framework-for-javascript)
-* [Web framework for Lua](#web-framework-for-lua)
-* [Web framework for Node.js](#web-framework-for-nodejs)
-* [Web framework for Perl](#web-framework-for-perl)
-* [Web framework for PHP](#web-framework-for-php)
-* [Web framework for Python](#web-framework-for-python)
-* [Web framework for Ruby](#web-framework-for-ruby)
-* [Web framework for Scala](#web-framework-for-scala)
-* [Web framework for .NET (C#)](#web-framework-for-net-c)
+-  [Framework for CSS](#framework-for-css)
+-  [Web Framework for C](#web-framework-for-c)
+- [Database framework for PHP](#database-framework-for-php)
+- [Frameworks for Front-end JS](#frameworks-for-front-end-js)
+- [Web framework for Go](#web-framework-for-go)
+- [Web framework for Haskell](#web-framework-for-haskell)
+- [Web framework for Java](#web-framework-for-java)
+- [Web framework for JavaScript](#web-framework-for-javascript)
+- [Web framework for Lua](#web-framework-for-lua)
+- [Web framework for Node.js](#web-framework-for-nodejs)
+- [Web framework for Perl](#web-framework-for-perl)
+- [Web framework for PHP](#web-framework-for-php)
+- [Web framework for Python](#web-framework-for-python)
+- [Web framework for Ruby](#web-framework-for-ruby)
+- [Web framework for Scala](#web-framework-for-scala)
+- [Web framework for .NET (C#)](#web-framework-for-net-c)
 
 ## Framework for CSS
 Use http://refresh-sf.com/ to compress, and get size "Gzip"
