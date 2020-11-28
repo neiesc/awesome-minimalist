@@ -63,8 +63,8 @@ Wing | 2KB (minified + gzipped) | [Repository](https://github.com/kbrsh/wing) | 
 
 Name | Repository | License
 --- | --- | ---
-[go-horse](https://github.com/gabrielfalcao/go-horse) | [Repository](https://github.com/gabrielfalcao/go-horse) | MIT license
-[Raphters](https://github.com/DanielWaterworth/Raphters) | [Repository](https://github.com/DanielWaterworth/Raphters) | GPL 3.0 license
+go-horse | [Repository](https://github.com/gabrielfalcao/go-horse) | MIT license
+Raphters | [Repository](https://github.com/DanielWaterworth/Raphters) | GPL 3.0 license
 
 ## Database framework for PHP
 Name | Minimum size (base) | Repository | License
@@ -78,46 +78,46 @@ Name | Minimum size (base) | Repository | License
 ## Frameworks for Front-end JS
 Name | Bower Install | Repository | License
 --- | --- | --- | ---
-[Aura](http://aurajs.com/) | bower install aura | https://github.com/aurajs/aura | MIT license
-[C H O O](https://choo.io/) | npm install choo | https://github.com/yoshuawuyts/choo | MIT license
-[Kraken](http://cferdinandi.github.io/kraken/) | Unknown | https://github.com/cferdinandi/kraken | MIT license
-[Min.js](https://github.com/remy/min.js) | Unknown | https://github.com/remy/min.js | MIT license
-[Reactive.coffee](http://yang.github.io/reactive-coffee/) | bower install reactive-coffee | https://github.com/yang/reactive-coffee | MIT license
-[Responsive](http://responsivebp.com/) | Unknown | https://github.com/ResponsiveBP/Responsive | MIT license
-[ScaleApp](http://scaleapp.org/) | bower install scaleapp | https://github.com/flosse/scaleApp | MIT license
-[skel](http://skel.io/) | Unknown | https://github.com/n33/skel | MIT license
-[Spine](http://spinejs.com/) | bower install spine | https://github.com/spine/spine | MIT license
-[Stapes](http://hay.github.io/stapes) | bower install stapes | http://github.com/hay/stapes | MIT license
-[Topcoat](http://topcoat.io/) | bower lookup topcoat | https://github.com/topcoat/topcoat | Apache License V2
-[VertxUI](https://github.com/nielsbaloe/vertxui/) | through Java | https://github.com/nielsbaloe/vertxui|  GPL 2.0 license
+[Aura](http://aurajs.com/) | bower install aura | [Repository](https://github.com/aurajs/aura) | MIT license
+[C H O O](https://choo.io/) | npm install choo | [Repository](https://github.com/yoshuawuyts/choo) | MIT license
+[Kraken](http://cferdinandi.github.io/kraken/) | Unknown | [Repository](https://github.com/cferdinandi/kraken) | MIT license
+Min.js | Unknown | [Repository](https://github.com/remy/min.js) | MIT license
+[Reactive.coffee](http://yang.github.io/reactive-coffee/) | bower install reactive-coffee | [Repository](https://github.com/yang/reactive-coffee) | MIT license
+[Responsive](http://responsivebp.com/) | Unknown | [Repository](https://github.com/ResponsiveBP/Responsive) | MIT license
+[ScaleApp](http://scaleapp.org/) | bower install scaleapp | [Repository](https://github.com/flosse/scaleApp) | MIT license
+[skel](http://skel.io/) | Unknown | [Repository](https://github.com/n33/skel) | MIT license
+[Spine](http://spinejs.com/) | bower install spine | [Repository](https://github.com/spine/spine) | MIT license
+[Stapes](http://hay.github.io/stapes) | bower install stapes | [Repository](http://github.com/hay/stapes) | MIT license
+[Topcoat](http://topcoat.io/) | bower lookup topcoat | [Repository](https://github.com/topcoat/topcoat) | Apache License V2
+[VertxUI](https://github.com/nielsbaloe/vertxui/) | through Java | [Repository](https://github.com/nielsbaloe/vertxui) |  GPL 2.0 license
 
 ## Web framework for Go
 Name | Repository | License
 --- | --- | ---
-[Beego Framework](http://beego.me/) | https://github.com/astaxie/beego | Apache License V2
-[chi](https://github.com/go-chi/chi) | https://github.com/go-chi/chi | MIT license
-[echo](https://github.com/labstack/echo) | https://github.com/labstack/echo | MIT license
-[Gocraft/web](https://github.com/gocraft/web) | https://github.com/gocraft/web | MIT license
-[Martini](http://martini.codegangsta.io) | https://github.com/codegangsta/martini | MIT license
-[Traffic](https://github.com/pilu/traffic) | https://github.com/pilu/traffic | MIT license
+[Beego Framework](http://beego.me/) | [Repository](https://github.com/astaxie/beego) | Apache License V2
+[chi](https://github.com/go-chi/chi) | [Repository](https://github.com/go-chi/chi) | MIT license
+[echo](https://github.com/labstack/echo) | [Repository](https://github.com/labstack/echo) | MIT license
+[Gocraft/web](https://github.com/gocraft/web) | [Repository](https://github.com/gocraft/web) | MIT license
+[Martini](http://martini.codegangsta.io) | [Repository](https://github.com/codegangsta/martini) | MIT license
+[Traffic](https://github.com/pilu/traffic) | [Repository](https://github.com/pilu/traffic) | MIT license
 
 ## Web framework for Haskell
 Name | Cabal Install | Repository | License
 --- | --- | --- | ---
-[Scotty](http://hackage.haskell.org/package/scotty) | cabal install scotty | https://github.com/scotty-web/scotty | BSD 3 license
-[Snap](http://snapframework.com/) | cabal install snap | https://github.com/snapframework/snap | BSD 3 license
+[Scotty](http://hackage.haskell.org/package/scotty) | cabal install scotty | [Repository](https://github.com/scotty-web/scotty) | BSD 3 license
+[Snap](http://snapframework.com/) | cabal install snap | [Repository](https://github.com/snapframework/snap) | BSD 3 license
 
 ## Web framework for Java
 Name | Repository | License
 --- | --- | ---
-[Blade](http://bladejava.com/) | https://github.com/biezhi/blade | [Apache License V2](http://opensource.org/licenses/apache-2.0)
-[Cloudopt Next](https://next.cloudopt.net/) | https://github.com/cloudoptlab/cloudopt-next | [Apache-2.0](http://opensource.org/licenses/apache-2.0)
-[JFinal](https://www.gitbook.com/book/jfinal/jfinal-manual/details) | https://github.com/jfinal/jfinal | Apache License V2
-[Jodd](http://jodd.org/) | https://github.com/oblac/jodd | [BSD-2](https://opensource.org/licenses/BSD-2-Clause)
-[Jooby](http://jooby.org/) | https://github.com/jooby-project/jooby | Apache License V2
-[Molecule](http://molecule.vtence.com) | https://github.com/testinfected/molecule | [MIT](https://vtence.mit-license.org)
-[Ninja Framework](http://www.ninjaframework.org/) | https://github.com/ninjaframework/ninja | Apache License V2
-[Pippo](http://pippo.ro/) | https://github.com/decebals/pippo | [Apache License V2](http://opensource.org/licenses/apache-2.0)
+[Blade](http://bladejava.com/) | [Repository](https://github.com/biezhi/blade) | [Apache License V2](http://opensource.org/licenses/apache-2.0)
+[Cloudopt Next](https://next.cloudopt.net/) | [Repository](https://github.com/cloudoptlab/cloudopt-next) | [Apache-2.0](http://opensource.org/licenses/apache-2.0)
+[JFinal](https://www.gitbook.com/book/jfinal/jfinal-manual/details) | [Repository](https://github.com/jfinal/jfinal) | Apache License V2
+[Jodd](http://jodd.org/) | [Repository](https://github.com/oblac/jodd) | [BSD-2](https://opensource.org/licenses/BSD-2-Clause)
+[Jooby](http://jooby.org/) | [Repository](https://github.com/jooby-project/jooby) | Apache License V2
+[Molecule](http://molecule.vtence.com) | [Repository](https://github.com/testinfected/molecule) | [MIT](https://vtence.mit-license.org)
+[Ninja Framework](http://www.ninjaframework.org/) | [Repository](https://github.com/ninjaframework/ninja) | Apache License V2
+[Pippo](http://pippo.ro/) | [Repository](https://github.com/decebals/pippo) | [Apache License V2](http://opensource.org/licenses/apache-2.0)
 [Play Framework](http://www.playframework.com/) | https://github.com/playframework/playframework | Apache License V2
 [Restlet](http://restlet.org) | https://github.com/restlet/restlet-framework-java | [Apache License V2](http://opensource.org/licenses/apache-2.0)
 [RestX](http://restx.io/) | https://github.com/restx/restx | [Apache License V2](http://opensource.org/licenses/apache-2.0)
@@ -129,9 +129,9 @@ Name | Repository | License
 ## Web framework for JavaScript
 Name | Repository | License
 --- | --- | ---
-[Stapes](http://hay.github.io/stapes/) | https://github.com/hay/stapes | MIT license
-[Mithril](http://lhorie.github.io/mithril/) | https://github.com/lhorie/mithril.js | MIT license
-[Umbrella](http://umbrellajs.com/) | https://github.com/umbrellajs/umbrella | MIT license
+Stapes | [Repository](https://github.com/hay/stapes) | MIT license
+[Mithril](http://lhorie.github.io/mithril/) | [Repository](https://github.com/lhorie/mithril.js) | MIT license
+[Umbrella](http://umbrellajs.com/) | [Repository](https://github.com/umbrellajs/umbrella) | MIT license
 
 ## Web framework for Lua
 Name | LuaRocks Install | Repository | License
