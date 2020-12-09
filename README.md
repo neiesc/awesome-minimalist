@@ -87,19 +87,18 @@ Min.js | Unknown | [Repository](https://github.com/remy/min.js) | MIT license
 [ScaleApp](http://scaleapp.org/) | bower install scaleapp | [Repository](https://github.com/flosse/scaleApp) | MIT license
 [skel](http://skel.io/) | Unknown | [Repository](https://github.com/n33/skel) | MIT license
 [Spine](http://spinejs.com/) | bower install spine | [Repository](https://github.com/spine/spine) | MIT license
-[Stapes](http://hay.github.io/stapes) | bower install stapes | [Repository](http://github.com/hay/stapes) | MIT license
 [Topcoat](http://topcoat.io/) | bower lookup topcoat | [Repository](https://github.com/topcoat/topcoat) | Apache License V2
-[VertxUI](https://github.com/nielsbaloe/vertxui/) | through Java | [Repository](https://github.com/nielsbaloe/vertxui) |  GPL 2.0 license
+VertxUI | through Java | [Repository](https://github.com/nielsbaloe/vertxui) |  GPL 2.0 license
 
 ## Web framework for Go
 Name | Repository | License
 --- | --- | ---
 [Beego Framework](http://beego.me/) | [Repository](https://github.com/astaxie/beego) | Apache License V2
-[chi](https://github.com/go-chi/chi) | [Repository](https://github.com/go-chi/chi) | MIT license
-[echo](https://github.com/labstack/echo) | [Repository](https://github.com/labstack/echo) | MIT license
-[Gocraft/web](https://github.com/gocraft/web) | [Repository](https://github.com/gocraft/web) | MIT license
+chi | [Repository](https://github.com/go-chi/chi) | MIT license
+echo | [Repository](https://github.com/labstack/echo) | MIT license
+Gocraft/web | [Repository](https://github.com/gocraft/web) | MIT license
 [Martini](http://martini.codegangsta.io) | [Repository](https://github.com/codegangsta/martini) | MIT license
-[Traffic](https://github.com/pilu/traffic) | [Repository](https://github.com/pilu/traffic) | MIT license
+Traffic | [Repository](https://github.com/pilu/traffic) | MIT license
 
 ## Web framework for Haskell
 Name | Cabal Install | Repository | License
@@ -110,20 +109,19 @@ Name | Cabal Install | Repository | License
 ## Web framework for Java
 Name | Repository | License
 --- | --- | ---
-[Blade](http://bladejava.com/) | [Repository](https://github.com/biezhi/blade) | [Apache License V2](http://opensource.org/licenses/apache-2.0)
-[Cloudopt Next](https://next.cloudopt.net/) | [Repository](https://github.com/cloudoptlab/cloudopt-next) | [Apache-2.0](http://opensource.org/licenses/apache-2.0)
+[Blade](http://bladejava.com/) | [Repository](https://github.com/biezhi/blade) | Apache License V2
+[Cloudopt Next](https://next.cloudopt.net/) | [Repository](https://github.com/cloudoptlab/cloudopt-next) | Apache License V2
 [JFinal](https://www.gitbook.com/book/jfinal/jfinal-manual/details) | [Repository](https://github.com/jfinal/jfinal) | Apache License V2
 [Jodd](http://jodd.org/) | [Repository](https://github.com/oblac/jodd) | [BSD-2](https://opensource.org/licenses/BSD-2-Clause)
 [Jooby](http://jooby.org/) | [Repository](https://github.com/jooby-project/jooby) | Apache License V2
-[Molecule](http://molecule.vtence.com) | [Repository](https://github.com/testinfected/molecule) | [MIT](https://vtence.mit-license.org)
+[Molecule](http://molecule.vtence.com) | [Repository](https://github.com/testinfected/molecule) | MIT
 [Ninja Framework](http://www.ninjaframework.org/) | [Repository](https://github.com/ninjaframework/ninja) | Apache License V2
-[Pippo](http://pippo.ro/) | [Repository](https://github.com/decebals/pippo) | [Apache License V2](http://opensource.org/licenses/apache-2.0)
-[Play Framework](http://www.playframework.com/) | https://github.com/playframework/playframework | Apache License V2
-[Restlet](http://restlet.org) | https://github.com/restlet/restlet-framework-java | [Apache License V2](http://opensource.org/licenses/apache-2.0)
-[RestX](http://restx.io/) | https://github.com/restx/restx | [Apache License V2](http://opensource.org/licenses/apache-2.0)
-[Resty](https://dreampie.gitbooks.io/resty-chs/content/index.html) | https://github.com/Dreampie/resty | [Apache License V2](http://opensource.org/licenses/apache-2.0)
-[Spark](http://www.sparkjava.com/) | https://github.com/perwendel/spark | Apache License V2
-[Stapler](http://stapler.kohsuke.org/) | https://github.com/stapler/stapler | [BSD](http://opensource.org/licenses/bsd-license.php)
+[Pippo](http://pippo.ro/) | [Repository](https://github.com/decebals/pippo) | Apache License V2
+[Restlet](http://restlet.org) | [Repository](https://github.com/restlet/restlet-framework-java) | Apache License V2
+[RestX](http://restx.io/) | [Repository](https://github.com/restx/restx) | Apache License V2
+[Resty](https://dreampie.gitbooks.io/resty-chs/content/index.html) | [Repository](https://github.com/Dreampie/resty) | Apache License V2
+[Spark](http://www.sparkjava.com/) | [Repository](https://github.com/perwendel/spark) | Apache License V2
+[Stapler](http://stapler.kohsuke.org/) | [Repository](https://github.com/stapler/stapler) | BSD license
 
 
 ## Web framework for JavaScript
@@ -136,24 +134,24 @@ Stapes | [Repository](https://github.com/hay/stapes) | MIT license
 ## Web framework for Lua
 Name | LuaRocks Install | Repository | License
 --- | --- | --- | ---
-[Lapis](http://leafo.net/lapis/) | luarocks install lapis | https://github.com/leafo/lapis | MIT license
-[Vanilla](https://github.com/idevz/vanilla) | luarocks install vanilla | https://github.com/idevz/vanilla | MIT license
+[Lapis](http://leafo.net/lapis/) | luarocks install lapis | [Repository](https://github.com/leafo/lapis) | MIT license
+Vanilla | luarocks install vanilla | [Repository](https://github.com/idevz/vanilla) | MIT license
 
 ## Web framework for Node.js
 Name | NPM Install | Repository | License
 --- | --- | --- | ---
-[Express.js](http://expressjs.com) | \[sudo\] npm install express | https://github.com/visionmedia/express | MIT license
-[Codekart](http://codekart.jojoin.com) | npm install codekart | https://github.com/myworld4059/Codekart | MIT license
-[Fastify](https://www.fastify.io/) | npm install fastify | https://github.com/fastify/fastify | MIT license
-[Feathers](http://feathersjs.com/) | npm install -g feathers-cli | https://github.com/feathersjs/feathers | MIT license
-[Flatiron](http://flatironjs.org) | \[sudo\] npm install -g flatiron | https://github.com/flatiron | MIT license
-[Hapi](https://hapi.dev/)| npm install hapi | https://github.com/spumko/hapi | [Custom License](https://hapi.dev/policies/license/)
-[Koa](https://github.com/koajs/koa) | \[sudo\] npm install koajs | https://github.com/koajs/koa | MIT license
-[Meryl](https://github.com/kadirpekel/meryl) | npm install meryl | https://github.com/kadirpekel/meryl | MIT license
-[total.js](http://www.totaljs.com) | npm install total.js | https://github.com/totaljs/framework | MIT license
-[Restify](http://mcavage.me/node-restify) | npm install restify | https://github.com/mcavage/node-restify | MIT license
-[SocketStream](http://www.socketstream.org) | \[sudo\] npm install -g socketstream | https://github.com/socketstream/socketstream | [MIT](https://github.com/socketstream/socketstream/blob/master/LICENSE)
-[Sails.js](http://sailsjs.org) | \[sudo\]npm -g install sails | https://github.com/balderdashy/sails | [MIT](https://github.com/balderdashy/sails/blob/master/LICENSE.md)
+[Express.js](http://expressjs.com) | \[sudo\] npm install express | [Repository](https://github.com/visionmedia/express) | MIT license
+[Codekart](http://codekart.jojoin.com) | npm install codekart | [Repository](https://github.com/myworld4059/Codekart) | MIT license
+[Fastify](https://www.fastify.io/) | npm install fastify | [Repository](https://github.com/fastify/fastify) | MIT license
+[Feathers](http://feathersjs.com/) | npm install -g feathers-cli | [Repository](https://github.com/feathersjs/feathers) | MIT license
+[Flatiron](http://flatironjs.org) | \[sudo\] npm install -g flatiron | [Repository](https://github.com/flatiron) | MIT license
+[Hapi](https://hapi.dev/)| npm install hapi | [Repository](https://github.com/spumko/hapi) | [Custom License](https://hapi.dev/policies/license/)
+Koa | \[sudo\] npm install koajs | [Repository](https://github.com/koajs/koa) | MIT license
+[Meryl](https://github.com/kadirpekel/meryl) | npm install meryl | [Repository](https://github.com/kadirpekel/meryl) | MIT license
+[total.js](http://www.totaljs.com) | npm install total.js | [Repository](https://github.com/totaljs/framework) | MIT license
+[Restify](http://mcavage.me/node-restify) | npm install restify | [Repository](https://github.com/mcavage/node-restify) | MIT license
+[SocketStream](http://www.socketstream.org) | \[sudo\] npm install -g socketstream | [Repository](https://github.com/socketstream/socketstream) | MIT license
+[Sails.js](http://sailsjs.org) | \[sudo\]npm -g install sails | https://github.com/balderdashy/sails | MIT license
 
 ## Web framework for Perl
 Name | cpan install | Repository | License
