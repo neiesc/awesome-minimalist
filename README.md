@@ -123,7 +123,6 @@ Name | Repository | License
 [Spark](http://www.sparkjava.com/) | [Repository](https://github.com/perwendel/spark) | Apache License V2
 [Stapler](http://stapler.kohsuke.org/) | [Repository](https://github.com/stapler/stapler) | BSD License
 
-
 ## Web framework for JavaScript
 Name | Repository | License
 --- | --- | ---
@@ -202,59 +201,60 @@ Name | PIP Install | Repository | License
 [Bobo](http://bobo.digicool.com/) | pip install bobo | [Repository](https://github.com/zopefoundation/bobo) | ZPL 2.1 License
 [Bottle](http://bottlepy.org/docs/dev/) | \[sudo\] pip install bottle | [Repository](https://github.com/defnull/bottle) | MIT License
 [CherryPy](http://www.cherrypy.org/) | pip install CherryPy | [Repository](https://bitbucket.org/cherrypy/cherrypy/overview) | BSD License
-[Clastic](https://github.com/mahmoud/clastic/) | pip install clastic | [Repository](https://github.com/mahmoud/clastic) | BSD License
+Clastic | pip install clastic | [Repository](https://github.com/mahmoud/clastic) | BSD License
 [Cyclone](http://cyclone.io/) | pip install cyclone | [Repository](https://github.com/fiorix/cyclone) | Apache License 2.0
 [Falcon](http://falconframework.org/) | pip install falcon | [Repository](https://github.com/racker/falcon) | Apache License 2.0
 [FastAPI](https://fastapi.tiangolo.com/) | pip install fastapi | [Repository](https://github.com/tiangolo/fastapi) | MIT License
 [Flask](http://flask.pocoo.org/) | pip install Flask | [Repository](https://github.com/mitsuhiko/flask) | BSD License
 [Fresco](http://ollycope.com/software/fresco/) | pip install fresco | [Repository](https://bitbucket.org/ollyc/fresco) | Apache License 2.0 License
-[Itty-Bitty](https://github.com/toastdriven/itty/) | pip install itty | [Repository](https://github.com/toastdriven/itty) | BSD 3 License
-[Klein](https://github.com/twisted/klein) | pip install klein | [Repository](https://github.com/twisted/klein) | MIT License
+Itty-Bitty | pip install itty | [Repository](https://github.com/toastdriven/itty) | BSD 3 License
+Klein | pip install klein | [Repository](https://github.com/twisted/klein) | MIT License
 [Morepath](http://morepath.readthedocs.org) | pip install morepath | [Repository](https://github.com/morepath/morepath) | BSD 3 License
-[ObjectWeb](https://github.com/aisola/ObjectWeb) | Unknown | [Repository](https://github.com/aisola/ObjectWeb) | LGPLv3 License
+ObjectWeb | Unknown | [Repository](https://github.com/aisola/ObjectWeb) | LGPLv3 License
 [Pecan](http://pecanpy.org/) | pip install pecan | [Repository](https://github.com/stackforge/pecan) | BSD License
 [Pyramid](http://www.pylonsproject.org/) | pip install pyramid | [Repository](https://github.com/Pylons/pyramid) | BSD-derived License
-[Sanic](https://github.com/channelcat/sanic) | pip install sanic | [Repository](https://github.com/channelcat/sanic) | [MIT License
+Sanic | pip install sanic | [Repository](https://github.com/channelcat/sanic) | [MIT License
 [Tornado](http://www.tornadoweb.org/en/stable/) | pip install tornado | [Repository](https://github.com/facebook/tornado) | Apache License 2.0
 [Web.py](http://webpy.org/) | \[sudo\] pip install web.py | [Repository](https://github.com/webpy/webpy) | Public domain
 [Wheezy.web](http://pythonhosted.org/wheezy.web/) | pip install wheezy.web | [Repository](https://bitbucket.org/akorn/wheezy.web) | MIT License
 
+
 ## Web framework for Ruby
 Name | Gem Install | Repository | License
 --- | --- | --- | ---
-[Brooklyn](https://github.com/luislavena/brooklyn) | gem install brooklyn | https://github.com/luislavena/brooklyn | MIT License
-[Busker](https://github.com/pachacamac/busker) | gem install busker | https://github.com/pachacamac/busker | MIT License
-[Camping](http://camping.io/) | gem install camping | http://github.com/camping/camping | MIT License
-[Cuba](http://cuba.is/) | gem install cuba | https://github.com/soveran/cuba | MIT License
-[Dashing](http://dashing.io/) | gem install dashing | https://github.com/Shopify/dashing | MIT License
-[Grape](http://intridea.github.io/grape) | gem install grape | https://github.com/intridea/grape | MIT License
-[Crepe](https://github.com/crepe/crepe) | gem install crepe --pre | https://github.com/stephencelis/crepe | MIT License
-[Hanami](http://hanamirb.org/) | gem install hanami | https://github.com/hanami/hanami | MIT License
-[Hobbit](https://github.com/patriciomacadden/hobbit) | gem install hobbit | https://github.com/patriciomacadden/hobbit | MIT License
-[Karafka](https://github.com/karafka/karafka) | gem install karafka | https://github.com/karafka/karafka | MIT License
-[Kenji](https://github.com/kballenegger/kenji) | gem install kenji | https://github.com/kballenegger/Kenji | [Azure](http://License.azuretalon.com/)
-[Lotus](http://lotusrb.org/) | gem install lotusrb | https://github.com/lotus/lotus | MIT License
-[Nancy](http://guilleiguaran.github.io/nancy) | gem install nancy | https://github.com/guilleiguaran/nancy | MIT License
-[New York, New York](http://alisnic.github.io/nyny/) | gem install nyny | https://github.com/alisnic/nyny | MIT License
-[Padrino](http://www.padrinorb.com/) | gem install padrino | https://github.com/padrino/padrino-framework | MIT License
-[Rack](http://rack.github.io/) | gem install rack | https://github.com/rack/rack | MIT License
-[Ramaze](http://ramaze.net/) | gem install ramaze | https://github.com/ramaze/ramaze | MIT License
-[Sinatra](http://www.sinatrarb.com/) | gem install sinatra | https://github.com/sinatra/sinatra/ | MIT License
-[Trailblazer](http://trailblazer.to/) | gem install trailblazer | https://github.com/apotonick/trailblazer | MIT License
-[Volt](http://voltframework.com/) | gem install volt | https://github.com/voltrb/volt/ | MIT License
+Brooklyn | gem install brooklyn | [Repository](https://github.com/luislavena/brooklyn) | MIT License
+Busker | gem install busker | [Repository](https://github.com/pachacamac/busker) | MIT License
+[Camping](http://camping.io/) | gem install camping | [Repository](http://github.com/camping/camping) | MIT License
+[Cuba](http://cuba.is/) | gem install cuba | [Repository](https://github.com/soveran/cuba) | MIT License
+[Dashing](http://dashing.io/) | gem install dashing | [Repository](https://github.com/Shopify/dashing) | MIT License
+[Grape](http://intridea.github.io/grape) | gem install grape | [Repository](https://github.com/intridea/grape) | MIT License
+[Crepe](https://github.com/crepe/crepe) | gem install crepe --pre | [Repository](https://github.com/stephencelis/crepe) | MIT License
+[Hanami](http://hanamirb.org/) | gem install hanami | [Repository](https://github.com/hanami/hanami) | MIT License
+0Hobbit | gem install hobbit | [Repository](https://github.com/patriciomacadden/hobbit) | MIT License
+Karafka | gem install karafka | [Repository](https://github.com/karafka/karafka) | MIT License
+[Kenji](https://github.com/kballenegger/kenji) | gem install kenji | [Repository](https://github.com/kballenegger/Kenji) | Azure License
+[Lotus](http://lotusrb.org/) | gem install lotusrb | [Repository](https://github.com/lotus/lotus) | MIT License
+[Nancy](http://guilleiguaran.github.io/nancy) | gem install nancy | [Repository](https://github.com/guilleiguaran/nancy) | MIT License
+[New York, New York](http://alisnic.github.io/nyny/) | gem install nyny | [Repository](https://github.com/alisnic/nyny) | MIT License
+[Padrino](http://www.padrinorb.com/) | gem install padrino | [Repository](https://github.com/padrino/padrino-framework) | MIT License
+[Rack](http://rack.github.io/) | gem install rack | [Repository](https://github.com/rack/rack) | MIT License
+[Ramaze](http://ramaze.net/) | gem install ramaze | [Repository](https://github.com/ramaze/ramaze) | MIT License
+[Sinatra](http://www.sinatrarb.com/) | gem install sinatra | [Repository](https://github.com/sinatra/sinatra) | MIT License
+[Trailblazer](http://trailblazer.to/) | gem install trailblazer | [Repository](https://github.com/apotonick/trailblazer) | MIT License
+[Volt](http://voltframework.com/) | gem install volt | [Repository](https://github.com/voltrb/volt) | MIT License
 
 ## Web framework for Scala
 Name | Repository | License
 --- | --- | ---
-[Finatra](http://finatra.info) | https://github.com/twitter/finatra | Apache License V2
-[Play Framework](http://www.playframework.com/) | https://github.com/playframework/playframework | Apache License V2
-[Scalatra](http://scalatra.org) | https://github.com/scalatra/scalatra | [BSD](http://opensource.org/Licenses/bsd-License.php)
-[Spray](http://spray.io) | https://github.com/spray/spray |  Apache License V2
-[Scruffy](http://scruffy-project.github.io/) | https://github.com/scruffy-project/scruffy | Apache License V2
+[Finatra](http://finatra.info) | [Repository](https://github.com/twitter/finatra) | Apache License V2
+[Play Framework](http://www.playframework.com/) | [Repository](https://github.com/playframework/playframework) | Apache License V2
+[Scalatra](http://scalatra.org) | [Repository](https://github.com/scalatra/scalatra) | BSD License
+[Spray](http://spray.io) | [Repository](https://github.com/spray/spray) |  Apache License V2
+[Scruffy](http://scruffy-project.github.io/) | [Repository](https://github.com/scruffy-project/scruffy) | Apache License V2
 
 ## Web framework for .NET (C#)
 Name | Repository | License
 --- | --- | ---
-[Aurora](https://github.com/frankhale/aurora) | https://github.com/frankhale/aurora | GPL 3.0 License
-[Butterfly Server .NET](http://butterflyserver.io/) | https://github.com/firesharkstudios/butterfly-server-dotnet | [MPL](https://www.mozilla.org/en-US/MPL/2.0/)
-[Nancy](http://nancyfx.org/) | https://github.com/NancyFx/Nancy/ | MIT License
+Aurora | [Repository](https://github.com/frankhale/aurora) | GPL 3.0 License
+[Butterfly Server .NET](http://butterflyserver.io/) | [Repository](https://github.com/firesharkstudios/butterfly-server-dotnet) | MPL License
+[Nancy](http://nancyfx.org/) | [Repository](https://github.com/NancyFx/Nancy) | MIT License
