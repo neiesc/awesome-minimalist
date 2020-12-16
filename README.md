@@ -52,12 +52,13 @@ Name | Minimum size (base) | Repository | License
 [Pure](http://purecss.io/) | 4.3 KiB (gzipped) | [Repository](https://github.com/yui/pure) | BSD License
 Responsable | 2.63 KiB (minified and gzipped) | [Repository](https://github.com/Responsable/Responsable-Framework) | CC-BY-SA
 [RocketCSS](https://rocketcss.com/) | 6.4 KiB | [Repository](https://github.com/RocketCSS/RocketCSS) | MIT License
-[Simple Grid](http://thisisdallas.github.io/Simple-Grid/) | 1.1 KiB | [Repository](https://github.com/ThisIsDallas/Simple-Grid) | MIT License
-[Skeleton](http://getskeleton.com/) | 1.63 KiB (minified and gzipped) | [Repository](https://github.com/dhg/Skeleton) | MIT License
-[Tachyons](http://tachyons.io/) | 16.94 KB (minified and gzipped) | [Repository](https://github.com/tachyons-css/tachyons) | MIT License
-[Toast](https://daneden.me/toast/) | 1.2 KiB | [Repository](https://github.com/daneden/Toast) | MIT License
+[Simple Grid](http://thisisdallas.github.io/Simple-Grid) | 1.1 KiB | [Repository](https://github.com/ThisIsDallas/Simple-Grid) | MIT License
+[Skeleton](http://getskeleton.com) | 1.63 KiB (minified and gzipped) | [Repository](https://github.com/dhg/Skeleton) | MIT License
+[Tachyons](http://tachyons.io) | 16.94 KB (minified and gzipped) | [Repository](https://github.com/tachyons-css/tachyons) | MIT License
+[Tailwind CSS](https://tailwindcss.com) | npm install tailwindcss | [Repository](https://github.com/tailwindlabs/tailwindcss) | MIT License
+[Toast](https://daneden.me/toast) | 1.2 KiB | [Repository](https://github.com/daneden/Toast) | MIT License
 Wing | 2KB (minified + gzipped) | [Repository](https://github.com/kbrsh/wing) | MIT License
-[YAML](http://www.yaml.de/) | 5.9 KiB | [Repository](https://github.com/yamlcss/yaml) | CC-BY 2.0
+[YAML](http://www.yaml.de) | 5.9 KiB | [Repository](https://github.com/yamlcss/yaml) | CC-BY 2.0
 
 ## Web framework for C
 
