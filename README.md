@@ -24,41 +24,41 @@ Everything in alphabetical order.
 ## Framework for CSS
 Use http://refresh-sf.com/ to compress, and get size "Gzip"
 
-Name | Minimum size (base) | Repository | License
---- | --- | --- | ---
-[Atatonic](http://atatonic.timbenniks.nl/) | 5.1 KiB (minified) | [Repository](http://code.google.com/p/atatonic-css-framwork/) | MIT License
-[Avalanche](http://colourgarden.net/avalanche/) | 79 bytes | [Repository](https://github.com/colourgarden/avalanche/) | MIT License
-[Base](http://git.io/base) | 2.95 KiB (minified + gzipped) | [Repository](https://github.com/matthewhartman/base) | MIT License
-[Bass](http://www.basscss.com/) | 3.79 KiB (minified + gzipped) | [Repository](https://github.com/jxnblk/basscss) | MIT License
-[Bijou](http://andhart.github.io/bijou) | 1.065 KiB (minified and gzipped) | [Repository](https://github.com/andhart/bijou) | MIT License
-[Blaze CSS](http://blazecss.com/) | 182.5 KiB (minified and gzipped) | [Repository](https://github.com/BlazeCSS/blaze) | MIT License
-[Cardinal](http://cardinalcss.com) | 4.25 KiB (minified and gzipped) | [Repository](https://github.com/cbracco/cardinal) | MIT License
-[Cascade Framework](http://www.cascade-framework.com/) | 10.6 KiB (all modules) | [Repository](https://github.com/jslegers/cascadeframework) | MIT License
-[Cascade Framework Light](http://jslegers.github.io/cascadeframeworklight/) | 2.0 KiB (all modules) | [Repository](https://github.com/jslegers/cascadeframeworklight) | MIT License
-[Concise CSS](http://concisecss.com/) | 3.46 kiB (Core: minified + gzipped) | [Repository](https://github.com/ConciseCSS/concise.css) | MIT License
-[Concrete](http://davidlumley.github.io/concrete/) | 3.2 KiB | [Repository](https://github.com/davidlumley/concrete) | MIT License
-[Furtive](http://furtive.co/) | 2.47 KiB | [Repository](https://github.com/johnotander/furtive) | MIT License
-[iceCream](http://html5-ninja.com/icecream/) | 1.8 Kib (minified) | [Repository](https://github.com/html5-ninja/icecream) | WTFPL License
-[Kaliber](https://robbinfellow.github.io/kaliber/) | 6KB (minified + gzipped) | [Repository](https://github.com/robbinfellow/kaliber) | MIT License
-[KNACSS](http://knacss.com/) | 13.2 KiB (all modules) | [Repository](https://github.com/raphaelgoetter/KNACSS) | WTFPL License
-[Kube](http://imperavi.com/kube/) | 15.2 KiB | [Repository](https://github.com/sashka/kube) | MIT License
-[Lesli CSS](https://www.lesli.tech/css) | 37.3 KiB | [Repository](https://github.com/LesliTech/LesliCSS) | GPL 2.0 License
-[Milligram](http://milligram.io/) | 2.0 KiB (minified and gzipped) | [Repository](https://github.com/milligram/milligram) | MIT License
-[Min](https://mincss.com/) | 0.9 KiB (minified and gzipped) | [Repository](https://github.com/owenversteeg/min) | MIT License
-[mini.css](https://chalarangelo.github.io/mini.css/) | 7KB (minified + gzipped) | [Repository](https://github.com/Chalarangelo/mini.css) | MIT License
-[Mistype](https://zlatanvasovic.github.io/mistype/) | 2.1 KiB | [Repository](https://github.com/zdroid/mistype) | MIT License
-[Picnic CSS](http://www.picnicss.com/) | 3.0 KiB (minified and gzipped) | [Repository](https://github.com/picnicss/picnic) | MIT License
-[PocketGrid](http://arnaudleray.github.io/pocketgrid/) | 0.5 KiB | [Repository](https://github.com/arnaudleray/pocketgrid) | MIT License
-[Pure](http://purecss.io/) | 4.3 KiB (gzipped) | [Repository](https://github.com/yui/pure) | BSD License
-Responsable | 2.63 KiB (minified and gzipped) | [Repository](https://github.com/Responsable/Responsable-Framework) | CC-BY-SA
-[RocketCSS](https://rocketcss.com/) | 6.4 KiB | [Repository](https://github.com/RocketCSS/RocketCSS) | MIT License
-[Simple Grid](http://thisisdallas.github.io/Simple-Grid) | 1.1 KiB | [Repository](https://github.com/ThisIsDallas/Simple-Grid) | MIT License
-[Skeleton](http://getskeleton.com) | 1.63 KiB (minified and gzipped) | [Repository](https://github.com/dhg/Skeleton) | MIT License
-[Tachyons](http://tachyons.io) | 16.94 KB (minified and gzipped) | [Repository](https://github.com/tachyons-css/tachyons) | MIT License
-[Tailwind CSS](https://tailwindcss.com) | npm install tailwindcss | [Repository](https://github.com/tailwindlabs/tailwindcss) | MIT License
-[Toast](https://daneden.me/toast) | 1.2 KiB | [Repository](https://github.com/daneden/Toast) | MIT License
-Wing | 2KB (minified + gzipped) | [Repository](https://github.com/kbrsh/wing) | MIT License
-[YAML](http://www.yaml.de) | 5.9 KiB | [Repository](https://github.com/yamlcss/yaml) | CC-BY 2.0
+Name | Minimum size (base) | Repository | Last commit | License
+--- | --- | --- | --- | ---
+[Atatonic](http://atatonic.timbenniks.nl/) | 5.1 KiB (minified) | [Repository](http://code.google.com/p/atatonic-css-framwork/) | --- | MIT License
+[Avalanche](http://colourgarden.net/avalanche/) | 79 bytes | [Repository](https://github.com/colourgarden/avalanche/) | ![last-commit](https://img.shields.io/github/last-commit/colourgarden/avalanche?style=for-the-badge) | MIT License
+[Base](http://git.io/base) | 2.95 KiB (minified + gzipped) | [Repository](https://github.com/matthewhartman/base) | ![last-commit](https://img.shields.io/github/last-commit/matthewhartman/base?style=for-the-badge) | MIT License
+[Bass](http://www.basscss.com/) | 3.79 KiB (minified + gzipped) | [Repository](https://github.com/jxnblk/basscss) | ![last-commit](https://img.shields.io/github/last-commit/jxnblk/basscss?style=for-the-badge) | MIT License
+[Bijou](http://andhart.github.io/bijou) | 1.065 KiB (minified and gzipped) | [Repository](https://github.com/andhart/bijou) | ![last-commit](https://img.shields.io/github/last-commit/andhart/bijou?style=for-the-badge) | MIT License
+[Blaze CSS](http://blazecss.com/) | 182.5 KiB (minified and gzipped) | [Repository](https://github.com/BlazeCSS/blaze) | ![last-commit](https://img.shields.io/github/last-commit/BlazeCSS/blaze?style=for-the-badge) | MIT License
+[Cardinal](http://cardinalcss.com) | 4.25 KiB (minified and gzipped) | [Repository](https://github.com/cbracco/cardinal) | ![last-commit](https://img.shields.io/github/last-commit/cbracco/cardinal?style=for-the-badge) | MIT License
+[Cascade Framework](http://www.cascade-framework.com/) | 10.6 KiB (all modules) | [Repository](https://github.com/jslegers/cascadeframework) | ![last-commit](https://img.shields.io/github/last-commit/jslegers/cascadeframework?style=for-the-badge) | MIT License
+[Cascade Framework Light](http://jslegers.github.io/cascadeframeworklight/) | 2.0 KiB (all modules) | [Repository](https://github.com/jslegers/cascadeframeworklight) | ![last-commit](https://img.shields.io/github/last-commit/jslegers/cascadeframeworklight?style=for-the-badge) | MIT License
+[Concise CSS](http://concisecss.com/) | 3.46 kiB (Core: minified + gzipped) | [Repository](https://github.com/ConciseCSS/concise.css) | ![last-commit](https://img.shields.io/github/last-commit/ConciseCSS/concise.css?style=for-the-badge) | MIT License
+[Concrete](http://davidlumley.github.io/concrete/) | 3.2 KiB | [Repository](https://github.com/davidlumley/concrete) | ![last-commit](https://img.shields.io/github/last-commit/davidlumley/concrete?style=for-the-badge) | MIT License
+[Furtive](http://furtive.co/) | 2.47 KiB | [Repository](https://github.com/johnotander/furtive) | ![last-commit](https://img.shields.io/github/last-commit/johnotander/furtive?style=for-the-badge) | MIT License
+[iceCream](http://html5-ninja.com/icecream/) | 1.8 Kib (minified) | [Repository](https://github.com/html5-ninja/icecream) | ![last-commit](https://img.shields.io/github/last-commit/html5-ninja/icecream?style=for-the-badge) | WTFPL License
+[Kaliber](https://robbinfellow.github.io/kaliber/) | 6KB (minified + gzipped) | [Repository](https://github.com/robbinfellow/kaliber) | ![last-commit](https://img.shields.io/github/last-commit/robbinfellow/kaliber?style=for-the-badge) | MIT License
+[KNACSS](http://knacss.com/) | 13.2 KiB (all modules) | [Repository](https://github.com/raphaelgoetter/KNACSS) | ![last-commit](https://img.shields.io/github/last-commit/raphaelgoetter/KNACSS?style=for-the-badge) | WTFPL License
+[Kube](http://imperavi.com/kube/) | 15.2 KiB | [Repository](https://github.com/sashka/kube) | ![last-commit](https://img.shields.io/github/last-commit/sashka/kube?style=for-the-badge) | MIT License
+[Lesli CSS](https://www.lesli.tech/css) | 37.3 KiB | [Repository](https://github.com/LesliTech/LesliCSS) | ![last-commit](https://img.shields.io/github/last-commit/LesliTech/LesliCSS?style=for-the-badge) | GPL 2.0 License
+[Milligram](http://milligram.io/) | 2.0 KiB (minified and gzipped) | [Repository](https://github.com/milligram/milligram) | ![last-commit](https://img.shields.io/github/last-commit/milligram/milligram?style=for-the-badge) | MIT License
+[Min](https://mincss.com/) | 0.9 KiB (minified and gzipped) | [Repository](https://github.com/owenversteeg/min) | ![last-commit](https://img.shields.io/github/last-commit/owenversteeg/min?style=for-the-badge) | MIT License
+[mini.css](https://chalarangelo.github.io/mini.css/) | 7KB (minified + gzipped) | [Repository](https://github.com/Chalarangelo/mini.css) | ![last-commit](https://img.shields.io/github/last-commit/Chalarangelo/mini.css?style=for-the-badge) | MIT License
+[Mistype](https://zlatanvasovic.github.io/mistype/) | 2.1 KiB | [Repository](https://github.com/zdroid/mistype) | ![last-commit](https://img.shields.io/github/last-commit/zdroid/mistype?style=for-the-badge) | MIT License
+[Picnic CSS](http://www.picnicss.com/) | 3.0 KiB (minified and gzipped) | [Repository](https://github.com/picnicss/picnic) | ![last-commit](https://img.shields.io/github/last-commit/picnicss/picnic?style=for-the-badge) | MIT License
+[PocketGrid](http://arnaudleray.github.io/pocketgrid/) | 0.5 KiB | [Repository](https://github.com/arnaudleray/pocketgrid) | ![last-commit](https://img.shields.io/github/last-commit/arnaudleray/pocketgrid?style=for-the-badge) | MIT License
+[Pure](http://purecss.io/) | 4.3 KiB (gzipped) | [Repository](https://github.com/yui/pure) | ![last-commit](https://img.shields.io/github/last-commit/yui/pure?style=for-the-badge) | BSD License
+Responsable | 2.63 KiB (minified and gzipped) | [Repository](https://github.com/Responsable/Responsable-Framework) | ![last-commit](https://img.shields.io/github/last-commit/Responsable/Responsable-Framework?style=for-the-badge) | CC-BY-SA
+[RocketCSS](https://rocketcss.com/) | 6.4 KiB | [Repository](https://github.com/RocketCSS/RocketCSS) | ![last-commit](https://img.shields.io/github/last-commit/RocketCSS/RocketCSS?style=for-the-badge) | MIT License
+[Simple Grid](http://thisisdallas.github.io/Simple-Grid) | 1.1 KiB | [Repository](https://github.com/ThisIsDallas/Simple-Grid) | ![last-commit](https://img.shields.io/github/last-commit/ThisIsDallas/Simple-Grid?style=for-the-badge) | MIT License
+[Skeleton](http://getskeleton.com) | 1.63 KiB (minified and gzipped) | [Repository](https://github.com/dhg/Skeleton) | ![last-commit](https://img.shields.io/github/last-commit/dhg/Skeleton?style=for-the-badge) | MIT License
+[Tachyons](http://tachyons.io) | 16.94 KB (minified and gzipped) | [Repository](https://github.com/tachyons-css/tachyons) | ![last-commit](https://img.shields.io/github/last-commit/tachyons-css/tachyons?style=for-the-badge) | MIT License
+[Tailwind CSS](https://tailwindcss.com) | ![zipped-size](https://img.shields.io/bundlephobia/minzip/tailwindcss?style=for-the-badge) npm install tailwindcss | [Repository](https://github.com/tailwindlabs/tailwindcss) | ![last-commit](https://img.shields.io/github/last-commit/tailwindlabs/tailwindcss?style=for-the-badge) | MIT License
+[Toast](https://daneden.me/toast) | 1.2 KiB | [Repository](https://github.com/daneden/Toast) | ![last-commit](https://img.shields.io/github/last-commit/daneden/Toast?style=for-the-badge) | MIT License
+Wing | 2KB (minified + gzipped) | [Repository](https://github.com/kbrsh/wing) | ![last-commit](https://img.shields.io/github/last-commit/kbrsh/wing?style=for-the-badge) | MIT License
+[YAML](http://www.yaml.de) | 5.9 KiB | [Repository](https://github.com/yamlcss/yaml) | ![last-commit](https://img.shields.io/github/last-commit/yamlcss/yaml?style=for-the-badge) | CC-BY 2.0
 
 ## Web framework for C
 
