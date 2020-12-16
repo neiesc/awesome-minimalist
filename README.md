@@ -80,7 +80,7 @@ Name | Minimum size (base) | Repository | License
 Name | Bower Install | Repository | License
 --- | --- | --- | ---
 [Aura](http://aurajs.com/) | bower install aura | [Repository](https://github.com/aurajs/aura) | MIT License
-[C H O O](https://choo.io/) | npm install choo | [Repository](https://github.com/yoshuawuyts/choo) | MIT License
+[C H O O](https://choo.io/) | ![zipped-size](https://img.shields.io/bundlephobia/minzip/choo?style=for-the-badge) npm install choo | [Repository](https://github.com/yoshuawuyts/choo) | MIT License
 [Kraken](http://cferdinandi.github.io/kraken/) | Unknown | [Repository](https://github.com/cferdinandi/kraken) | MIT License
 Min.js | Unknown | [Repository](https://github.com/remy/min.js) | MIT License
 [Reactive.coffee](http://yang.github.io/reactive-coffee/) | bower install reactive-coffee | [Repository](https://github.com/yang/reactive-coffee) | MIT License
@@ -138,20 +138,20 @@ Name | LuaRocks Install | Repository | License
 Vanilla | luarocks install vanilla | [Repository](https://github.com/idevz/vanilla) | MIT License
 
 ## Web framework for Node.js
-Name | NPM Install | Repository | License
---- | --- | --- | ---
-[Express.js](http://expressjs.com) | \[sudo\] npm install express | [Repository](https://github.com/visionmedia/express) | MIT License
-[Codekart](http://codekart.jojoin.com) | npm install codekart | [Repository](https://github.com/myworld4059/Codekart) | MIT License
-[Fastify](https://www.fastify.io/) | npm install fastify | [Repository](https://github.com/fastify/fastify) | MIT License
-[Feathers](http://feathersjs.com/) | npm install -g feathers-cli | [Repository](https://github.com/feathersjs/feathers) | MIT License
-[Flatiron](http://flatironjs.org) | \[sudo\] npm install -g flatiron | [Repository](https://github.com/flatiron) | MIT License
-[Hapi](https://hapi.dev/)| npm install hapi | [Repository](https://github.com/spumko/hapi) | [Custom License](https://hapi.dev/policies/License/)
-Koa | \[sudo\] npm install koajs | [Repository](https://github.com/koajs/koa) | MIT License
-Meryl | npm install meryl | [Repository](https://github.com/kadirpekel/meryl) | MIT License
-[total.js](http://www.totaljs.com) | npm install total.js | [Repository](https://github.com/totaljs/framework) | MIT License
-[Restify](http://mcavage.me/node-restify) | npm install restify | [Repository](https://github.com/mcavage/node-restify) | MIT License
-[SocketStream](http://www.socketstream.org) | \[sudo\] npm install -g socketstream | [Repository](https://github.com/socketstream/socketstream) | MIT License
-[Sails.js](http://sailsjs.org) | \[sudo\]npm -g install sails | [Repository](https://github.com/balderdashy/sails) | MIT License
+Name | NPM Install | Minimum size (base) | Repository | License
+--- | --- | --- | --- | ---
+[Express.js](http://expressjs.com) | \[sudo\] npm install express | ![zipped-size](https://img.shields.io/bundlephobia/minzip/express?style=for-the-badge) | [Repository](https://github.com/visionmedia/express) | MIT License
+[Codekart](http://codekart.jojoin.com) | npm install codekart | ![zipped-size](https://img.shields.io/bundlephobia/minzip/codekart?style=for-the-badge) | [Repository](https://github.com/myworld4059/Codekart) | MIT License
+[Fastify](https://www.fastify.io/) | npm install fastify | ![zipped-size](https://img.shields.io/bundlephobia/minzip/fastify?style=for-the-badge) | [Repository](https://github.com/fastify/fastify) | MIT License
+[Feathers](http://feathersjs.com/) | npm install -g feathers-cli | ![zipped-size](https://img.shields.io/bundlephobia/minzip/feathers-cli?style=for-the-badge) | [Repository](https://github.com/feathersjs/feathers) | MIT License
+[Flatiron](http://flatironjs.org) | \[sudo\] npm install -g flatiron | ![zipped-size](https://img.shields.io/bundlephobia/minzip/flatiron?style=for-the-badge) | [Repository](https://github.com/flatiron) | MIT License
+[Hapi](https://hapi.dev/)| npm install hapi | ![zipped-size](https://img.shields.io/bundlephobia/minzip/hapi?style=for-the-badge) | [Repository](https://github.com/spumko/hapi) | Custom License
+Koa | \[sudo\] npm install koajs | ![zipped-size](https://img.shields.io/bundlephobia/minzip/koajs?style=for-the-badge) | [Repository](https://github.com/koajs/koa) | MIT License
+Meryl | npm install meryl | ![zipped-size](https://img.shields.io/bundlephobia/minzip/meryl?style=for-the-badge) | [Repository](https://github.com/kadirpekel/meryl) | MIT License
+[total.js](http://www.totaljs.com) | npm install total.js | ![zipped-size](https://img.shields.io/bundlephobia/minzip/total.js?style=for-the-badge) | [Repository](https://github.com/totaljs/framework) | MIT License
+[Restify](http://mcavage.me/node-restify) | npm install restify | ![zipped-size](https://img.shields.io/bundlephobia/minzip/restify?style=for-the-badge) | [Repository](https://github.com/mcavage/node-restify) | MIT License
+[SocketStream](http://www.socketstream.org) | \[sudo\] npm install -g restify | ![zipped-size](https://img.shields.io/bundlephobia/minzip/restify?style=for-the-badge) | [Repository](https://github.com/socketstream/socketstream) | MIT License
+[Sails.js](http://sailsjs.org) | \[sudo\]npm -g install sails | ![zipped-size](https://img.shields.io/bundlephobia/minzip/sails?style=for-the-badge) | [Repository](https://github.com/balderdashy/sails) | MIT License
 
 ## Web framework for Perl
 Name | cpan install | Repository | License
