@@ -62,19 +62,19 @@ Wing | 2KB (minified + gzipped) | [Repository](https://github.com/kbrsh/wing) | 
 
 ## Web framework for C
 
-Name | Repository | License
---- | --- | ---
-go-horse | [Repository](https://github.com/gabrielfalcao/go-horse) | MIT License
-Raphters | [Repository](https://github.com/DanielWaterworth/Raphters) | GPL 3.0 License
+Name | Repository | Last commit | License
+--- | --- | --- | ---
+go-horse | [Repository](https://github.com/gabrielfalcao/go-horse) | ![last-commit](https://img.shields.io/github/last-commit/gabrielfalcao/go-horse?style=for-the-badge) | MIT License
+Raphters | [Repository](https://github.com/DanielWaterworth/Raphters) | ![last-commit](https://img.shields.io/github/last-commit/DanielWaterworth/Raphters?style=for-the-badge) | GPL 3.0 License
 
 ## Database framework for PHP
-Name | Minimum size (base) | Repository | License
---- | --- | --- | ---
-[activerecord](https://bephp.github.io/activerecord/) | 744KB | [Repository](https://github.com/bephp/activerecord.git) | MIT License
-[Flourish](http://flourishlib.com/) | 9MB | [Repository](https://github.com/flourishlib/flourish-classes) | MIT License
-[Medoo](http://medoo.in/) | 10KB | [Repository](https://github.com/catfan/Medoo) | MIT License
-[RedBeanPHP 4](http://www.redbeanphp.com/) | 289KB | [Repository](https://github.com/gabordemooij/redbean) | BSD License
-[NotORM](http://www.notorm.com) | 44KB | [Repository](https://github.com/vrana/notorm) | GPL 2.0 License
+Name | Minimum size (base) | Repository | Last commit | License
+--- | --- | --- | --- | ---
+[activerecord](https://bephp.github.io/activerecord/) | 744KB | [Repository](https://github.com/bephp/activerecord.git) | ![last-commit](https://img.shields.io/github/last-commit/bephp/activerecord.git?style=for-the-badge) | MIT License
+[Flourish](http://flourishlib.com/) | 9MB | [Repository](https://github.com/flourishlib/flourish-classes) | ![last-commit](https://img.shields.io/github/last-commit/flourishlib/flourish-classes?style=for-the-badge) | MIT License
+[Medoo](http://medoo.in/) | 10KB | [Repository](https://github.com/catfan/Medoo) | ![last-commit](https://img.shields.io/github/last-commit/catfan/Medoo?style=for-the-badge) | MIT License
+[RedBeanPHP 4](http://www.redbeanphp.com/) | 289KB | [Repository](https://github.com/gabordemooij/redbean) | ![last-commit](https://img.shields.io/github/last-commit/gabordemooij/redbean?style=for-the-badge) | BSD License
+[NotORM](http://www.notorm.com) | 44KB | [Repository](https://github.com/vrana/notorm) | ![last-commit](https://img.shields.io/github/last-commit/vrana/notorm?style=for-the-badge) | GPL 2.0 License
 
 ## Frameworks for Front-end JS
 Name | Bower Install | Repository | License
