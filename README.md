@@ -77,65 +77,65 @@ Name | Minimum size (base) | Repository | Last commit | License
 [NotORM](http://www.notorm.com) | 44KB | [Repository](https://github.com/vrana/notorm) | ![last-commit](https://img.shields.io/github/last-commit/vrana/notorm?style=for-the-badge) | GPL 2.0 License
 
 ## Frameworks for Front-end JS
-Name | Bower Install | Repository | License
---- | --- | --- | ---
-[Aura](http://aurajs.com/) | bower install aura | [Repository](https://github.com/aurajs/aura) | MIT License
-[C H O O](https://choo.io/) | ![zipped-size](https://img.shields.io/bundlephobia/minzip/choo?style=for-the-badge) npm install choo | [Repository](https://github.com/yoshuawuyts/choo) | MIT License
-[Kraken](http://cferdinandi.github.io/kraken/) | Unknown | [Repository](https://github.com/cferdinandi/kraken) | MIT License
-Min.js | Unknown | [Repository](https://github.com/remy/min.js) | MIT License
-[Reactive.coffee](http://yang.github.io/reactive-coffee/) | bower install reactive-coffee | [Repository](https://github.com/yang/reactive-coffee) | MIT License
-[Responsive](http://responsivebp.com/) | Unknown | [Repository](https://github.com/ResponsiveBP/Responsive) | MIT License
-[ScaleApp](http://scaleapp.org/) | bower install scaleapp | [Repository](https://github.com/flosse/scaleApp) | MIT License
-[skel](http://skel.io/) | Unknown | [Repository](https://github.com/n33/skel) | MIT License
-[Spine](http://spinejs.com/) | bower install spine | [Repository](https://github.com/spine/spine) | MIT License
-[Topcoat](http://topcoat.io/) | bower lookup topcoat | [Repository](https://github.com/topcoat/topcoat) | Apache License V2
-VertxUI | through Java | [Repository](https://github.com/nielsbaloe/vertxui) |  GPL 2.0 License
+Name | Bower Install | Repository | Last commit | License
+--- | --- | --- | --- | ---
+[Aura](http://aurajs.com/) | bower install aura | [Repository](https://github.com/aurajs/aura) | ![last-commit](https://img.shields.io/github/last-commit/aurajs/aura?style=for-the-badge) | MIT License
+[C H O O](https://choo.io/) | ![zipped-size](https://img.shields.io/bundlephobia/minzip/choo?style=for-the-badge) npm install choo | [Repository](https://github.com/yoshuawuyts/choo) | ![last-commit](https://img.shields.io/github/last-commit/yoshuawuyts/choo?style=for-the-badge) | MIT License
+[Kraken](http://cferdinandi.github.io/kraken/) | Unknown | [Repository](https://github.com/cferdinandi/kraken) | ![last-commit](https://img.shields.io/github/last-commit/cferdinandi/kraken?style=for-the-badge) | MIT License
+Min.js | Unknown | [Repository](https://github.com/remy/min.js) | ![last-commit](https://img.shields.io/github/last-commit/remy/min.js?style=for-the-badge) | MIT License
+[Reactive.coffee](http://yang.github.io/reactive-coffee/) | bower install reactive-coffee | [Repository](https://github.com/yang/reactive-coffee) | ![last-commit](https://img.shields.io/github/last-commit/yang/reactive-coffee?style=for-the-badge) | MIT License
+[Responsive](http://responsivebp.com/) | Unknown | [Repository](https://github.com/ResponsiveBP/Responsive) | ![last-commit](https://img.shields.io/github/last-commit/ResponsiveBP/Responsive?style=for-the-badge) | MIT License
+[ScaleApp](http://scaleapp.org/) | bower install scaleapp | [Repository](https://github.com/flosse/scaleApp) | ![last-commit](https://img.shields.io/github/last-commit/flosse/scaleApp?style=for-the-badge) | MIT License
+[skel](http://skel.io/) | Unknown | [Repository](https://github.com/n33/skel) | ![last-commit](https://img.shields.io/github/last-commit/n33/skel?style=for-the-badge) | MIT License
+[Spine](http://spinejs.com/) | bower install spine | [Repository](https://github.com/spine/spine) | ![last-commit](https://img.shields.io/github/last-commit/spine/spine?style=for-the-badge) | MIT License
+[Topcoat](http://topcoat.io/) | bower lookup topcoat | [Repository](https://github.com/topcoat/topcoat) | ![last-commit](https://img.shields.io/github/last-commit/topcoat/topcoat?style=for-the-badge) | Apache License V2
+VertxUI | through Java | [Repository](https://github.com/nielsbaloe/vertxui) | ![last-commit](https://img.shields.io/github/last-commit/nielsbaloe/vertxui?style=for-the-badge) |  GPL 2.0 License
 
 ## Web framework for Go
-Name | Repository | License
---- | --- | ---
-[Beego Framework](http://beego.me/) | [Repository](https://github.com/astaxie/beego) | Apache License V2
-chi | [Repository](https://github.com/go-chi/chi) | MIT License
-echo | [Repository](https://github.com/labstack/echo) | MIT License
-Gocraft/web | [Repository](https://github.com/gocraft/web) | MIT License
-[Martini](http://martini.codegangsta.io) | [Repository](https://github.com/codegangsta/martini) | MIT License
-Traffic | [Repository](https://github.com/pilu/traffic) | MIT License
+Name | Repository | Last commit | License
+--- | --- | --- | ---
+[Beego Framework](http://beego.me/) | [Repository](https://github.com/astaxie/beego) | ![last-commit](https://img.shields.io/github/last-commit/astaxie/beego?style=for-the-badge) | Apache License V2
+chi | [Repository](https://github.com/go-chi/chi) | ![last-commit](https://img.shields.io/github/last-commit/go-chi/chi?style=for-the-badge) | MIT License
+echo | [Repository](https://github.com/labstack/echo) | ![last-commit](https://img.shields.io/github/last-commit/labstack/echo?style=for-the-badge) | MIT License
+Gocraft/web | [Repository](https://github.com/gocraft/web) | ![last-commit](https://img.shields.io/github/last-commit/gocraft/web?style=for-the-badge) | MIT License
+[Martini](http://martini.codegangsta.io) | [Repository](https://github.com/codegangsta/martini) | ![last-commit](https://img.shields.io/github/last-commit/codegangsta/martini?style=for-the-badge) | MIT License
+Traffic | [Repository](https://github.com/pilu/traffic) | ![last-commit](https://img.shields.io/github/last-commit/pilu/traffic?style=for-the-badge) | MIT License
 
 ## Web framework for Haskell
-Name | Cabal Install | Repository | License
---- | --- | --- | ---
-[Scotty](http://hackage.haskell.org/package/scotty) | cabal install scotty | [Repository](https://github.com/scotty-web/scotty) | BSD 3 License
-[Snap](http://snapframework.com/) | cabal install snap | [Repository](https://github.com/snapframework/snap) | BSD 3 License
+Name | Cabal Install | Repository | Last commit | License
+--- | --- | --- | --- | ---
+[Scotty](http://hackage.haskell.org/package/scotty) | cabal install scotty | [Repository](https://github.com/scotty-web/scotty) | ![last-commit](https://img.shields.io/github/last-commit/scotty-web/scotty?style=for-the-badge) | BSD 3 License
+[Snap](http://snapframework.com/) | cabal install snap | [Repository](https://github.com/snapframework/snap) | ![last-commit](https://img.shields.io/github/last-commit/snapframework/snap?style=for-the-badge) | BSD 3 License
 
 ## Web framework for Java
-Name | Repository | License
---- | --- | ---
-[Blade](http://bladejava.com/) | [Repository](https://github.com/biezhi/blade) | Apache License V2
-[Cloudopt Next](https://next.cloudopt.net/) | [Repository](https://github.com/cloudoptlab/cloudopt-next) | Apache License V2
-[JFinal](https://www.gitbook.com/book/jfinal/jfinal-manual/details) | [Repository](https://github.com/jfinal/jfinal) | Apache License V2
-[Jodd](http://jodd.org/) | [Repository](https://github.com/oblac/jodd) | BSD-2 License
-[Jooby](http://jooby.org/) | [Repository](https://github.com/jooby-project/jooby) | Apache License V2
-[Molecule](http://molecule.vtence.com) | [Repository](https://github.com/testinfected/molecule) | MIT
-[Ninja Framework](http://www.ninjaframework.org/) | [Repository](https://github.com/ninjaframework/ninja) | Apache License V2
-[Pippo](http://pippo.ro/) | [Repository](https://github.com/decebals/pippo) | Apache License V2
-[Restlet](http://restlet.org) | [Repository](https://github.com/restlet/restlet-framework-java) | Apache License V2
-[RestX](http://restx.io/) | [Repository](https://github.com/restx/restx) | Apache License V2
-[Resty](https://dreampie.gitbooks.io/resty-chs/content/index.html) | [Repository](https://github.com/Dreampie/resty) | Apache License V2
-[Spark](http://www.sparkjava.com/) | [Repository](https://github.com/perwendel/spark) | Apache License V2
-[Stapler](http://stapler.kohsuke.org/) | [Repository](https://github.com/stapler/stapler) | BSD License
+Name | Repository | Last commit | License
+--- | --- | --- | ---
+[Blade](http://bladejava.com/) | [Repository](https://github.com/biezhi/blade) | ![last-commit](https://img.shields.io/github/last-commit/biezhi/blade?style=for-the-badge) | Apache License V2
+[Cloudopt Next](https://next.cloudopt.net/) | [Repository](https://github.com/cloudoptlab/cloudopt-next) | ![last-commit](https://img.shields.io/github/last-commit/cloudoptlab/cloudopt-next?style=for-the-badge) | Apache License V2
+[JFinal](https://www.gitbook.com/book/jfinal/jfinal-manual/details) | [Repository](https://github.com/jfinal/jfinal) | ![last-commit](https://img.shields.io/github/last-commit/jfinal/jfinal?style=for-the-badge) | Apache License V2
+[Jodd](http://jodd.org/) | [Repository](https://github.com/oblac/jodd) | ![last-commit](https://img.shields.io/github/last-commit/oblac/jodd?style=for-the-badge) | BSD-2 License
+[Jooby](http://jooby.org/) | [Repository](https://github.com/jooby-project/jooby) | ![last-commit](https://img.shields.io/github/last-commit/jooby-project/jooby?style=for-the-badge) | Apache License V2
+[Molecule](http://molecule.vtence.com) | [Repository](https://github.com/testinfected/molecule) | ![last-commit](https://img.shields.io/github/last-commit/testinfected/molecule?style=for-the-badge) | MIT License
+[Ninja Framework](http://www.ninjaframework.org/) | [Repository](https://github.com/ninjaframework/ninja) | ![last-commit](https://img.shields.io/github/last-commit/ninjaframework/ninja?style=for-the-badge) | Apache License V2
+[Pippo](http://pippo.ro/) | [Repository](https://github.com/decebals/pippo) | ![last-commit](https://img.shields.io/github/last-commit/decebals/pippo?style=for-the-badge) | Apache License V2
+[Restlet](http://restlet.org) | [Repository](https://github.com/restlet/restlet-framework-java) | ![last-commit](https://img.shields.io/github/last-commit/restlet/restlet-framework-java?style=for-the-badge) | Apache License V2
+[RestX](http://restx.io/) | [Repository](https://github.com/restx/restx) | ![last-commit](https://img.shields.io/github/last-commit/restx/restx?style=for-the-badge) | Apache License V2
+[Resty](https://dreampie.gitbooks.io/resty-chs/content/index.html) | [Repository](https://github.com/Dreampie/resty) | ![last-commit](https://img.shields.io/github/last-commit/Dreampie/resty?style=for-the-badge) | Apache License V2
+[Spark](http://www.sparkjava.com/) | [Repository](https://github.com/perwendel/spark) | ![last-commit](https://img.shields.io/github/last-commit/perwendel/spark?style=for-the-badge) | Apache License V2
+[Stapler](http://stapler.kohsuke.org/) | [Repository](https://github.com/stapler/stapler) | ![last-commit](https://img.shields.io/github/last-commit/stapler/stapler?style=for-the-badge) | BSD License
 
 ## Web framework for JavaScript
-Name | Repository | License
---- | --- | ---
-Stapes | [Repository](https://github.com/hay/stapes) | MIT License
-[Mithril](http://lhorie.github.io/mithril/) | [Repository](https://github.com/lhorie/mithril.js) | MIT License
-[Umbrella](http://umbrellajs.com/) | [Repository](https://github.com/umbrellajs/umbrella) | MIT License
+Name | Repository | Last commit | License
+--- | --- | --- | ---
+Stapes | [Repository](https://github.com/hay/stapes) | ![last-commit](https://img.shields.io/github/last-commit/hay/stapes?style=for-the-badge) | MIT License
+[Mithril](http://lhorie.github.io/mithril/) | [Repository](https://github.com/lhorie/mithril.js) | ![last-commit](https://img.shields.io/github/last-commit/lhorie/mithril.js?style=for-the-badge) | MIT License
+[Umbrella](http://umbrellajs.com/) | [Repository](https://github.com/umbrellajs/umbrella) | ![last-commit](https://img.shields.io/github/last-commit/umbrellajs/umbrella?style=for-the-badge) | MIT License
 
 ## Web framework for Lua
-Name | LuaRocks Install | Repository | License
---- | --- | --- | ---
-[Lapis](http://leafo.net/lapis/) | luarocks install lapis | [Repository](https://github.com/leafo/lapis) | MIT License
-Vanilla | luarocks install vanilla | [Repository](https://github.com/idevz/vanilla) | MIT License
+Name | LuaRocks Install | Repository | Last commit | License
+--- | --- | --- | --- | ---
+[Lapis](http://leafo.net/lapis/) | luarocks install lapis | [Repository](https://github.com/leafo/lapis) | ![last-commit](https://img.shields.io/github/last-commit/leafo/lapis?style=for-the-badge) | MIT License
+Vanilla | luarocks install vanilla | [Repository](https://github.com/idevz/vanilla) | ![last-commit](https://img.shields.io/github/last-commit/idevz/vanilla?style=for-the-badge) | MIT License
 
 ## Web framework for Node.js
 Name | NPM Install | Minimum size (base) | Repository | License
