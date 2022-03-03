@@ -140,6 +140,7 @@ Vanilla | luarocks install vanilla | [Repository](https://github.com/idevz/vanil
 ## Web framework for Node.js
 Name | NPM Install | Minimum size (base) | Repository | License
 --- | --- | --- | --- | ---
+[Blitz.js](https://blitzjs.com) | \[sudo\] npm -g install blitz --legacy-peer-deps | ![zipped-size](https://img.shields.io/bundlephobia/minzip/blitz?style=for-the-badge) | [Repository](https://github.com/blitz-js/blitz) | MIT License
 [Express.js](http://expressjs.com) | \[sudo\] npm install express | ![zipped-size](https://img.shields.io/bundlephobia/minzip/express?style=for-the-badge) | [Repository](https://github.com/visionmedia/express) | MIT License
 [Codekart](http://codekart.jojoin.com) | npm install codekart | ![zipped-size](https://img.shields.io/bundlephobia/minzip/codekart?style=for-the-badge) | [Repository](https://github.com/myworld4059/Codekart) | MIT License
 [Fastify](https://www.fastify.io/) | npm install fastify | ![zipped-size](https://img.shields.io/bundlephobia/minzip/fastify?style=for-the-badge) | [Repository](https://github.com/fastify/fastify) | MIT License
