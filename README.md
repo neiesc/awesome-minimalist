@@ -149,6 +149,7 @@ Name | NPM Install | Minimum size (base) | Repository | License
 [Hapi](https://hapi.dev/)| npm install hapi | ![zipped-size](https://img.shields.io/bundlephobia/minzip/hapi?style=for-the-badge) | [Repository](https://github.com/spumko/hapi) | Custom License
 Koa | \[sudo\] npm install koajs | ![zipped-size](https://img.shields.io/bundlephobia/minzip/koajs?style=for-the-badge) | [Repository](https://github.com/koajs/koa) | MIT License
 Meryl | npm install meryl | ![zipped-size](https://img.shields.io/bundlephobia/minzip/meryl?style=for-the-badge) | [Repository](https://github.com/kadirpekel/meryl) | MIT License
+[Remult](https://remult.dev) | npm install remult | ![zipped-size](https://img.shields.io/bundlephobia/minzip/remult?style=for-the-badge) | [Repository](https://github.com/remult/remult) | MIT License
 [total.js](http://www.totaljs.com) | npm install total.js | ![zipped-size](https://img.shields.io/bundlephobia/minzip/total.js?style=for-the-badge) | [Repository](https://github.com/totaljs/framework) | MIT License
 [Restify](http://mcavage.me/node-restify) | npm install restify | ![zipped-size](https://img.shields.io/bundlephobia/minzip/restify?style=for-the-badge) | [Repository](https://github.com/mcavage/node-restify) | MIT License
 [SocketStream](http://www.socketstream.org) | \[sudo\] npm install -g restify | ![zipped-size](https://img.shields.io/bundlephobia/minzip/restify?style=for-the-badge) | [Repository](https://github.com/socketstream/socketstream) | MIT License
