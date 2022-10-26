@@ -79,6 +79,7 @@ Name | Minimum size (base) | Repository | Last commit | License
 ## Frameworks for Front-end JS
 Name | Bower Install | Repository | Last commit | License
 --- | --- | --- | --- | ---
+[Alpine](https://alpinejs.dev/) | Unknown | [Repository](https://github.com/alpinejs/alpine) | ![last-commit](https://img.shields.io/github/last-commit/alpinejs/alpine?style=for-the-badge) | MIT License
 [Aura](http://aurajs.com/) | bower install aura | [Repository](https://github.com/aurajs/aura) | ![last-commit](https://img.shields.io/github/last-commit/aurajs/aura?style=for-the-badge) | MIT License
 [C H O O](https://choo.io/) | ![zipped-size](https://img.shields.io/bundlephobia/minzip/choo?style=for-the-badge) npm install choo | [Repository](https://github.com/yoshuawuyts/choo) | ![last-commit](https://img.shields.io/github/last-commit/yoshuawuyts/choo?style=for-the-badge) | MIT License
 [Kraken](http://cferdinandi.github.io/kraken/) | Unknown | [Repository](https://github.com/cferdinandi/kraken) | ![last-commit](https://img.shields.io/github/last-commit/cferdinandi/kraken?style=for-the-badge) | MIT License
