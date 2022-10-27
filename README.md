@@ -1,7 +1,9 @@
-# Awesome Minimalist Frameworks [More Awesome](https://github.com/0ex/more-awesome)
+# Awesome Minimalist Frameworks
 
 A curated list of awesome resources, pointers, and tips related to minimalist frameworks (simple and lightweight).
 Everything in alphabetical order.
+
+See [More Awesome](https://github.com/0ex/more-awesome).
 
 ## Contents
 - [Framework for CSS](#framework-for-css)
