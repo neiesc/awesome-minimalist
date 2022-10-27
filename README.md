@@ -1,4 +1,4 @@
-# Awesome Minimalist Frameworks [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Minimalist Frameworks [More Awesome](https://github.com/0ex/more-awesome)
 
 A curated list of awesome resources, pointers, and tips related to minimalist frameworks (simple and lightweight).
 Everything in alphabetical order.
