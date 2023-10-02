@@ -115,6 +115,7 @@ Name | Repository | Last commit | License
 --- | --- | --- | ---
 [Blade](http://bladejava.com/) | [Repository](https://github.com/biezhi/blade) | ![last-commit](https://img.shields.io/github/last-commit/biezhi/blade?style=for-the-badge) | Apache License V2
 [Cloudopt Next](https://next.cloudopt.net/) | [Repository](https://github.com/cloudoptlab/cloudopt-next) | ![last-commit](https://img.shields.io/github/last-commit/cloudoptlab/cloudopt-next?style=for-the-badge) | Apache License V2
+[Javalin](https://javalin.io/) | [Repository](https://github.com/javalin/javalin) | ![last-commit](https://img.shields.io/github/last-commit/javalin/javalin?style=for-the-badge) | Apache License V2
 [JFinal](https://www.gitbook.com/book/jfinal/jfinal-manual/details) | [Repository](https://github.com/jfinal/jfinal) | ![last-commit](https://img.shields.io/github/last-commit/jfinal/jfinal?style=for-the-badge) | Apache License V2
 [Jodd](http://jodd.org/) | [Repository](https://github.com/oblac/jodd) | ![last-commit](https://img.shields.io/github/last-commit/oblac/jodd?style=for-the-badge) | BSD-2 License
 [Jooby](http://jooby.org/) | [Repository](https://github.com/jooby-project/jooby) | ![last-commit](https://img.shields.io/github/last-commit/jooby-project/jooby?style=for-the-badge) | Apache License V2
