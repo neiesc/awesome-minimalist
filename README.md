@@ -118,6 +118,7 @@ Name | Repository | Last commit | License
 [JFinal](https://www.gitbook.com/book/jfinal/jfinal-manual/details) | [Repository](https://github.com/jfinal/jfinal) | ![last-commit](https://img.shields.io/github/last-commit/jfinal/jfinal?style=for-the-badge) | Apache License V2
 [Jodd](http://jodd.org/) | [Repository](https://github.com/oblac/jodd) | ![last-commit](https://img.shields.io/github/last-commit/oblac/jodd?style=for-the-badge) | BSD-2 License
 [Jooby](http://jooby.org/) | [Repository](https://github.com/jooby-project/jooby) | ![last-commit](https://img.shields.io/github/last-commit/jooby-project/jooby?style=for-the-badge) | Apache License V2
+[Minum](https://github.com/byronka/minum) | [Repository](https://github.com/byronka/minum) | ![last-commit](https://img.shields.io/github/last-commit/byronka/minum?style=for-the-badge) | MIT License
 [Molecule](http://molecule.vtence.com) | [Repository](https://github.com/testinfected/molecule) | ![last-commit](https://img.shields.io/github/last-commit/testinfected/molecule?style=for-the-badge) | MIT License
 [Ninja Framework](http://www.ninjaframework.org/) | [Repository](https://github.com/ninjaframework/ninja) | ![last-commit](https://img.shields.io/github/last-commit/ninjaframework/ninja?style=for-the-badge) | Apache License V2
 [Pippo](http://pippo.ro/) | [Repository](https://github.com/decebals/pippo) | ![last-commit](https://img.shields.io/github/last-commit/decebals/pippo?style=for-the-badge) | Apache License V2
