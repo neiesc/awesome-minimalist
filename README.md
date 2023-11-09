@@ -77,6 +77,7 @@ Name | Minimum size (base) | Repository | Last commit | License
 [Medoo](http://medoo.in/) | 10KB | [Repository](https://github.com/catfan/Medoo) | ![last-commit](https://img.shields.io/github/last-commit/catfan/Medoo?style=for-the-badge) | MIT License
 [RedBeanPHP 4](http://www.redbeanphp.com/) | 289KB | [Repository](https://github.com/gabordemooij/redbean) | ![last-commit](https://img.shields.io/github/last-commit/gabordemooij/redbean?style=for-the-badge) | BSD License
 [NotORM](http://www.notorm.com) | 44KB | [Repository](https://github.com/vrana/notorm) | ![last-commit](https://img.shields.io/github/last-commit/vrana/notorm?style=for-the-badge) | GPL 2.0 License
+[Flight](https://flightphp.com/) | 108KB | [Repository](https://github.com/mikecao/flight) | ![last-commit](https://img.shields.io/github/last-commit/mikecao/flight?style=for-the-badge) | MIT License
 
 ## Frameworks for Front-end JS
 Name | Bower Install | Repository | Last commit | License
