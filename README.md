@@ -27,41 +27,41 @@ See [More about minimalist](CONTRIBUTING.md#what-is-minimalism).
 ## Framework for CSS
 Use http://refresh-sf.com/ to compress, and get size "Gzip"
 
-Name | Minimum size (base) | Repository | Last commit | License
---- | --- | --- | --- | ---
-[Atatonic](http://atatonic.timbenniks.nl/) | 5.1 KiB (minified) | [Repository](http://code.google.com/p/atatonic-css-framwork/) | --- | MIT License
-[Avalanche](http://colourgarden.net/avalanche/) | 79 bytes | [Repository](https://github.com/colourgarden/avalanche/) | ![last-commit](https://badgen.net/github/last-commit/colourgarden/avalanche) | MIT License
-[Base](http://git.io/base) | 2.95 KiB (minified + gzipped) | [Repository](https://github.com/matthewhartman/base) | ![last-commit](https://badgen.net/github/last-commit/matthewhartman/base) | MIT License
-[Bass](http://www.basscss.com/) | 3.79 KiB (minified + gzipped) | [Repository](https://github.com/jxnblk/basscss) | ![last-commit](https://badgen.net/github/last-commit/jxnblk/basscss) | MIT License
-[Bijou](http://andhart.github.io/bijou) | 1.065 KiB (minified and gzipped) | [Repository](https://github.com/andhart/bijou) | ![last-commit](https://badgen.net/github/last-commit/andhart/bijou) | MIT License
-[Blaze CSS](http://blazecss.com/) | 182.5 KiB (minified and gzipped) | [Repository](https://github.com/BlazeCSS/blaze) | ![last-commit](https://badgen.net/github/last-commit/BlazeCSS/blaze) | MIT License
-[Cardinal](http://cardinalcss.com) | 4.25 KiB (minified and gzipped) | [Repository](https://github.com/cbracco/cardinal) | ![last-commit](https://badgen.net/github/last-commit/cbracco/cardinal) | MIT License
-[Cascade Framework](http://www.cascade-framework.com/) | 10.6 KiB (all modules) | [Repository](https://github.com/jslegers/cascadeframework) | ![last-commit](https://badgen.net/github/last-commit/jslegers/cascadeframework) | MIT License
-[Cascade Framework Light](http://jslegers.github.io/cascadeframeworklight/) | 2.0 KiB (all modules) | [Repository](https://github.com/jslegers/cascadeframeworklight) | ![last-commit](https://badgen.net/github/last-commit/jslegers/cascadeframeworklight) | MIT License
-[Concise CSS](http://concisecss.com/) | 3.46 kiB (Core: minified + gzipped) | [Repository](https://github.com/ConciseCSS/concise.css) | ![last-commit](https://badgen.net/github/last-commit/ConciseCSS/concise.css) | MIT License
-[Concrete](http://davidlumley.github.io/concrete/) | 3.2 KiB | [Repository](https://github.com/davidlumley/concrete) | ![last-commit](https://badgen.net/github/last-commit/davidlumley/concrete) | MIT License
-[Furtive](http://furtive.co/) | 2.47 KiB | [Repository](https://github.com/johnotander/furtive) | ![last-commit](https://badgen.net/github/last-commit/johnotander/furtive) | MIT License
-[iceCream](http://html5-ninja.com/icecream/) | 1.8 Kib (minified) | [Repository](https://github.com/html5-ninja/icecream) | ![last-commit](https://badgen.net/github/last-commit/html5-ninja/icecream) | WTFPL License
-[Kaliber](https://robbinfellow.github.io/kaliber/) | 6KB (minified + gzipped) | [Repository](https://github.com/robbinfellow/kaliber) | ![last-commit](https://badgen.net/github/last-commit/robbinfellow/kaliber) | MIT License
-[KNACSS](http://knacss.com/) | 13.2 KiB (all modules) | [Repository](https://github.com/raphaelgoetter/KNACSS) | ![last-commit](https://badgen.net/github/last-commit/raphaelgoetter/KNACSS) | WTFPL License
-[Kube](http://imperavi.com/kube/) | 15.2 KiB | [Repository](https://github.com/sashka/kube) | ![last-commit](https://badgen.net/github/last-commit/sashka/kube) | MIT License
-[Lesli CSS](https://www.lesli.tech/css) | 37.3 KiB | [Repository](https://github.com/LesliTech/LesliCSS) | ![last-commit](https://badgen.net/github/last-commit/LesliTech/LesliCSS) | GPL 2.0 License
-[Milligram](http://milligram.io/) | 2.0 KiB (minified and gzipped) | [Repository](https://github.com/milligram/milligram) | ![last-commit](https://badgen.net/github/last-commit/milligram/milligram) | MIT License
-[Min](https://mincss.com/) | 0.9 KiB (minified and gzipped) | [Repository](https://github.com/owenversteeg/min) | ![last-commit](https://badgen.net/github/last-commit/owenversteeg/min) | MIT License
-[mini.css](https://chalarangelo.github.io/mini.css/) | 7KB (minified + gzipped) | [Repository](https://github.com/Chalarangelo/mini.css) | ![last-commit](https://badgen.net/github/last-commit/Chalarangelo/mini.css) | MIT License
-[Mistype](https://zlatanvasovic.github.io/mistype/) | 2.1 KiB | [Repository](https://github.com/zdroid/mistype) | ![last-commit](https://badgen.net/github/last-commit/zdroid/mistype) | MIT License
-[Picnic CSS](http://www.picnicss.com/) | 3.0 KiB (minified and gzipped) | [Repository](https://github.com/picnicss/picnic) | ![last-commit](https://badgen.net/github/last-commit/picnicss/picnic) | MIT License
-[PocketGrid](http://arnaudleray.github.io/pocketgrid/) | 0.5 KiB | [Repository](https://github.com/arnaudleray/pocketgrid) | ![last-commit](https://badgen.net/github/last-commit/arnaudleray/pocketgrid) | MIT License
-[Pure](http://purecss.io/) | 4.3 KiB (gzipped) | [Repository](https://github.com/yui/pure) | ![last-commit](https://badgen.net/github/last-commit/yui/pure) | BSD License
-Responsable | 2.63 KiB (minified and gzipped) | [Repository](https://github.com/Responsable/Responsable-Framework) | ![last-commit](https://badgen.net/github/last-commit/Responsable/Responsable-Framework) | CC-BY-SA
-[RocketCSS](https://rocketcss.com/) | 6.4 KiB | [Repository](https://github.com/RocketCSS/RocketCSS) | ![last-commit](https://badgen.net/github/last-commit/RocketCSS/RocketCSS) | MIT License
-[Simple Grid](http://thisisdallas.github.io/Simple-Grid) | 1.1 KiB | [Repository](https://github.com/ThisIsDallas/Simple-Grid) | ![last-commit](https://badgen.net/github/last-commit/ThisIsDallas/Simple-Grid) | MIT License
-[Skeleton](http://getskeleton.com) | 1.63 KiB (minified and gzipped) | [Repository](https://github.com/dhg/Skeleton) | ![last-commit](https://badgen.net/github/last-commit/dhg/Skeleton) | MIT License
-[Tachyons](http://tachyons.io) | 16.94 KB (minified and gzipped) | [Repository](https://github.com/tachyons-css/tachyons) | ![last-commit](https://badgen.net/github/last-commit/tachyons-css/tachyons) | MIT License
-[Tailwind CSS](https://tailwindcss.com) | ![zipped-size](https://badgen.net/bundlephobia/minzip/tailwindcss) npm install tailwindcss | [Repository](https://github.com/tailwindlabs/tailwindcss) | ![last-commit](https://badgen.net/github/last-commit/tailwindlabs/tailwindcss) | MIT License
-[Toast](https://daneden.me/toast) | 1.2 KiB | [Repository](https://github.com/daneden/Toast) | ![last-commit](https://badgen.net/github/last-commit/daneden/Toast) | MIT License
-Wing | 2KB (minified + gzipped) | [Repository](https://github.com/kbrsh/wing) | ![last-commit](https://badgen.net/github/last-commit/kbrsh/wing) | MIT License
-[YAML](http://www.yaml.de) | 5.9 KiB | [Repository](https://github.com/yamlcss/yaml) | ![last-commit](https://badgen.net/github/last-commit/yamlcss/yaml) | CC-BY 2.0
+Name | Minimum size (base) | Repository | Last commit | License | Install
+--- | --- | --- | --- | --- | ---
+[Atatonic](http://atatonic.timbenniks.nl/) | ![zipped-size](https://badgen.net/bundlephobia/minzip/atatonic) | [Repository](http://code.google.com/p/atatonic-css-framwork/) | --- | MIT License | `npm install atatonic`
+[Avalanche](http://colourgarden.net/avalanche/) | ![zipped-size](https://badgen.net/bundlephobia/minzip/avalanche) | [Repository](https://github.com/colourgarden/avalanche/) | ![last-commit](https://badgen.net/github/last-commit/colourgarden/avalanche) | MIT License | `npm install avalanche`
+[Base](http://git.io/base) | ![zipped-size](https://badgen.net/bundlephobia/minzip/base) | [Repository](https://github.com/matthewhartman/base) | ![last-commit](https://badgen.net/github/last-commit/matthewhartman/base) | MIT License | `npm install base`
+[Bass](http://www.basscss.com/) | ![zipped-size](https://badgen.net/bundlephobia/minzip/basscss) | [Repository](https://github.com/jxnblk/basscss) | ![last-commit](https://badgen.net/github/last-commit/jxnblk/basscss) | MIT License | `npm install basscss`
+[Bijou](http://andhart.github.io/bijou) | ![zipped-size](https://badgen.net/bundlephobia/minzip/bijou) | [Repository](https://github.com/andhart/bijou) | ![last-commit](https://badgen.net/github/last-commit/andhart/bijou) | MIT License | `npm install bijou`
+[Blaze CSS](http://blazecss.com/) | ![zipped-size](https://badgen.net/bundlephobia/minzip/blaze) | [Repository](https://github.com/BlazeCSS/blaze) | ![last-commit](https://badgen.net/github/last-commit/BlazeCSS/blaze) | MIT License | `npm install blaze`
+[Cardinal](http://cardinalcss.com) | ![zipped-size](https://badgen.net/bundlephobia/minzip/cardinal) | [Repository](https://github.com/cbracco/cardinal) | ![last-commit](https://badgen.net/github/last-commit/cbracco/cardinal) | MIT License | `npm install cardinal`
+[Cascade Framework](http://www.cascade-framework.com/) | ![zipped-size](https://badgen.net/bundlephobia/minzip/cascadeframework) | [Repository](https://github.com/jslegers/cascadeframework) | ![last-commit](https://badgen.net/github/last-commit/jslegers/cascadeframework) | MIT License | `npm install cascadeframework`
+[Cascade Framework Light](http://jslegers.github.io/cascadeframeworklight/) | ![zipped-size](https://badgen.net/bundlephobia/minzip/cascadeframeworklight) | [Repository](https://github.com/jslegers/cascadeframeworklight) | ![last-commit](https://badgen.net/github/last-commit/jslegers/cascadeframeworklight) | MIT License | `npm install cascadeframeworklight`
+[Concise CSS](http://concisecss.com/) | ![zipped-size](https://badgen.net/bundlephobia/minzip/concise.css) | [Repository](https://github.com/ConciseCSS/concise.css) | ![last-commit](https://badgen.net/github/last-commit/ConciseCSS/concise.css) | MIT License | `npm install concise.css`
+[Concrete](http://davidlumley.github.io/concrete/) | ![zipped-size](https://badgen.net/bundlephobia/minzip/concrete) | [Repository](https://github.com/davidlumley/concrete) | ![last-commit](https://badgen.net/github/last-commit/davidlumley/concrete) | MIT License | `npm install concrete`
+[Furtive](http://furtive.co/) | ![zipped-size](https://badgen.net/bundlephobia/minzip/furtive) | [Repository](https://github.com/johnotander/furtive) | ![last-commit](https://badgen.net/github/last-commit/johnotander/furtive) | MIT License | `npm install furtive`
+[iceCream](http://html5-ninja.com/icecream/) | ![zipped-size](https://badgen.net/bundlephobia/minzip/icecream) | [Repository](https://github.com/html5-ninja/icecream) | ![last-commit](https://badgen.net/github/last-commit/html5-ninja/icecream) | WTFPL License | `npm install icecream`
+[Kaliber](https://robbinfellow.github.io/kaliber/) | ![zipped-size](https://badgen.net/bundlephobia/minzip/kaliber) | [Repository](https://github.com/robbinfellow/kaliber) | ![last-commit](https://badgen.net/github/last-commit/robbinfellow/kaliber) | MIT License | `npm install kaliber`
+[KNACSS](http://knacss.com/) | ![zipped-size](https://badgen.net/bundlephobia/minzip/knacss) | [Repository](https://github.com/raphaelgoetter/KNACSS) | ![last-commit](https://badgen.net/github/last-commit/raphaelgoetter/KNACSS) | WTFPL License | `npm install knacss`
+[Kube](http://imperavi.com/kube/) | ![zipped-size](https://badgen.net/bundlephobia/minzip/kube) | [Repository](https://github.com/sashka/kube) | ![last-commit](https://badgen.net/github/last-commit/sashka/kube) | MIT License | `npm install kube`
+[Lesli CSS](https://www.lesli.tech/css) | ![zipped-size](https://badgen.net/bundlephobia/minzip/lesli.css) | [Repository](https://github.com/LesliTech/LesliCSS) | ![last-commit](https://badgen.net/github/last-commit/LesliTech/LesliCSS) | GPL 2.0 License | `npm install lesli.css`
+[Milligram](http://milligram.io/) | ![zipped-size](https://badgen.net/bundlephobia/minzip/milligram) | [Repository](https://github.com/milligram/milligram) | ![last-commit](https://badgen.net/github/last-commit/milligram/milligram) | MIT License | `npm install milligram`
+[Min](https://mincss.com/) | ![zipped-size](https://badgen.net/bundlephobia/minzip/min) | [Repository](https://github.com/owenversteeg/min) | ![last-commit](https://badgen.net/github/last-commit/owenversteeg/min) | MIT License | `npm install min`
+[mini.css](https://chalarangelo.github.io/mini.css/) | ![zipped-size](https://badgen.net/bundlephobia/minzip/mini.css) | [Repository](https://github.com/Chalarangelo/mini.css) | ![last-commit](https://badgen.net/github/last-commit/Chalarangelo/mini.css) | MIT License | `npm install mini.css`
+[Mistype](https://zlatanvasovic.github.io/mistype/) | ![zipped-size](https://badgen.net/bundlephobia/minzip/mistype) | [Repository](https://github.com/zdroid/mistype) | ![last-commit](https://badgen.net/github/last-commit/zdroid/mistype) | MIT License | `npm install mistype`
+[Picnic CSS](http://www.picnicss.com/) | ![zipped-size](https://badgen.net/bundlephobia/minzip/picnic) | [Repository](https://github.com/picnicss/picnic) | ![last-commit](https://badgen.net/github/last-commit/picnicss/picnic) | MIT License | `npm install picnic`
+[PocketGrid](http://arnaudleray.github.io/pocketgrid/) | ![zipped-size](https://badgen.net/bundlephobia/minzip/pocketgrid) | [Repository](https://github.com/arnaudleray/pocketgrid) | ![last-commit](https://badgen.net/github/last-commit/arnaudleray/pocketgrid) | MIT License | `npm install pocketgrid`
+[Pure](http://purecss.io/) | ![zipped-size](https://badgen.net/bundlephobia/minzip/pure) | [Repository](https://github.com/yui/pure) | ![last-commit](https://badgen.net/github/last-commit/yui/pure) | BSD License | `npm install pure`
+Responsable | ![zipped-size](https://badgen.net/bundlephobia/minzip/responsable) | [Repository](https://github.com/Responsable/Responsable-Framework) | ![last-commit](https://badgen.net/github/last-commit/Responsable/Responsable-Framework) | CC-BY-SA | `npm install responsable`
+[RocketCSS](https://rocketcss.com/) | ![zipped-size](https://badgen.net/bundlephobia/minzip/rocketcss) | [Repository](https://github.com/RocketCSS/RocketCSS) | ![last-commit](https://badgen.net/github/last-commit/RocketCSS/RocketCSS) | MIT License | `npm install rocketcss`
+[Simple Grid](http://thisisdallas.github.io/Simple-Grid) | ![zipped-size](https://badgen.net/bundlephobia/minzip/simple-grid) | [Repository](https://github.com/ThisIsDallas/Simple-Grid) | ![last-commit](https://badgen.net/github/last-commit/ThisIsDallas/Simple-Grid) | MIT License | `npm install simple-grid`
+[Skeleton](http://getskeleton.com) | ![zipped-size](https://badgen.net/bundlephobia/minzip/skeleton) | [Repository](https://github.com/dhg/Skeleton) | ![last-commit](https://badgen.net/github/last-commit/dhg/Skeleton) | MIT License | `npm install skeleton`
+[Tachyons](http://tachyons.io) | ![zipped-size](https://badgen.net/bundlephobia/minzip/tachyons) | [Repository](https://github.com/tachyons-css/tachyons) | ![last-commit](https://badgen.net/github/last-commit/tachyons-css/tachyons) | MIT License | `npm install tachyons`
+[Tailwind CSS](https://tailwindcss.com) | ![zipped-size](https://badgen.net/bundlephobia/minzip/tailwindcss) | [Repository](https://github.com/tailwindlabs/tailwindcss) | ![last-commit](https://badgen.net/github/last-commit/tailwindlabs/tailwindcss) | MIT License | `npm install tailwindcss`
+[Toast](https://daneden.me/toast) | ![zipped-size](https://badgen.net/bundlephobia/minzip/toast) | [Repository](https://github.com/daneden/Toast) | ![last-commit](https://badgen.net/github/last-commit/daneden/Toast) | MIT License | `npm install toast`
+Wing | ![zipped-size](https://badgen.net/bundlephobia/minzip/wing) | [Repository](https://github.com/kbrsh/wing) | ![last-commit](https://badgen.net/github/last-commit/kbrsh/wing) | MIT License | `npm install wing`
+[YAML](http://www.yaml.de) | ![zipped-size](https://badgen.net/bundlephobia/minzip/yaml) | [Repository](https://github.com/yamlcss/yaml) | ![last-commit](https://badgen.net/github/last-commit/yamlcss/yaml) | CC-BY 2.0 | `npm install yaml`
 
 ## Web framework for C
 
@@ -145,22 +145,22 @@ Name | LuaRocks Install | Repository | Last commit | License
 Vanilla | luarocks install vanilla | [Repository](https://github.com/idevz/vanilla) | ![last-commit](https://badgen.net/github/last-commit/idevz/vanilla) | MIT License
 
 ## Web framework for Node.js
-Name | NPM Install | Minimum size (base) | Repository | License
---- | --- | --- | --- | ---
-[Blitz.js](https://blitzjs.com) | \[sudo\] npm -g install blitz --legacy-peer-deps | ![zipped-size](https://badgen.net/bundlephobia/minzip/blitz) | [Repository](https://github.com/blitz-js/blitz) | MIT License
-[Express.js](http://expressjs.com) | \[sudo\] npm install express | ![zipped-size](https://badgen.net/bundlephobia/minzip/express) | [Repository](https://github.com/visionmedia/express) | MIT License
-[Codekart](http://codekart.jojoin.com) | npm install codekart | ![zipped-size](https://badgen.net/bundlephobia/minzip/codekart) | [Repository](https://github.com/myworld4059/Codekart) | MIT License
-[Fastify](https://www.fastify.io/) | npm install fastify | ![zipped-size](https://badgen.net/bundlephobia/minzip/fastify) | [Repository](https://github.com/fastify/fastify) | MIT License
-[Feathers](http://feathersjs.com/) | npm install -g feathers-cli | ![zipped-size](https://badgen.net/bundlephobia/minzip/feathers-cli) | [Repository](https://github.com/feathersjs/feathers) | MIT License
-[Flatiron](http://flatironjs.org) | \[sudo\] npm install -g flatiron | ![zipped-size](https://badgen.net/bundlephobia/minzip/flatiron) | [Repository](https://github.com/flatiron) | MIT License
-[Hapi](https://hapi.dev/)| npm install hapi | ![zipped-size](https://badgen.net/bundlephobia/minzip/hapi) | [Repository](https://github.com/spumko/hapi) | Custom License
-Koa | \[sudo\] npm install koajs | ![zipped-size](https://badgen.net/bundlephobia/minzip/koajs) | [Repository](https://github.com/koajs/koa) | MIT License
-Meryl | npm install meryl | ![zipped-size](https://badgen.net/bundlephobia/minzip/meryl) | [Repository](https://github.com/kadirpekel/meryl) | MIT License
-[Remult](https://remult.dev) | npm install remult | ![zipped-size](https://badgen.net/bundlephobia/minzip/remult) | [Repository](https://github.com/remult/remult) | MIT License
-[total.js](http://www.totaljs.com) | npm install total.js | ![zipped-size](https://badgen.net/bundlephobia/minzip/total.js) | [Repository](https://github.com/totaljs/framework) | MIT License
-[Restify](http://mcavage.me/node-restify) | npm install restify | ![zipped-size](https://badgen.net/bundlephobia/minzip/restify) | [Repository](https://github.com/mcavage/node-restify) | MIT License
-[SocketStream](http://www.socketstream.org) | \[sudo\] npm install -g restify | ![zipped-size](https://badgen.net/bundlephobia/minzip/restify) | [Repository](https://github.com/socketstream/socketstream) | MIT License
-[Sails.js](http://sailsjs.org) | \[sudo\]npm -g install sails | ![zipped-size](https://badgen.net/bundlephobia/minzip/sails) | [Repository](https://github.com/balderdashy/sails) | MIT License
+Name | NPM Install | Minimum size (base) | Repository | License | Install
+--- | --- | --- | --- | --- | ---
+[Blitz.js](https://blitzjs.com) | \[sudo\] npm -g install blitz --legacy-peer-deps | ![zipped-size](https://badgen.net/bundlephobia/minzip/blitz) | [Repository](https://github.com/blitz-js/blitz) | MIT License | npm install blitz
+[Express.js](http://expressjs.com) | \[sudo\] npm install express | ![zipped-size](https://badgen.net/bundlephobia/minzip/express) | [Repository](https://github.com/visionmedia/express) | MIT License | npm install express
+[Codekart](http://codekart.jojoin.com) | npm install codekart | ![zipped-size](https://badgen.net/bundlephobia/minzip/codekart) | [Repository](https://github.com/myworld4059/Codekart) | MIT License | npm install codekart
+[Fastify](https://www.fastify.io/) | npm install fastify | ![zipped-size](https://badgen.net/bundlephobia/minzip/fastify) | [Repository](https://github.com/fastify/fastify) | MIT License | npm install fastify
+[Feathers](http://feathersjs.com/) | npm install -g feathers-cli | ![zipped-size](https://badgen.net/bundlephobia/minzip/feathers-cli) | [Repository](https://github.com/feathersjs/feathers) | MIT License | npm install -g feathers-cli
+[Flatiron](http://flatironjs.org) | \[sudo\] npm install -g flatiron | ![zipped-size](https://badgen.net/bundlephobia/minzip/flatiron) | [Repository](https://github.com/flatiron) | MIT License | \[sudo\] npm install -g flatiron
+[Hapi](https://hapi.dev/)| npm install hapi | ![zipped-size](https://badgen.net/bundlephobia/minzip/hapi) | [Repository](https://github.com/spumko/hapi) | Custom License | npm install hapi
+Koa | \[sudo\] npm install koajs | ![zipped-size](https://badgen.net/bundlephobia/minzip/koajs) | [Repository](https://github.com/koajs/koa) | MIT License | \[sudo\] npm install koajs
+Meryl | npm install meryl | ![zipped-size](https://badgen.net/bundlephobia/minzip/meryl) | [Repository](https://github.com/kadirpekel/meryl) | MIT License | npm install meryl
+[Remult](https://remult.dev) | npm install remult | ![zipped-size](https://badgen.net/bundlephobia/minzip/remult) | [Repository](https://github.com/remult/remult) | MIT License | npm install remult
+[total.js](http://www.totaljs.com) | npm install total.js | ![zipped-size](https://badgen.net/bundlephobia/minzip/total.js) | [Repository](https://github.com/totaljs/framework) | MIT License | npm install total.js
+[Restify](http://mcavage.me/node-restify) | npm install restify | ![zipped-size](https://badgen.net/bundlephobia/minzip/restify) | [Repository](https://github.com/mcavage/node-restify) | MIT License | npm install restify
+[SocketStream](http://www.socketstream.org) | \[sudo\] npm install -g restify | ![zipped-size](https://badgen.net/bundlephobia/minzip/restify) | [Repository](https://github.com/socketstream/socketstream) | MIT License | \[sudo\] npm install -g restify
+[Sails.js](http://sailsjs.org) | \[sudo\]npm -g install sails | ![zipped-size](https://badgen.net/bundlephobia/minzip/sails) | [Repository](https://github.com/balderdashy/sails) | MIT License | \[sudo\]npm -g install sails
 
 ## Web framework for Perl
 Name | cpan install | Repository | Last commit | License
@@ -169,40 +169,40 @@ Name | cpan install | Repository | Last commit | License
 [Mojolicious](ihttp://mojolicio.us) | cpan Mojolicious | [Repository](https://github.com/kraih/mojo) | ![last-commit](https://badgen.net/github/last-commit/kraih/mojo) | Artistic 2.0 License
 
 ## Web framework for PHP
-Name | Repository | Last commit | License
---- | --- | --- | ---
-[AuraPHP](http://auraphp.com/blog/2013/12/12/aura-v2-web-project/) | [Repository](https://github.com/auraphp/Aura.Web_Kernel) | ![last-commit](https://badgen.net/github/last-commit/auraphp/Aura.Web_Kernel) | BSD License
-[Bullet](http://bulletphp.com/)| [Repository](https://github.com/vlucas/bulletphp) | ![last-commit](https://badgen.net/github/last-commit/vlucas/bulletphp) | BSD3 License
-[CrudKit](http://crudkit.com/)| [Repository](https://github.com/skyronic/crudkit/) | ![last-commit](https://badgen.net/github/last-commit/skyronic/crudkit) | MIT License
-Deano | [Repository](http://github.com/colindean/deano) | ![last-commit](https://badgen.net/github/last-commit/colindean/deano) | MIT License
-[Equip Framework](https://equipframework.readthedocs.io/en/latest/) | [Repository](https://github.com/equip/framework) | ![last-commit](https://badgen.net/github/last-commit/equip/framework) | MIT License
-[Fat Free](http://fatfreeframework.com/) | [Repository](https://github.com/bcosca/fatfree) | ![last-commit](https://badgen.net/github/last-commit/bcosca/fatfree) | GPL 3 License
-[Fitzgerald](http://gregmolnar.github.io/fitzgerald/) | [Repository](https://github.com/gregmolnar/fitzgerald) | ![last-commit](https://badgen.net/github/last-commit/gregmolnar/fitzgerald) | MIT License
-[Flight](http://flightphp.com/) | [Repository](https://github.com/mikecao/flight) | ![last-commit](https://badgen.net/github/last-commit/mikecao/flight) | MIT License
-[Frankie Framework](http://frankie.readthedocs.org/en/develop/) | [Repository](https://github.com/wdalmut/frankie) | ![last-commit](https://badgen.net/github/last-commit/wdalmut/frankie) | MIT License
-[IceHawk Framework](https://icehawk.github.io/) | [Repository](https://github.com/icehawk/icehawk) | ![last-commit](https://badgen.net/github/last-commit/icehawk/icehawk) | MIT License
-Hackwork | [Repository](https://github.com/zdroid/hackwork) | ![last-commit](https://badgen.net/github/last-commit/zdroid/hackwork) | MIT License
-[Limonade](http://limonade-php.github.io/)| [Repository](https://github.com/sofadesign/limonade) | ![last-commit](https://badgen.net/github/last-commit/sofadesign/limonade) | MIT License
-[Lumen](https://lumen.laravel.com/)| [Repository](https://github.com/laravel/lumen) | ![last-commit](https://badgen.net/github/last-commit/laravel/lumen) | MIT License
-[MicroMVC](http://micromvc.com/) | [Repository](https://github.com/Xeoncross/MicroMVC) | ![last-commit](https://badgen.net/github/last-commit/Xeoncross/MicroMVC) | MIT License
-Mini 3 | [Repository](https://github.com/panique/mini3) | ![last-commit](https://badgen.net/github/last-commit/panique/mini3) | MIT License
-[Nanite](http://nirix.github.io/nanite/) | [Repository](https://github.com/nirix/nanite) | ![last-commit](https://badgen.net/github/last-commit/nirix/nanite) | LGPLv3 License
-[Opulence](https://www.opulencephp.com/)| [Repository](https://github.com/opulencephp/Opulence) | ![last-commit](https://badgen.net/github/last-commit/opulencephp/Opulence) | MIT License
-[One PHP](http://oneframework.net/)| [Repository](https://github.com/juliomatcom/one-php-microframework) | ![last-commit](https://badgen.net/github/last-commit/juliomatcom/one-php-microframework) | MIT License
-[Phalcon Framework](http://phalconphp.com/en/) | [Repository](https://github.com/phalcon/cphalcon) | ![last-commit](https://badgen.net/github/last-commit/phalcon/cphalcon) | BSD 3 License
-[PolyFramework](http://polymedio.github.io/polyframework/) | [Repository](https://github.com/polymedio/polyframework) | ![last-commit](https://badgen.net/github/last-commit/polymedio/polyframework) | BSD 3 License
-[Popcorn](http://popcorn.popphp.org/) | [Repository](https://github.com/popphp/popcorn) | ![last-commit](https://badgen.net/github/last-commit/popphp/popcorn) | NEW BSD License
-Respect\\Rest | [Repository](http://github.com/Respect/Rest) | ![last-commit](https://badgen.net/github/last-commit/Respect/Rest) | BSD 3 License
-[Silex](http://silex.sensiolabs.org/) | [Repository](https://github.com/silexphp/Silex) | ![last-commit](https://badgen.net/github/last-commit/silexphp/Silex) | MIT License
-[Slim](http://slimframework.com/) | [Repository](https://github.com/slimphp/Slim) | ![last-commit](https://badgen.net/github/last-commit/slimphp/Slim) | MIT License
-[Smce Framework](http://www.smceframework.com/) | [Repository](https://github.com/imadige/smceframework-MVC) | ![last-commit](https://badgen.net/github/last-commit/imadige/smceframework-MVC) | MIT  License
-[Swiftlet](http://swiftlet.org/) | [Repository](https://github.com/ElbertF/Swiftlet) | ![last-commit](https://badgen.net/github/last-commit/ElbertF/Swiftlet) | MIT License
-[Wave Framework](http://www.waveframework.com/) | [Repository](https://github.com/kristovaher/Wave-Framework) | ![last-commit](https://badgen.net/github/last-commit/kristovaher/Wave-Framework) | LGPLv3 License
-[Yaf](http://www.yafdev.com/) | [Repository](https://github.com/laruence/php-yaf) | ![last-commit](https://badgen.net/github/last-commit/laruence/php-yaf) | PHP License v3.01
-[Zaphpa](http://zaphpa.org/) | [Repository](https://github.com/zaphpa/zaphpa) | ![last-commit](https://badgen.net/github/last-commit/zaphpa/zaphpa) | MIT License
-[Tiny MVC](http://www.tinymvc.com/) | [Repository](https://github.com/mohrt/tinymvc-php) | ![last-commit](https://badgen.net/github/last-commit/mohrt/tinymvc-php) | LGPL License
-[Tonic](http://www.peej.co.uk/tonic/) | [Repository](http://github.com/peej/tonic) | ![last-commit](https://badgen.net/github/last-commit/peej/tonic) | MIT License
-[toKernel](http://www.tokernel.com/) | [Repository](https://github.com/tokernel/toKernel.1) | ![last-commit](https://badgen.net/github/last-commit/tokernel/toKernel.1) | GPL 3.0 License
+Name | Repository | Last commit | License | Install
+--- | --- | --- | --- | ---
+[AuraPHP](http://auraphp.com/blog/2013/12/12/aura-v2-web-project/) | [Repository](https://github.com/auraphp/Aura.Web_Kernel) | ![last-commit](https://badgen.net/github/last-commit/auraphp/Aura.Web_Kernel) | BSD License | composer require auraphp/aura-web-kernel
+[Bullet](http://bulletphp.com/)| [Repository](https://github.com/vlucas/bulletphp) | ![last-commit](https://badgen.net/github/last-commit/vlucas/bulletphp) | BSD3 License | composer require vlucas/bulletphp
+[CrudKit](http://crudkit.com/)| [Repository](https://github.com/skyronic/crudkit/) | ![last-commit](https://badgen.net/github/last-commit/skyronic/crudkit) | MIT License | composer require skyronic/crudkit
+Deano | [Repository](http://github.com/colindean/deano) | ![last-commit](https://badgen.net/github/last-commit/colindean/deano) | MIT License | composer require colindean/deano
+[Equip Framework](https://equipframework.readthedocs.io/en/latest/) | [Repository](https://github.com/equip/framework) | ![last-commit](https://badgen.net/github/last-commit/equip/framework) | MIT License | composer require equip/framework
+[Fat Free](http://fatfreeframework.com/) | [Repository](https://github.com/bcosca/fatfree) | ![last-commit](https://badgen.net/github/last-commit/bcosca/fatfree) | GPL 3 License | composer require bcosca/fatfree
+[Fitzgerald](http://gregmolnar.github.io/fitzgerald/) | [Repository](https://github.com/gregmolnar/fitzgerald) | ![last-commit](https://badgen.net/github/last-commit/gregmolnar/fitzgerald) | MIT License | composer require gregmolnar/fitzgerald
+[Flight](http://flightphp.com/) | [Repository](https://github.com/mikecao/flight) | ![last-commit](https://badgen.net/github/last-commit/mikecao/flight) | MIT License | composer require mikecao/flight
+[Frankie Framework](http://frankie.readthedocs.org/en/develop/) | [Repository](https://github.com/wdalmut/frankie) | ![last-commit](https://badgen.net/github/last-commit/wdalmut/frankie) | MIT License | composer require wdalmut/frankie
+[IceHawk Framework](https://icehawk.github.io/) | [Repository](https://github.com/icehawk/icehawk) | ![last-commit](https://badgen.net/github/last-commit/icehawk/icehawk) | MIT License | composer require icehawk/icehawk
+Hackwork | [Repository](https://github.com/zdroid/hackwork) | ![last-commit](https://badgen.net/github/last-commit/zdroid/hackwork) | MIT License | composer require zdroid/hackwork
+[Limonade](http://limonade-php.github.io/)| [Repository](https://github.com/sofadesign/limonade) | ![last-commit](https://badgen.net/github/last-commit/sofadesign/limonade) | MIT License | composer require sofadesign/limonade
+[Lumen](https://lumen.laravel.com/)| [Repository](https://github.com/laravel/lumen) | ![last-commit](https://badgen.net/github/last-commit/laravel/lumen) | MIT License | composer require laravel/lumen
+[MicroMVC](http://micromvc.com/) | [Repository](https://github.com/Xeoncross/MicroMVC) | ![last-commit](https://badgen.net/github/last-commit/Xeoncross/MicroMVC) | MIT License | composer require xeoncross/micromvc
+Mini 3 | [Repository](https://github.com/panique/mini3) | ![last-commit](https://badgen.net/github/last-commit/panique/mini3) | MIT License | composer require panique/mini3
+[Nanite](http://nirix.github.io/nanite/) | [Repository](https://github.com/nirix/nanite) | ![last-commit](https://badgen.net/github/last-commit/nirix/nanite) | LGPLv3 License | composer require nirix/nanite
+[Opulence](https://www.opulencephp.com/)| [Repository](https://github.com/opulencephp/Opulence) | ![last-commit](https://badgen.net/github/last-commit/opulencephp/Opulence) | MIT License | composer require opulence/opulence
+[One PHP](http://oneframework.net/)| [Repository](https://github.com/juliomatcom/one-php-microframework) | ![last-commit](https://badgen.net/github/last-commit/juliomatcom/one-php-microframework) | MIT License | composer require juliomatcom/one-php-microframework
+[Phalcon Framework](http://phalconphp.com/en/) | [Repository](https://github.com/phalcon/cphalcon) | ![last-commit](https://badgen.net/github/last-commit/phalcon/cphalcon) | BSD 3 License | composer require phalcon/cphalcon
+[PolyFramework](http://polymedio.github.io/polyframework/) | [Repository](https://github.com/polymedio/polyframework) | ![last-commit](https://badgen.net/github/last-commit/polymedio/polyframework) | BSD 3 License | composer require polymedio/polyframework
+[Popcorn](http://popcorn.popphp.org/) | [Repository](https://github.com/popphp/popcorn) | ![last-commit](https://badgen.net/github/last-commit/popphp/popcorn) | NEW BSD License | composer require popphp/popcorn
+Respect\\Rest | [Repository](http://github.com/Respect/Rest) | ![last-commit](https://badgen.net/github/last-commit/Respect/Rest) | BSD 3 License | composer require respect/rest
+[Silex](http://silex.sensiolabs.org/) | [Repository](https://github.com/silexphp/Silex) | ![last-commit](https://badgen.net/github/last-commit/silexphp/Silex) | MIT License | composer require silexphp/silex
+[Slim](http://slimframework.com/) | [Repository](https://github.com/slimphp/Slim) | ![last-commit](https://badgen.net/github/last-commit/slimphp/Slim) | MIT License | composer require slim/slim
+[Smce Framework](http://www.smceframework.com/) | [Repository](https://github.com/imadige/smceframework-MVC) | ![last-commit](https://badgen.net/github/last-commit/imadige/smceframework-MVC) | MIT  License | composer require imadige/smceframework-MVC
+[Swiftlet](http://swiftlet.org/) | [Repository](https://github.com/ElbertF/Swiftlet) | ![last-commit](https://badgen.net/github/last-commit/ElbertF/Swiftlet) | MIT License | composer require elbertf/swiftlet
+[Wave Framework](http://www.waveframework.com/) | [Repository](https://github.com/kristovaher/Wave-Framework) | ![last-commit](https://badgen.net/github/last-commit/kristovaher/Wave-Framework) | LGPLv3 License | composer require kristovaher/wave-framework
+[Yaf](http://www.yafdev.com/) | [Repository](https://github.com/laruence/php-yaf) | ![last-commit](https://badgen.net/github/last-commit/laruence/php-yaf) | PHP License v3.01 | composer require laruence/php-yaf
+[Zaphpa](http://zaphpa.org/) | [Repository](https://github.com/zaphpa/zaphpa) | ![last-commit](https://badgen.net/github/last-commit/zaphpa/zaphpa) | MIT License | composer require zaphpa/zaphpa
+[Tiny MVC](http://www.tinymvc.com/) | [Repository](https://github.com/mohrt/tinymvc-php) | ![last-commit](https://badgen.net/github/last-commit/mohrt/tinymvc-php) | LGPL License | composer require mohrt/tinymvc-php
+[Tonic](http://www.peej.co.uk/tonic/) | [Repository](http://github.com/peej/tonic) | ![last-commit](https://badgen.net/github/last-commit/peej/tonic) | MIT License | composer require peej/tonic
+[toKernel](http://www.tokernel.com/) | [Repository](https://github.com/tokernel/toKernel.1) | ![last-commit](https://badgen.net/github/last-commit/tokernel/toKernel.1) | GPL 3.0 License | composer require tokernel/toKernel.1
 
 ## Web framework for Python
 Name | PIP Install | Repository | Last commit | License
