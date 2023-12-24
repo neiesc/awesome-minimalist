@@ -4,6 +4,7 @@ A curated list of awesome resources, pointers, and tips related to minimalist fr
 Everything in alphabetical order.
 
 See [More Awesome](https://github.com/0ex/more-awesome).
+See [More about minimalist](CONTRIBUTING.md#what-is-minimalism)).
 
 ## Contents
 - [Framework for CSS](#framework-for-css)
