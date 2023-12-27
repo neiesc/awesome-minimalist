@@ -225,6 +225,7 @@ ObjectWeb | Unknown | [Repository](https://github.com/aisola/ObjectWeb) | ![last
 [Pyramid](http://www.pylonsproject.org/) | pip install pyramid | [Repository](https://github.com/Pylons/pyramid) | ![last-commit](https://badgen.net/github/last-commit/Pylons/pyramid) | BSD-derived License
 Sanic | pip install sanic | [Repository](https://github.com/channelcat/sanic) | ![last-commit](https://badgen.net/github/last-commit/channelcat/sanic) | MIT License
 [Tornado](http://www.tornadoweb.org/en/stable/) | pip install tornado | [Repository](https://github.com/facebook/tornado) | ![last-commit](https://badgen.net/github/last-commit/facebook/tornado) | Apache License 2.0
+[µHTTP](http://www.tornadoweb.org/en/stable/) | pip install uhttp | [Repository](https://github.com/0x67757300/uHTTP) | ![last-commit](https://badgen.net/github/last-commit/0x67757300/uHTTP) | MIT License
 [Web.py](http://webpy.org/) | \[sudo\] pip install web.py | [Repository](https://github.com/webpy/webpy) | ![last-commit](https://badgen.net/github/last-commit/webpy/webpy) | Public domain
 [Wheezy.web](http://pythonhosted.org/wheezy.web/) | pip install wheezy.web | [Repository](https://bitbucket.org/akorn/wheezy.web) | ![last-commit](https://badgen.net/github/last-commit/akorn/wheezy.web) | MIT License
 
