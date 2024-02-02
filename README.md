@@ -7,22 +7,24 @@ See [More Awesome](https://github.com/0ex/more-awesome).<br>
 See [More about minimalist](CONTRIBUTING.md#what-is-minimalism).
 
 ## Contents
-- [Framework for CSS](#framework-for-css)
-- [Web framework for C](#web-framework-for-c)
-- [Database framework for PHP](#database-framework-for-php)
-- [Frameworks for Front-end JS](#frameworks-for-front-end-js)
-- [Web framework for Go](#web-framework-for-go)
-- [Web framework for Haskell](#web-framework-for-haskell)
-- [Web framework for Java](#web-framework-for-java)
-- [Web framework for JavaScript](#web-framework-for-javascript)
-- [Web framework for Lua](#web-framework-for-lua)
-- [Web framework for Node.js](#web-framework-for-nodejs)
-- [Web framework for Perl](#web-framework-for-perl)
-- [Web framework for PHP](#web-framework-for-php)
-- [Web framework for Python](#web-framework-for-python)
-- [Web framework for Ruby](#web-framework-for-ruby)
-- [Web framework for Scala](#web-framework-for-scala)
-- [Web framework for .NET (C#)](#web-framework-for-net-c)
+- [Awesome Minimalist Frameworks](#awesome-minimalist-frameworks)
+  - [Contents](#contents)
+  - [Framework for CSS](#framework-for-css)
+  - [Web framework for C](#web-framework-for-c)
+  - [Database framework for PHP](#database-framework-for-php)
+  - [Frameworks for Front-end JS](#frameworks-for-front-end-js)
+  - [Web framework for Go](#web-framework-for-go)
+  - [Web framework for Haskell](#web-framework-for-haskell)
+  - [Web framework for Java](#web-framework-for-java)
+  - [Web framework for JavaScript](#web-framework-for-javascript)
+  - [Web framework for Lua](#web-framework-for-lua)
+  - [Web framework for Node.js](#web-framework-for-nodejs)
+  - [Web framework for Perl](#web-framework-for-perl)
+  - [Web framework for PHP](#web-framework-for-php)
+  - [Web framework for Python](#web-framework-for-python)
+  - [Web framework for Ruby](#web-framework-for-ruby)
+  - [Web framework for Scala](#web-framework-for-scala)
+  - [Web framework for .NET (C#)](#web-framework-for-net-c)
 
 ## Framework for CSS
 Use http://refresh-sf.com/ to compress, and get size "Gzip"
@@ -57,6 +59,7 @@ Responsable | ![zipped-size](https://badgen.net/bundlephobia/minzip/responsable)
 [RocketCSS](https://rocketcss.com/) | ![zipped-size](https://badgen.net/bundlephobia/minzip/rocketcss) | [Repository](https://github.com/RocketCSS/RocketCSS) | ![last-commit](https://badgen.net/github/last-commit/RocketCSS/RocketCSS) | MIT License | `npm install rocketcss`
 [Simple Grid](http://thisisdallas.github.io/Simple-Grid) | ![zipped-size](https://badgen.net/bundlephobia/minzip/simple-grid) | [Repository](https://github.com/ThisIsDallas/Simple-Grid) | ![last-commit](https://badgen.net/github/last-commit/ThisIsDallas/Simple-Grid) | MIT License | `npm install simple-grid`
 [Skeleton](http://getskeleton.com) | ![zipped-size](https://badgen.net/bundlephobia/minzip/skeleton) | [Repository](https://github.com/dhg/Skeleton) | ![last-commit](https://badgen.net/github/last-commit/dhg/Skeleton) | MIT License | `npm install skeleton`
+[Sugar.css](https://sugar-css.com/) | ![zipped-size](https://badgen.net/bundlephobia/minzip/sugar-css-framework) | [Repository](https://github.com/Rezi/sugar-css) | ![last-commit](https://badgen.net/github/last-commit/Rezi/sugar-css) | MIT License | `npm install sugar-css-framework`
 [Tachyons](http://tachyons.io) | ![zipped-size](https://badgen.net/bundlephobia/minzip/tachyons) | [Repository](https://github.com/tachyons-css/tachyons) | ![last-commit](https://badgen.net/github/last-commit/tachyons-css/tachyons) | MIT License | `npm install tachyons`
 [Tailwind CSS](https://tailwindcss.com) | ![zipped-size](https://badgen.net/bundlephobia/minzip/tailwindcss) | [Repository](https://github.com/tailwindlabs/tailwindcss) | ![last-commit](https://badgen.net/github/last-commit/tailwindlabs/tailwindcss) | MIT License | `npm install tailwindcss`
 [Toast](https://daneden.me/toast) | ![zipped-size](https://badgen.net/bundlephobia/minzip/toast) | [Repository](https://github.com/daneden/Toast) | ![last-commit](https://badgen.net/github/last-commit/daneden/Toast) | MIT License | `npm install toast`
