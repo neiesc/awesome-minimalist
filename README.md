@@ -4,7 +4,8 @@ A curated list of awesome resources, pointers, and tips related to minimalist fr
 Everything in alphabetical order.
 
 ![Github Created At](https://img.shields.io/github/created-at/neiesc/awesome-minimalist?logo=github&style=for-the-badge)
-![Last Commit Date Shield Badge](https://img.shields.io/github/last-commit/neiesc/awesome-minimalist?logo=github&style=for-the-badge)
+![Last Commit Date](https://img.shields.io/github/last-commit/neiesc/awesome-minimalist?logo=github&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/neiesc/awesome-minimalist?logo=github&style=for-the-badge)
 ![Contributors Shield Badge](https://img.shields.io/github/contributors-anon/neiesc/awesome-minimalist?logo=github&style=for-the-badge)
 
 See [More Awesome](https://github.com/0ex/more-awesome).<br>
