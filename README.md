@@ -3,6 +3,7 @@
 A curated list of awesome resources, pointers, and tips related to minimalist frameworks (simple and lightweight).
 Everything in alphabetical order.
 
+![Github Created At](https://img.shields.io/github/created-at/neiesc/awesome-minimalist?logo=github&style=for-the-badge)
 ![Last Commit Date Shield Badge](https://img.shields.io/github/last-commit/neiesc/awesome-minimalist?logo=github&style=for-the-badge)
 ![Contributors Shield Badge](https://img.shields.io/github/contributors-anon/neiesc/awesome-minimalist?logo=github&style=for-the-badge)
 
