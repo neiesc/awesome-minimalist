@@ -93,6 +93,7 @@ Name | Bower Install | Repository | Last commit | License
 [Aura](http://aurajs.com/) | bower install aura | [Repository](https://github.com/aurajs/aura) | ![last-commit](https://badgen.net/github/last-commit/aurajs/aura) | MIT License
 [C H O O](https://choo.io/) | ![zipped-size](https://badgen.net/bundlephobia/minzip/choo) npm install choo | [Repository](https://github.com/yoshuawuyts/choo) | ![last-commit](https://badgen.net/github/last-commit/yoshuawuyts/choo) | MIT License
 [Kraken](http://cferdinandi.github.io/kraken/) | Unknown | [Repository](https://github.com/cferdinandi/kraken) | ![last-commit](https://badgen.net/github/last-commit/cferdinandi/kraken) | MIT License
+[LegoJS](http://lego.js.org/) | `bower install polight/lego@v2` | [Repository](https://github.com/polight/lego) | ![last-commit](https://badgen.net/github/last-commit/polight/lego) | MIT License
 Min.js | Unknown | [Repository](https://github.com/remy/min.js) | ![last-commit](https://badgen.net/github/last-commit/remy/min.js) | MIT License
 [Reactive.coffee](http://yang.github.io/reactive-coffee/) | bower install reactive-coffee | [Repository](https://github.com/yang/reactive-coffee) | ![last-commit](https://badgen.net/github/last-commit/yang/reactive-coffee) | MIT License
 [Responsive](http://responsivebp.com/) | Unknown | [Repository](https://github.com/ResponsiveBP/Responsive) | ![last-commit](https://badgen.net/github/last-commit/ResponsiveBP/Responsive) | MIT License
