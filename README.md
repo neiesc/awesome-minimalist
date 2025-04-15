@@ -144,6 +144,7 @@ Name | Repository | Last commit | License
 Stapes | [Repository](https://github.com/hay/stapes) | ![last-commit](https://badgen.net/github/last-commit/hay/stapes) | MIT License
 [Mithril](http://lhorie.github.io/mithril/) | [Repository](https://github.com/lhorie/mithril.js) | ![last-commit](https://badgen.net/github/last-commit/lhorie/mithril.js) | MIT License
 [Umbrella](http://umbrellajs.com/) | [Repository](https://github.com/franciscop/umbrella) | ![last-commit](https://badgen.net/github/last-commit/franciscop/umbrella) | MIT License
+[VanJS](http://vanjs.org/) | [Repository](https://github.com/vanjs-org/van) | ![last-commit](https://badgen.net/github/last-commit/vanjs-org/van) | MIT License
 
 ## Web framework for Lua
 Name | LuaRocks Install | Repository | Last commit | License
