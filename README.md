@@ -35,8 +35,7 @@ Every entry follows the same field order: **Name — Install · Size · Reposito
 
 Format: Name — Size · Repository · Last commit · License
 
-- [activerecord](https://bephp.github.io/activerecord/) — 744KB · [Repository](https://github.com/bephp/activerecord.git) · ![last-commit](https://badgen.net/github/last-commit/bephp/activerecord.git) · MIT License
-- [Flight](https://flightphp.com/) — 108KB · [Repository](https://github.com/mikecao/flight) · ![last-commit](https://badgen.net/github/last-commit/mikecao/flight) · MIT License
+- [activerecord](https://bephp.github.io/activerecord/) — 744KB · [Repository](https://github.com/bephp/activerecord) · ![last-commit](https://badgen.net/github/last-commit/bephp/activerecord) · MIT License
 - [Flourish](http://flourishlib.com/) — 9MB · [Repository](https://github.com/flourishlib/flourish-classes) · ![last-commit](https://badgen.net/github/last-commit/flourishlib/flourish-classes) · MIT License
 - [Medoo](http://medoo.in/) — 10KB · [Repository](https://github.com/catfan/Medoo) · ![last-commit](https://badgen.net/github/last-commit/catfan/Medoo) · MIT License
 - [NotORM](http://www.notorm.com) — 44KB · [Repository](https://github.com/vrana/notorm) · ![last-commit](https://badgen.net/github/last-commit/vrana/notorm) · GPL 2.0 License
@@ -47,42 +46,35 @@ Use http://refresh-sf.com/ to compress, and get size "Gzip"
 
 Format: Name — Install · Size · Repository · Last commit · License
 
-- [Atatonic](http://atatonic.timbenniks.nl/) — `npm install atatonic` · ![zipped-size](https://badgen.net/bundlephobia/minzip/atatonic) · [Repository](http://code.google.com/p/atatonic-css-framwork/) · --- · MIT License
-- [Avalanche](http://colourgarden.net/avalanche/) — `npm install avalanche` · ![zipped-size](https://badgen.net/bundlephobia/minzip/avalanche) · [Repository](https://github.com/colourgarden/avalanche/) · ![last-commit](https://badgen.net/github/last-commit/colourgarden/avalanche) · MIT License
-- [Base](http://git.io/base) — `npm install base` · ![zipped-size](https://badgen.net/bundlephobia/minzip/base) · [Repository](https://github.com/matthewhartman/base) · ![last-commit](https://badgen.net/github/last-commit/matthewhartman/base) · MIT License
-- [Bass](http://www.basscss.com/) — `npm install basscss` · ![zipped-size](https://badgen.net/bundlephobia/minzip/basscss) · [Repository](https://github.com/jxnblk/basscss) · ![last-commit](https://badgen.net/github/last-commit/jxnblk/basscss) · MIT License
+- [Avalanche](http://colourgarden.net/avalanche/) — --- · --- · [Repository](https://github.com/colourgarden/avalanche/) · ![last-commit](https://badgen.net/github/last-commit/colourgarden/avalanche) · MIT License
+- [Base](http://git.io/base) — `npm install @getbase/base` · ![zipped-size](https://badgen.net/bundlephobia/minzip/@getbase/base) · [Repository](https://github.com/getbase/base) · ![last-commit](https://badgen.net/github/last-commit/getbase/base) · MIT License
+- [Bass](http://www.basscss.com/) — `npm install basscss` · ![zipped-size](https://badgen.net/bundlephobia/minzip/basscss) · [Repository](https://github.com/basscss/basscss) · ![last-commit](https://badgen.net/github/last-commit/basscss/basscss) · MIT License
 - [Bijou](http://andhart.github.io/bijou) — `npm install bijou` · ![zipped-size](https://badgen.net/bundlephobia/minzip/bijou) · [Repository](https://github.com/andhart/bijou) · ![last-commit](https://badgen.net/github/last-commit/andhart/bijou) · MIT License
-- [Blaze CSS](http://blazecss.com/) — `npm install blaze` · ![zipped-size](https://badgen.net/bundlephobia/minzip/blaze) · [Repository](https://github.com/BlazeCSS/blaze) · ![last-commit](https://badgen.net/github/last-commit/BlazeCSS/blaze) · MIT License
-- [Cardinal](http://cardinalcss.com) — `npm install cardinal` · ![zipped-size](https://badgen.net/bundlephobia/minzip/cardinal) · [Repository](https://github.com/cbracco/cardinal) · ![last-commit](https://badgen.net/github/last-commit/cbracco/cardinal) · MIT License
-- [Cascade Framework](http://www.cascade-framework.com/) — `npm install cascadeframework` · ![zipped-size](https://badgen.net/bundlephobia/minzip/cascadeframework) · [Repository](https://github.com/jslegers/cascadeframework) · ![last-commit](https://badgen.net/github/last-commit/jslegers/cascadeframework) · MIT License
-- [Cascade Framework Light](http://jslegers.github.io/cascadeframeworklight/) — `npm install cascadeframeworklight` · ![zipped-size](https://badgen.net/bundlephobia/minzip/cascadeframeworklight) · [Repository](https://github.com/jslegers/cascadeframeworklight) · ![last-commit](https://badgen.net/github/last-commit/jslegers/cascadeframeworklight) · MIT License
+- [Blaze CSS](http://blazecss.com/) — --- · --- · [Repository](https://github.com/BlazeCSS/blaze) · ![last-commit](https://badgen.net/github/last-commit/BlazeCSS/blaze) · MIT License
+- [Cardinal](http://cardinalcss.com) — `npm install cardinalcss` · ![zipped-size](https://badgen.net/bundlephobia/minzip/cardinalcss) · [Repository](https://github.com/cardinalcss/cardinalcss) · ![last-commit](https://badgen.net/github/last-commit/cardinalcss/cardinalcss) · MIT License
+- [Cascade Framework](http://www.cascade-framework.com/) — --- · --- · [Repository](https://github.com/jslegers/cascadeframework) · ![last-commit](https://badgen.net/github/last-commit/jslegers/cascadeframework) · MIT License
+- [Cascade Framework Light](http://jslegers.github.io/cascadeframeworklight/) — --- · --- · [Repository](https://github.com/jslegers/cascadeframeworklight) · ![last-commit](https://badgen.net/github/last-commit/jslegers/cascadeframeworklight) · MIT License
 - [Concise CSS](http://concisecss.com/) — `npm install concise.css` · ![zipped-size](https://badgen.net/bundlephobia/minzip/concise.css) · [Repository](https://github.com/ConciseCSS/concise.css) · ![last-commit](https://badgen.net/github/last-commit/ConciseCSS/concise.css) · MIT License
-- [Concrete](http://davidlumley.github.io/concrete/) — `npm install concrete` · ![zipped-size](https://badgen.net/bundlephobia/minzip/concrete) · [Repository](https://github.com/davidlumley/concrete) · ![last-commit](https://badgen.net/github/last-commit/davidlumley/concrete) · MIT License
-- [Furtive](http://furtive.co/) — `npm install furtive` · ![zipped-size](https://badgen.net/bundlephobia/minzip/furtive) · [Repository](https://github.com/johnotander/furtive) · ![last-commit](https://badgen.net/github/last-commit/johnotander/furtive) · MIT License
-- [iceCream](http://html5-ninja.com/icecream/) — `npm install icecream` · ![zipped-size](https://badgen.net/bundlephobia/minzip/icecream) · [Repository](https://github.com/html5-ninja/icecream) · ![last-commit](https://badgen.net/github/last-commit/html5-ninja/icecream) · WTFPL License
-- [Kaliber](https://robbinfellow.github.io/kaliber/) — `npm install kaliber` · ![zipped-size](https://badgen.net/bundlephobia/minzip/kaliber) · [Repository](https://github.com/robbinfellow/kaliber) · ![last-commit](https://badgen.net/github/last-commit/robbinfellow/kaliber) · MIT License
-- [KNACSS](http://knacss.com/) — `npm install knacss` · ![zipped-size](https://badgen.net/bundlephobia/minzip/knacss) · [Repository](https://github.com/raphaelgoetter/KNACSS) · ![last-commit](https://badgen.net/github/last-commit/raphaelgoetter/KNACSS) · WTFPL License
-- [Kube](http://imperavi.com/kube/) — `npm install kube` · ![zipped-size](https://badgen.net/bundlephobia/minzip/kube) · [Repository](https://github.com/sashka/kube) · ![last-commit](https://badgen.net/github/last-commit/sashka/kube) · MIT License
-- [Lesli CSS](https://www.lesli.tech/css) — `npm install lesli.css` · ![zipped-size](https://badgen.net/bundlephobia/minzip/lesli.css) · [Repository](https://github.com/LesliTech/LesliCSS) · ![last-commit](https://badgen.net/github/last-commit/LesliTech/LesliCSS) · GPL 2.0 License
+- [Concrete](http://davidlumley.github.io/concrete/) — --- · --- · [Repository](https://github.com/davidlumley/concrete) · ![last-commit](https://badgen.net/github/last-commit/davidlumley/concrete) · MIT License
+- [iceCream](http://html5-ninja.com/icecream/) — --- · --- · [Repository](https://github.com/html5-ninja/icecream) · ![last-commit](https://badgen.net/github/last-commit/html5-ninja/icecream) · WTFPL License
+- [KNACSS](http://knacss.com/) — `npm install knacss` · ![zipped-size](https://badgen.net/bundlephobia/minzip/knacss) · [Repository](https://github.com/alsacreations/KNACSS) · ![last-commit](https://badgen.net/github/last-commit/alsacreations/KNACSS) · WTFPL License
+- [Lesli CSS](https://www.lesli.tech/css) — `npm install lesli-css` · ![zipped-size](https://badgen.net/bundlephobia/minzip/lesli-css) · [Repository](https://github.com/LesliTech/lesli-css) · ![last-commit](https://badgen.net/github/last-commit/LesliTech/lesli-css) · GPL 2.0 License
 - [Milligram](http://milligram.io/) — `npm install milligram` · ![zipped-size](https://badgen.net/bundlephobia/minzip/milligram) · [Repository](https://github.com/milligram/milligram) · ![last-commit](https://badgen.net/github/last-commit/milligram/milligram) · MIT License
-- [Min](https://mincss.com/) — `npm install min` · ![zipped-size](https://badgen.net/bundlephobia/minzip/min) · [Repository](https://github.com/owenversteeg/min) · ![last-commit](https://badgen.net/github/last-commit/owenversteeg/min) · MIT License
-- [mini.css](https://chalarangelo.github.io/mini.css/) — `npm install mini.css` · ![zipped-size](https://badgen.net/bundlephobia/minzip/mini.css) · [Repository](https://github.com/Chalarangelo/mini.css) · ![last-commit](https://badgen.net/github/last-commit/Chalarangelo/mini.css) · MIT License
-- [Mistype](https://zlatanvasovic.github.io/mistype/) — `npm install mistype` · ![zipped-size](https://badgen.net/bundlephobia/minzip/mistype) · [Repository](https://github.com/zdroid/mistype) · ![last-commit](https://badgen.net/github/last-commit/zdroid/mistype) · MIT License
+- [Min](https://mincss.com/) — --- · --- · [Repository](https://github.com/owenversteeg/min) · ![last-commit](https://badgen.net/github/last-commit/owenversteeg/min) · MIT License
 - [MVP.css](https://andybrewer.github.io/mvp/) — --- · --- · [Repository](https://github.com/andybrewer/mvp/) · ![last-commit](https://badgen.net/github/last-commit/andybrewer/mvp) · MIT License
-- [Picnic CSS](http://www.picnicss.com/) — `npm install picnic` · ![zipped-size](https://badgen.net/bundlephobia/minzip/picnic) · [Repository](https://github.com/picnicss/picnic) · ![last-commit](https://badgen.net/github/last-commit/picnicss/picnic) · MIT License
+- [Picnic CSS](http://www.picnicss.com/) — `npm install picnic` · ![zipped-size](https://badgen.net/bundlephobia/minzip/picnic) · [Repository](https://github.com/franciscop/picnic) · ![last-commit](https://badgen.net/github/last-commit/franciscop/picnic) · MIT License
 - [Pico](https://picocss.com/) — `npm install @picocss/pico` · ![zipped-size](https://badgen.net/bundlephobia/minzip/@picocss/pico) · [Repository](https://github.com/picocss/pico) · ![last-commit](https://badgen.net/github/last-commit/picocss/pico) · MIT License
-- [PocketGrid](http://arnaudleray.github.io/pocketgrid/) — `npm install pocketgrid` · ![zipped-size](https://badgen.net/bundlephobia/minzip/pocketgrid) · [Repository](https://github.com/arnaudleray/pocketgrid) · ![last-commit](https://badgen.net/github/last-commit/arnaudleray/pocketgrid) · MIT License
-- [Pure](http://purecss.io/) — `npm install pure` · ![zipped-size](https://badgen.net/bundlephobia/minzip/pure) · [Repository](https://github.com/yui/pure) · ![last-commit](https://badgen.net/github/last-commit/yui/pure) · BSD License
-- Responsable — `npm install responsable` · ![zipped-size](https://badgen.net/bundlephobia/minzip/responsable) · [Repository](https://github.com/Responsable/Responsable-Framework) · ![last-commit](https://badgen.net/github/last-commit/Responsable/Responsable-Framework) · CC BY-SA
-- [RocketCSS](https://rocketcss.com/) — `npm install rocketcss` · ![zipped-size](https://badgen.net/bundlephobia/minzip/rocketcss) · [Repository](https://github.com/RocketCSS/RocketCSS) · ![last-commit](https://badgen.net/github/last-commit/RocketCSS/RocketCSS) · MIT License
+- [PocketGrid](http://arnaudleray.github.io/pocketgrid/) — --- · --- · [Repository](https://github.com/arnaudleray/pocketgrid) · ![last-commit](https://badgen.net/github/last-commit/arnaudleray/pocketgrid) · MIT License
+- [Pure](http://purecss.io/) — `npm install purecss` · ![zipped-size](https://badgen.net/bundlephobia/minzip/purecss) · [Repository](https://github.com/pure-css/pure) · ![last-commit](https://badgen.net/github/last-commit/pure-css/pure) · BSD License
+- [RocketCSS](https://rocketcss.com/) — --- · --- · [Repository](https://github.com/RocketCSS/RocketCSS) · ![last-commit](https://badgen.net/github/last-commit/RocketCSS/RocketCSS) · MIT License
 - [Simple Grid](http://thisisdallas.github.io/Simple-Grid) — `npm install simple-grid` · ![zipped-size](https://badgen.net/bundlephobia/minzip/simple-grid) · [Repository](https://github.com/ThisIsDallas/Simple-Grid) · ![last-commit](https://badgen.net/github/last-commit/ThisIsDallas/Simple-Grid) · MIT License
-- [Skeleton](http://getskeleton.com) — `npm install skeleton` · ![zipped-size](https://badgen.net/bundlephobia/minzip/skeleton) · [Repository](https://github.com/dhg/Skeleton) · ![last-commit](https://badgen.net/github/last-commit/dhg/Skeleton) · MIT License
+- [Skeleton](http://getskeleton.com) — --- · --- · [Repository](https://github.com/dhg/Skeleton) · ![last-commit](https://badgen.net/github/last-commit/dhg/Skeleton) · MIT License
 - [Sugar.css](https://sugar-css.com/) — `npm install sugar-css-framework` · ![zipped-size](https://badgen.net/bundlephobia/minzip/sugar-css-framework) · [Repository](https://github.com/Rezi/sugar-css) · ![last-commit](https://badgen.net/github/last-commit/Rezi/sugar-css) · MIT License
 - [Tachyons](http://tachyons.io) — `npm install tachyons` · ![zipped-size](https://badgen.net/bundlephobia/minzip/tachyons) · [Repository](https://github.com/tachyons-css/tachyons) · ![last-commit](https://badgen.net/github/last-commit/tachyons-css/tachyons) · MIT License
 - [Tailwind CSS](https://tailwindcss.com) — `npm install tailwindcss` · ![zipped-size](https://badgen.net/bundlephobia/minzip/tailwindcss) · [Repository](https://github.com/tailwindlabs/tailwindcss) · ![last-commit](https://badgen.net/github/last-commit/tailwindlabs/tailwindcss) · MIT License
 - [Toast](https://daneden.me/toast) — `npm install toast` · ![zipped-size](https://badgen.net/bundlephobia/minzip/toast) · [Repository](https://github.com/daneden/Toast) · ![last-commit](https://badgen.net/github/last-commit/daneden/Toast) · MIT License
-- Wing — `npm install wing` · ![zipped-size](https://badgen.net/bundlephobia/minzip/wing) · [Repository](https://github.com/kbrsh/wing) · ![last-commit](https://badgen.net/github/last-commit/kbrsh/wing) · MIT License
-- [YAML](http://www.yaml.de) — `npm install yaml` · ![zipped-size](https://badgen.net/bundlephobia/minzip/yaml) · [Repository](https://github.com/yamlcss/yaml) · ![last-commit](https://badgen.net/github/last-commit/yamlcss/yaml) · CC BY 2.0
+- Wing — --- · --- · [Repository](https://github.com/kbrsh/wing) · ![last-commit](https://badgen.net/github/last-commit/kbrsh/wing) · MIT License
+- [YAML](http://www.yaml.de) — --- · --- · [Repository](https://github.com/yamlcss/yaml) · ![last-commit](https://badgen.net/github/last-commit/yamlcss/yaml) · CC BY 2.0
 
 ## Framework for Front-end JS
 
@@ -90,26 +82,22 @@ Format: Name — Install · Size · Repository · Last commit · License
 
 - [Alpine](https://alpinejs.dev/) — --- · [Repository](https://github.com/alpinejs/alpine) · ![last-commit](https://badgen.net/github/last-commit/alpinejs/alpine) · MIT License
 - [Aura](http://aurajs.com/) — `bower install aura` · [Repository](https://github.com/aurajs/aura) · ![last-commit](https://badgen.net/github/last-commit/aurajs/aura) · MIT License
-- [C H O O](https://choo.io/) — `npm install choo` · ![zipped-size](https://badgen.net/bundlephobia/minzip/choo) · [Repository](https://github.com/yoshuawuyts/choo) · ![last-commit](https://badgen.net/github/last-commit/yoshuawuyts/choo) · MIT License
+- [C H O O](https://choo.io/) — `npm install choo` · ![zipped-size](https://badgen.net/bundlephobia/minzip/choo) · [Repository](https://github.com/choojs/choo) · ![last-commit](https://badgen.net/github/last-commit/choojs/choo) · MIT License
 - [Kraken](http://cferdinandi.github.io/kraken/) — --- · [Repository](https://github.com/cferdinandi/kraken) · ![last-commit](https://badgen.net/github/last-commit/cferdinandi/kraken) · MIT License
 - [LegoJS](http://lego.js.org/) — `bower install polight/lego@v2` · [Repository](https://github.com/polight/lego) · ![last-commit](https://badgen.net/github/last-commit/polight/lego) · MIT License
-- [lui](https://github.com/L3P3/lui) — `npm install lui` · ![zipped-size](https://badgen.net/bundlephobia/minzip/lui) · [Repository](https://github.com/L3P3/lui) · ![last-commit](https://badgen.net/github/last-commit/L3P3/lui) · MIT License
+- [lui](https://github.com/L3P3/lui) — --- · --- · [Repository](https://github.com/L3P3/lui) · ![last-commit](https://badgen.net/github/last-commit/L3P3/lui) · MIT License
 - Min.js — --- · [Repository](https://github.com/remy/min.js) · ![last-commit](https://badgen.net/github/last-commit/remy/min.js) · MIT License
-- [Reactive.coffee](http://yang.github.io/reactive-coffee/) — `bower install reactive-coffee` · [Repository](https://github.com/yang/reactive-coffee) · ![last-commit](https://badgen.net/github/last-commit/yang/reactive-coffee) · MIT License
+- [Reactive.coffee](http://yang.github.io/reactive-coffee/) — `bower install reactive-coffee` · [Repository](https://github.com/bobtail-dev/bobtail) · ![last-commit](https://badgen.net/github/last-commit/bobtail-dev/bobtail) · MIT License
 - [Responsive](http://responsivebp.com/) — --- · [Repository](https://github.com/ResponsiveBP/Responsive) · ![last-commit](https://badgen.net/github/last-commit/ResponsiveBP/Responsive) · MIT License
-- [ScaleApp](http://scaleapp.org/) — `bower install scaleapp` · [Repository](https://github.com/flosse/scaleApp) · ![last-commit](https://badgen.net/github/last-commit/flosse/scaleApp) · MIT License
-- [skel](http://skel.io/) — --- · [Repository](https://github.com/n33/skel) · ![last-commit](https://badgen.net/github/last-commit/n33/skel) · MIT License
+- [skel](http://skel.io/) — --- · [Repository](https://github.com/ajlkn/skel) · ![last-commit](https://badgen.net/github/last-commit/ajlkn/skel) · MIT License
 - [Spine](http://spinejs.com/) — `bower install spine` · [Repository](https://github.com/spine/spine) · ![last-commit](https://badgen.net/github/last-commit/spine/spine) · MIT License
 - [Topcoat](http://topcoat.io/) — `bower lookup topcoat` · [Repository](https://github.com/topcoat/topcoat) · ![last-commit](https://badgen.net/github/last-commit/topcoat/topcoat) · Apache License 2.0
-- VertxUI — through Java · [Repository](https://github.com/nielsbaloe/vertxui) · ![last-commit](https://badgen.net/github/last-commit/nielsbaloe/vertxui) · GPL 2.0 License
 
 ## Web framework for .NET (C#)
 
 Format: Name — Repository · Last commit · License
 
-- Aurora — [Repository](https://github.com/frankhale/aurora) · ![last-commit](https://badgen.net/github/last-commit/frankhale/aurora) · GPL 3.0 License
-- [Butterfly Server .NET](http://butterflyserver.io/) — [Repository](https://github.com/firesharkstudios/butterfly-server-dotnet) · ![last-commit](https://badgen.net/github/last-commit/firesharkstudios/butterfly-server-dotnet) · MPL License
-- [Nancy](http://nancyfx.org/) — [Repository](https://github.com/NancyFx/Nancy) · ![last-commit](https://badgen.net/github/last-commit/NancyFx/Nancy) · MIT License
+- [Butterfly Server .NET](http://butterflyserver.io/) — [Repository](https://github.com/firesharkstudios/butterfly-server) · ![last-commit](https://badgen.net/github/last-commit/firesharkstudios/butterfly-server) · MPL License
 
 ## Web framework for C
 
@@ -126,8 +114,8 @@ Format: Name — Repository · Last commit · License
 - chi — [Repository](https://github.com/go-chi/chi) · ![last-commit](https://badgen.net/github/last-commit/go-chi/chi) · MIT License
 - echo — [Repository](https://github.com/labstack/echo) · ![last-commit](https://badgen.net/github/last-commit/labstack/echo) · MIT License
 - Gocraft/web — [Repository](https://github.com/gocraft/web) · ![last-commit](https://badgen.net/github/last-commit/gocraft/web) · MIT License
-- [Martini](http://martini.codegangsta.io) — [Repository](https://github.com/codegangsta/martini) · ![last-commit](https://badgen.net/github/last-commit/codegangsta/martini) · MIT License
-- Traffic — [Repository](https://github.com/pilu/traffic) · ![last-commit](https://badgen.net/github/last-commit/pilu/traffic) · MIT License
+- [Martini](http://martini.codegangsta.io) — [Repository](https://github.com/go-martini/martini) · ![last-commit](https://badgen.net/github/last-commit/go-martini/martini) · MIT License
+- Traffic — [Repository](https://github.com/gravityblast/traffic) · ![last-commit](https://badgen.net/github/last-commit/gravityblast/traffic) · MIT License
 
 ## Web framework for Haskell
 
@@ -140,7 +128,7 @@ Format: Name — Install · Repository · Last commit · License
 
 Format: Name — Repository · Last commit · License
 
-- [Blade](http://bladejava.com/) — [Repository](https://github.com/biezhi/blade) · ![last-commit](https://badgen.net/github/last-commit/biezhi/blade) · Apache License 2.0
+- [Blade](http://bladejava.com/) — [Repository](https://github.com/lets-blade/blade) · ![last-commit](https://badgen.net/github/last-commit/lets-blade/blade) · Apache License 2.0
 - [Cloudopt Next](https://next.cloudopt.net/) — [Repository](https://github.com/cloudoptlab/cloudopt-next) · ![last-commit](https://badgen.net/github/last-commit/cloudoptlab/cloudopt-next) · Apache License 2.0
 - [Javalin](https://javalin.io/) — [Repository](https://github.com/javalin/javalin) · ![last-commit](https://badgen.net/github/last-commit/javalin/javalin) · Apache License 2.0
 - [JFinal](https://www.gitbook.com/book/jfinal/jfinal-manual/details) — [Repository](https://github.com/jfinal/jfinal) · ![last-commit](https://badgen.net/github/last-commit/jfinal/jfinal) · Apache License 2.0
@@ -149,19 +137,18 @@ Format: Name — Repository · Last commit · License
 - [Minum](https://github.com/byronka/minum) — [Repository](https://github.com/byronka/minum) · ![last-commit](https://badgen.net/github/last-commit/byronka/minum) · MIT License
 - [Molecule](http://molecule.vtence.com) — [Repository](https://github.com/testinfected/molecule) · ![last-commit](https://badgen.net/github/last-commit/testinfected/molecule) · MIT License
 - [Ninja Framework](http://www.ninjaframework.org/) — [Repository](https://github.com/ninjaframework/ninja) · ![last-commit](https://badgen.net/github/last-commit/ninjaframework/ninja) · Apache License 2.0
-- [Pippo](http://pippo.ro/) — [Repository](https://github.com/decebals/pippo) · ![last-commit](https://badgen.net/github/last-commit/decebals/pippo) · Apache License 2.0
+- [Pippo](http://pippo.ro/) — [Repository](https://github.com/pippo-java/pippo) · ![last-commit](https://badgen.net/github/last-commit/pippo-java/pippo) · Apache License 2.0
 - [Restlet](http://restlet.org) — [Repository](https://github.com/restlet/restlet-framework-java) · ![last-commit](https://badgen.net/github/last-commit/restlet/restlet-framework-java) · Apache License 2.0
 - [RestX](http://restx.io/) — [Repository](https://github.com/restx/restx) · ![last-commit](https://badgen.net/github/last-commit/restx/restx) · Apache License 2.0
 - [Resty](https://dreampie.gitbooks.io/resty-chs/content/index.html) — [Repository](https://github.com/Dreampie/resty) · ![last-commit](https://badgen.net/github/last-commit/Dreampie/resty) · Apache License 2.0
 - [Spark](http://www.sparkjava.com/) — [Repository](https://github.com/perwendel/spark) · ![last-commit](https://badgen.net/github/last-commit/perwendel/spark) · Apache License 2.0
-- [Stapler](http://stapler.kohsuke.org/) — [Repository](https://github.com/stapler/stapler) · ![last-commit](https://badgen.net/github/last-commit/stapler/stapler) · BSD License
+- [Stapler](http://stapler.kohsuke.org/) — [Repository](https://github.com/jenkinsci/stapler) · ![last-commit](https://badgen.net/github/last-commit/jenkinsci/stapler) · BSD License
 
 ## Web framework for JavaScript
 
 Format: Name — Repository · Last commit · License
 
 - [Mithril](https://mithril.js.org/) — [Repository](https://github.com/MithrilJS/mithril.js) · ![last-commit](https://badgen.net/github/last-commit/MithrilJS/mithril.js) · MIT License
-- Stapes — [Repository](https://github.com/hay/stapes) · ![last-commit](https://badgen.net/github/last-commit/hay/stapes) · MIT License
 - [Umbrella](http://umbrellajs.com/) — [Repository](https://github.com/franciscop/umbrella) · ![last-commit](https://badgen.net/github/last-commit/franciscop/umbrella) · MIT License
 - [VanJS](http://vanjs.org/) — [Repository](https://github.com/vanjs-org/van) · ![last-commit](https://badgen.net/github/last-commit/vanjs-org/van) · MIT License
 
@@ -183,7 +170,7 @@ Format: Name — Install · Size · Repository · Last commit · License
 - [Feathers](https://feathersjs.com) — `npm install @feathersjs/feathers` · ![zipped-size](https://badgen.net/bundlephobia/minzip/@feathersjs/feathers) · [Repository](https://github.com/feathersjs/feathers) · ![last-commit](https://badgen.net/github/last-commit/feathersjs/feathers) · MIT License
 - Flatiron — `npm install flatiron` · ![zipped-size](https://badgen.net/bundlephobia/minzip/flatiron) · [Repository](https://github.com/flatiron/flatiron) · ![last-commit](https://badgen.net/github/last-commit/flatiron/flatiron) · MIT License
 - [Hapi](https://hapi.dev) — `npm install @hapi/hapi` · ![zipped-size](https://badgen.net/bundlephobia/minzip/@hapi/hapi) · [Repository](https://github.com/hapijs/hapi) · ![last-commit](https://badgen.net/github/last-commit/hapijs/hapi) · BSD 3-Clause License
-- [Koa](https://koajs.com) — `npm install koajs` · ![zipped-size](https://badgen.net/bundlephobia/minzip/koajs) · [Repository](https://github.com/koajs/koa) · ![last-commit](https://badgen.net/github/last-commit/koajs/koa) · MIT License
+- [Koa](https://koajs.com) — `npm install koa` · ![zipped-size](https://badgen.net/bundlephobia/minzip/koa) · [Repository](https://github.com/koajs/koa) · ![last-commit](https://badgen.net/github/last-commit/koajs/koa) · MIT License
 - [Mastro](https://mastrojs.github.io/) — `pnpm create @mastrojs/mastro` · [700 lines of TypeScript](https://github.com/mastrojs/mastro/tree/main/src#readme) · [Repository](https://github.com/mastrojs/mastro/) · ![last-commit](https://badgen.net/github/last-commit/mastrojs/mastro) · MIT License
 - [Remult](https://remult.dev) — `npm install remult` · ![zipped-size](https://badgen.net/bundlephobia/minzip/remult) · [Repository](https://github.com/remult/remult) · ![last-commit](https://badgen.net/github/last-commit/remult/remult) · MIT License
 - [Restify](https://restify.com) — `npm install restify` · ![zipped-size](https://badgen.net/bundlephobia/minzip/restify) · [Repository](https://github.com/restify/node-restify) · ![last-commit](https://badgen.net/github/last-commit/restify/node-restify) · MIT License
@@ -196,7 +183,7 @@ Format: Name — Install · Size · Repository · Last commit · License
 Format: Name — Install · Repository · Last commit · License
 
 - [Dancer](http://www.perldancer.org) — `cpan Dancer` · [Repository](https://github.com/PerlDancer/Dancer) · ![last-commit](https://badgen.net/github/last-commit/PerlDancer/Dancer) · Artistic License or GPL 1.0 License
-- [Mojolicious](ihttp://mojolicio.us) — `cpan Mojolicious` · [Repository](https://github.com/kraih/mojo) · ![last-commit](https://badgen.net/github/last-commit/kraih/mojo) · Artistic License 2.0
+- [Mojolicious](https://mojolicious.org) — `cpan Mojolicious` · [Repository](https://github.com/mojolicious/mojo) · ![last-commit](https://badgen.net/github/last-commit/mojolicious/mojo) · Artistic License 2.0
 
 ## Web framework for PHP
 
@@ -204,36 +191,28 @@ Format: Name — Install · Repository · Last commit · License
 
 - [AuraPHP](http://auraphp.com/blog/2013/12/12/aura-v2-web-project/) — `composer require auraphp/aura-web-kernel` · [Repository](https://github.com/auraphp/Aura.Web_Kernel) · ![last-commit](https://badgen.net/github/last-commit/auraphp/Aura.Web_Kernel) · BSD License
 - [Bullet](http://bulletphp.com/) — `composer require vlucas/bulletphp` · [Repository](https://github.com/vlucas/bulletphp) · ![last-commit](https://badgen.net/github/last-commit/vlucas/bulletphp) · BSD 3-Clause License
-- [CrudKit](http://crudkit.com/) — `composer require skyronic/crudkit` · [Repository](https://github.com/skyronic/crudkit/) · ![last-commit](https://badgen.net/github/last-commit/skyronic/crudkit) · MIT License
-- Deano — `composer require colindean/deano` · [Repository](http://github.com/colindean/deano) · ![last-commit](https://badgen.net/github/last-commit/colindean/deano) · MIT License
 - [Equip Framework](https://equipframework.readthedocs.io/en/latest/) — `composer require equip/framework` · [Repository](https://github.com/equip/framework) · ![last-commit](https://badgen.net/github/last-commit/equip/framework) · MIT License
 - [Fat Free](http://fatfreeframework.com/) — `composer require bcosca/fatfree` · [Repository](https://github.com/bcosca/fatfree) · ![last-commit](https://badgen.net/github/last-commit/bcosca/fatfree) · GPL 3.0 License
 - [Fitzgerald](http://gregmolnar.github.io/fitzgerald/) — `composer require gregmolnar/fitzgerald` · [Repository](https://github.com/gregmolnar/fitzgerald) · ![last-commit](https://badgen.net/github/last-commit/gregmolnar/fitzgerald) · MIT License
-- [Flight](http://flightphp.com/) — `composer require mikecao/flight` · [Repository](https://github.com/mikecao/flight) · ![last-commit](https://badgen.net/github/last-commit/mikecao/flight) · MIT License
-- [Frankie Framework](http://frankie.readthedocs.org/en/develop/) — `composer require wdalmut/frankie` · [Repository](https://github.com/wdalmut/frankie) · ![last-commit](https://badgen.net/github/last-commit/wdalmut/frankie) · MIT License
-- Hackwork — `composer require zdroid/hackwork` · [Repository](https://github.com/zdroid/hackwork) · ![last-commit](https://badgen.net/github/last-commit/zdroid/hackwork) · MIT License
+- [Flight](http://flightphp.com/) — `composer require flightphp/core` · [Repository](https://github.com/flightphp/core) · ![last-commit](https://badgen.net/github/last-commit/flightphp/core) · MIT License
+- [Frankie Framework](http://frankie.readthedocs.org/en/develop/) — `composer require wdalmut/frankie` · [Repository](https://github.com/mary-shelley/frankie) · ![last-commit](https://badgen.net/github/last-commit/mary-shelley/frankie) · MIT License
 - [IceHawk Framework](https://icehawk.github.io/) — `composer require icehawk/icehawk` · [Repository](https://github.com/icehawk/icehawk) · ![last-commit](https://badgen.net/github/last-commit/icehawk/icehawk) · MIT License
 - [Limonade](http://limonade-php.github.io/) — `composer require sofadesign/limonade` · [Repository](https://github.com/sofadesign/limonade) · ![last-commit](https://badgen.net/github/last-commit/sofadesign/limonade) · MIT License
-- [Lumen](https://lumen.laravel.com/) — `composer require laravel/lumen` · [Repository](https://github.com/laravel/lumen) · ![last-commit](https://badgen.net/github/last-commit/laravel/lumen) · MIT License
-- [MicroMVC](http://micromvc.com/) — `composer require xeoncross/micromvc` · [Repository](https://github.com/Xeoncross/MicroMVC) · ![last-commit](https://badgen.net/github/last-commit/Xeoncross/MicroMVC) · MIT License
 - Mini 3 — `composer require panique/mini3` · [Repository](https://github.com/panique/mini3) · ![last-commit](https://badgen.net/github/last-commit/panique/mini3) · MIT License
 - [Nanite](http://nirix.github.io/nanite/) — `composer require nirix/nanite` · [Repository](https://github.com/nirix/nanite) · ![last-commit](https://badgen.net/github/last-commit/nirix/nanite) · LGPL 3.0 License
-- [One PHP](http://oneframework.net/) — `composer require juliomatcom/one-php-microframework` · [Repository](https://github.com/juliomatcom/one-php-microframework) · ![last-commit](https://badgen.net/github/last-commit/juliomatcom/one-php-microframework) · MIT License
 - [Opulence](https://www.opulencephp.com/) — `composer require opulence/opulence` · [Repository](https://github.com/opulencephp/Opulence) · ![last-commit](https://badgen.net/github/last-commit/opulencephp/Opulence) · MIT License
 - [Phalcon Framework](http://phalconphp.com/en/) — `composer require phalcon/cphalcon` · [Repository](https://github.com/phalcon/cphalcon) · ![last-commit](https://badgen.net/github/last-commit/phalcon/cphalcon) · BSD 3-Clause License
 - [PolyFramework](http://polymedio.github.io/polyframework/) — `composer require polymedio/polyframework` · [Repository](https://github.com/polymedio/polyframework) · ![last-commit](https://badgen.net/github/last-commit/polymedio/polyframework) · BSD 3-Clause License
 - [Popcorn](http://popcorn.popphp.org/) — `composer require popphp/popcorn` · [Repository](https://github.com/popphp/popcorn) · ![last-commit](https://badgen.net/github/last-commit/popphp/popcorn) · BSD 3-Clause License
-- Respect\\Rest — `composer require respect/rest` · [Repository](http://github.com/Respect/Rest) · ![last-commit](https://badgen.net/github/last-commit/Respect/Rest) · BSD 3-Clause License
-- [Silex](http://silex.sensiolabs.org/) — `composer require silexphp/silex` · [Repository](https://github.com/silexphp/Silex) · ![last-commit](https://badgen.net/github/last-commit/silexphp/Silex) · MIT License
+- Respect\\Rest — `composer require respect/rest` · [Repository](https://github.com/Respect/Rest) · ![last-commit](https://badgen.net/github/last-commit/Respect/Rest) · BSD 3-Clause License
 - [Slim](http://slimframework.com/) — `composer require slim/slim` · [Repository](https://github.com/slimphp/Slim) · ![last-commit](https://badgen.net/github/last-commit/slimphp/Slim) · MIT License
 - [Smce Framework](http://www.smceframework.com/) — `composer require imadige/smceframework-MVC` · [Repository](https://github.com/imadige/smceframework-MVC) · ![last-commit](https://badgen.net/github/last-commit/imadige/smceframework-MVC) · MIT License
-- [Swiftlet](http://swiftlet.org/) — `composer require elbertf/swiftlet` · [Repository](https://github.com/ElbertF/Swiftlet) · ![last-commit](https://badgen.net/github/last-commit/ElbertF/Swiftlet) · MIT License
 - [Temma](https://www.temma.net/) — `curl -Ls temma.net/r | sh -` · [Repository](https://github.com/Digicreon/Temma) · ![last-commit](https://badgen.net/github/last-commit/Digicreon/Temma) · MIT License
 - [Tiny MVC](http://www.tinymvc.com/) — `composer require mohrt/tinymvc-php` · [Repository](https://github.com/mohrt/tinymvc-php) · ![last-commit](https://badgen.net/github/last-commit/mohrt/tinymvc-php) · LGPL License
 - [toKernel](http://www.tokernel.com/) — `composer require tokernel/toKernel.1` · [Repository](https://github.com/tokernel/toKernel.1) · ![last-commit](https://badgen.net/github/last-commit/tokernel/toKernel.1) · GPL 3.0 License
-- [Tonic](http://www.peej.co.uk/tonic/) — `composer require peej/tonic` · [Repository](http://github.com/peej/tonic) · ![last-commit](https://badgen.net/github/last-commit/peej/tonic) · MIT License
+- [Tonic](http://www.peej.co.uk/tonic/) — `composer require peej/tonic` · [Repository](https://github.com/peej/tonic) · ![last-commit](https://badgen.net/github/last-commit/peej/tonic) · MIT License
 - [Wave Framework](http://www.waveframework.com/) — `composer require kristovaher/wave-framework` · [Repository](https://github.com/kristovaher/Wave-Framework) · ![last-commit](https://badgen.net/github/last-commit/kristovaher/Wave-Framework) · LGPL 3.0 License
-- [Yaf](http://www.yafdev.com/) — `composer require laruence/php-yaf` · [Repository](https://github.com/laruence/php-yaf) · ![last-commit](https://badgen.net/github/last-commit/laruence/php-yaf) · PHP License 3.01
+- [Yaf](http://www.yafdev.com/) — `composer require laruence/php-yaf` · [Repository](https://github.com/laruence/yaf) · ![last-commit](https://badgen.net/github/last-commit/laruence/yaf) · PHP License 3.01
 - [Zaphpa](http://zaphpa.org/) — `composer require zaphpa/zaphpa` · [Repository](https://github.com/zaphpa/zaphpa) · ![last-commit](https://badgen.net/github/last-commit/zaphpa/zaphpa) · MIT License
 
 ## Web framework for Python
@@ -241,50 +220,46 @@ Format: Name — Install · Repository · Last commit · License
 Format: Name — Install · Repository · Last commit · License
 
 - [Appier](http://appier.hive.pt/) — `pip install appier` · [Repository](https://github.com/hivesolutions/appier) · ![last-commit](https://badgen.net/github/last-commit/hivesolutions/appier) · Apache License 2.0
-- [Bobo](http://bobo.digicool.com/) — `pip install bobo` · [Repository](https://github.com/zopefoundation/bobo) · ![last-commit](https://badgen.net/github/last-commit/zopefoundation/bobo) · ZPL 2.1 License
-- [Bottle](http://bottlepy.org/docs/dev/) — `pip install bottle` · [Repository](https://github.com/defnull/bottle) · ![last-commit](https://badgen.net/github/last-commit/defnull/bottle) · MIT License
-- [CherryPy](http://www.cherrypy.org/) — `pip install CherryPy` · [Repository](https://bitbucket.org/cherrypy/cherrypy/overview) · ![last-commit](https://badgen.net/github/last-commit/cherrypy/cherrypy) · BSD License
+- [Bottle](http://bottlepy.org/docs/dev/) — `pip install bottle` · [Repository](https://github.com/bottlepy/bottle) · ![last-commit](https://badgen.net/github/last-commit/bottlepy/bottle) · MIT License
+- [CherryPy](http://www.cherrypy.org/) — `pip install CherryPy` · [Repository](https://github.com/cherrypy/cherrypy) · ![last-commit](https://badgen.net/github/last-commit/cherrypy/cherrypy) · BSD License
 - Clastic — `pip install clastic` · [Repository](https://github.com/mahmoud/clastic) · ![last-commit](https://badgen.net/github/last-commit/mahmoud/clastic) · BSD 3-Clause License
 - [Cyclone](http://cyclone.io/) — `pip install cyclone` · [Repository](https://github.com/fiorix/cyclone) · ![last-commit](https://badgen.net/github/last-commit/fiorix/cyclone) · Apache License 2.0
-- [Falcon](http://falconframework.org/) — `pip install falcon` · [Repository](https://github.com/racker/falcon) · ![last-commit](https://badgen.net/github/last-commit/racker/falcon) · Apache License 2.0
-- [FastAPI](https://fastapi.tiangolo.com/) — `pip install fastapi` · [Repository](https://github.com/tiangolo/fastapi) · ![last-commit](https://badgen.net/github/last-commit/tiangolo/fastapi) · MIT License
-- [Flask](http://flask.pocoo.org/) — `pip install Flask` · [Repository](https://github.com/mitsuhiko/flask) · ![last-commit](https://badgen.net/github/last-commit/mitsuhiko/flask) · BSD License
-- [Fresco](http://ollycope.com/software/fresco/) — `pip install fresco` · [Repository](https://bitbucket.org/ollyc/fresco) · ![last-commit](https://badgen.net/github/last-commit/ollyc/fresco) · Apache License 2.0
+- [Falcon](http://falconframework.org/) — `pip install falcon` · [Repository](https://github.com/falconry/falcon) · ![last-commit](https://badgen.net/github/last-commit/falconry/falcon) · Apache License 2.0
+- [FastAPI](https://fastapi.tiangolo.com/) — `pip install fastapi` · [Repository](https://github.com/fastapi/fastapi) · ![last-commit](https://badgen.net/github/last-commit/fastapi/fastapi) · MIT License
+- [Flask](http://flask.pocoo.org/) — `pip install Flask` · [Repository](https://github.com/pallets/flask) · ![last-commit](https://badgen.net/github/last-commit/pallets/flask) · BSD License
+- [Fresco](http://ollycope.com/software/fresco/) — `pip install fresco` · [Repository](https://bitbucket.org/ollyc/fresco) · --- · Apache License 2.0
 - Itty-Bitty — `pip install itty` · [Repository](https://github.com/toastdriven/itty) · ![last-commit](https://badgen.net/github/last-commit/toastdriven/itty) · BSD 3-Clause License
 - Klein — `pip install klein` · [Repository](https://github.com/twisted/klein) · ![last-commit](https://badgen.net/github/last-commit/twisted/klein) · MIT License
 - [Morepath](http://morepath.readthedocs.org) — `pip install morepath` · [Repository](https://github.com/morepath/morepath) · ![last-commit](https://badgen.net/github/last-commit/morepath/morepath) · BSD 3-Clause License
-- ObjectWeb — --- · [Repository](https://github.com/aisola/ObjectWeb) · ![last-commit](https://badgen.net/github/last-commit/aisola/ObjectWeb) · LGPL 3.0 License
-- [Pecan](http://pecanpy.org/) — `pip install pecan` · [Repository](https://github.com/stackforge/pecan) · ![last-commit](https://badgen.net/github/last-commit/stackforge/pecan) · BSD License
+- ObjectWeb — --- · [Repository](https://github.com/abramisola/ObjectWeb) · ![last-commit](https://badgen.net/github/last-commit/abramisola/ObjectWeb) · LGPL 3.0 License
+- [Pecan](http://pecanpy.org/) — `pip install pecan` · [Repository](https://github.com/pecan/pecan) · ![last-commit](https://badgen.net/github/last-commit/pecan/pecan) · BSD License
 - [Pyramid](http://www.pylonsproject.org/) — `pip install pyramid` · [Repository](https://github.com/Pylons/pyramid) · ![last-commit](https://badgen.net/github/last-commit/Pylons/pyramid) · BSD-derived License
-- Sanic — `pip install sanic` · [Repository](https://github.com/channelcat/sanic) · ![last-commit](https://badgen.net/github/last-commit/channelcat/sanic) · MIT License
-- [Tornado](http://www.tornadoweb.org/en/stable/) — `pip install tornado` · [Repository](https://github.com/facebook/tornado) · ![last-commit](https://badgen.net/github/last-commit/facebook/tornado) · Apache License 2.0
-- [µHTTP](http://www.tornadoweb.org/en/stable/) — `pip install uhttp` · [Repository](https://github.com/0x67757300/uHTTP) · ![last-commit](https://badgen.net/github/last-commit/0x67757300/uHTTP) · MIT License
+- Sanic — `pip install sanic` · [Repository](https://github.com/sanic-org/sanic) · ![last-commit](https://badgen.net/github/last-commit/sanic-org/sanic) · MIT License
+- [Tornado](http://www.tornadoweb.org/en/stable/) — `pip install tornado` · [Repository](https://github.com/tornadoweb/tornado) · ![last-commit](https://badgen.net/github/last-commit/tornadoweb/tornado) · Apache License 2.0
+- [µHTTP](https://github.com/0x67757300/uHTTP) — `pip install uhttp` · [Repository](https://github.com/0x67757300/uHTTP) · ![last-commit](https://badgen.net/github/last-commit/0x67757300/uHTTP) · MIT License
 - [Web.py](http://webpy.org/) — `pip install web.py` · [Repository](https://github.com/webpy/webpy) · ![last-commit](https://badgen.net/github/last-commit/webpy/webpy) · Public Domain
-- [Wheezy.web](http://pythonhosted.org/wheezy.web/) — `pip install wheezy.web` · [Repository](https://bitbucket.org/akorn/wheezy.web) · ![last-commit](https://badgen.net/github/last-commit/akorn/wheezy.web) · MIT License
+- [Wheezy.web](http://pythonhosted.org/wheezy.web/) — `pip install wheezy.web` · [Repository](https://github.com/akornatskyy/wheezy.web) · ![last-commit](https://badgen.net/github/last-commit/akornatskyy/wheezy.web) · MIT License
 
 ## Web framework for Ruby
 
 Format: Name — Install · Repository · Last commit · License
 
-- 0Hobbit — `gem install hobbit` · [Repository](https://github.com/patriciomacadden/hobbit) · ![last-commit](https://badgen.net/github/last-commit/patriciomacadden/hobbit) · MIT License
-- Brooklyn — `gem install brooklyn` · [Repository](https://github.com/luislavena/brooklyn) · ![last-commit](https://badgen.net/github/last-commit/luislavena/brooklyn) · MIT License
 - Busker — `gem install busker` · [Repository](https://github.com/pachacamac/busker) · ![last-commit](https://badgen.net/github/last-commit/pachacamac/busker) · MIT License
-- [Camping](http://camping.io/) — `gem install camping` · [Repository](http://github.com/camping/camping) · ![last-commit](https://badgen.net/github/last-commit/camping/camping) · MIT License
-- [Crepe](https://github.com/crepe/crepe) — `gem install crepe --pre` · [Repository](https://github.com/stephencelis/crepe) · ![last-commit](https://badgen.net/github/last-commit/stephencelis/crepe) · MIT License
+- [Camping](http://camping.io/) — `gem install camping` · [Repository](https://github.com/camping/camping) · ![last-commit](https://badgen.net/github/last-commit/camping/camping) · MIT License
+- [Crepe](https://github.com/crepe/crepe) — `gem install crepe --pre` · [Repository](https://github.com/crepe/crepe) · ![last-commit](https://badgen.net/github/last-commit/crepe/crepe) · MIT License
 - [Cuba](http://cuba.is/) — `gem install cuba` · [Repository](https://github.com/soveran/cuba) · ![last-commit](https://badgen.net/github/last-commit/soveran/cuba) · MIT License
-- [Dashing](http://dashing.io/) — `gem install dashing` · [Repository](https://github.com/Shopify/dashing) · ![last-commit](https://badgen.net/github/last-commit/Shopify/dashing) · MIT License
-- [Grape](http://intridea.github.io/grape) — `gem install grape` · [Repository](https://github.com/intridea/grape) · ![last-commit](https://badgen.net/github/last-commit/intridea/grape) · MIT License
+- [Grape](http://intridea.github.io/grape) — `gem install grape` · [Repository](https://github.com/ruby-grape/grape) · ![last-commit](https://badgen.net/github/last-commit/ruby-grape/grape) · MIT License
 - [Hanami](http://hanamirb.org/) — `gem install hanami` · [Repository](https://github.com/hanami/hanami) · ![last-commit](https://badgen.net/github/last-commit/hanami/hanami) · MIT License
+- Hobbit — `gem install hobbit` · [Repository](https://github.com/patriciomacadden/hobbit) · ![last-commit](https://badgen.net/github/last-commit/patriciomacadden/hobbit) · MIT License
 - Karafka — `gem install karafka` · [Repository](https://github.com/karafka/karafka) · ![last-commit](https://badgen.net/github/last-commit/karafka/karafka) · MIT License
 - [Kenji](https://github.com/kballenegger/kenji) — `gem install kenji` · [Repository](https://github.com/kballenegger/Kenji) · ![last-commit](https://badgen.net/github/last-commit/kballenegger/Kenji) · Azure License
-- [Lotus](http://lotusrb.org/) — `gem install lotusrb` · [Repository](https://github.com/lotus/lotus) · ![last-commit](https://badgen.net/github/last-commit/lotus/lotus) · MIT License
 - [Nancy](http://guilleiguaran.github.io/nancy) — `gem install nancy` · [Repository](https://github.com/guilleiguaran/nancy) · ![last-commit](https://badgen.net/github/last-commit/guilleiguaran/nancy) · MIT License
 - [New York, New York](http://alisnic.github.io/nyny/) — `gem install nyny` · [Repository](https://github.com/alisnic/nyny) · ![last-commit](https://badgen.net/github/last-commit/alisnic/nyny) · MIT License
 - [Padrino](http://www.padrinorb.com/) — `gem install padrino` · [Repository](https://github.com/padrino/padrino-framework) · ![last-commit](https://badgen.net/github/last-commit/padrino/padrino-framework) · MIT License
 - [Rack](http://rack.github.io/) — `gem install rack` · [Repository](https://github.com/rack/rack) · ![last-commit](https://badgen.net/github/last-commit/rack/rack) · MIT License
 - [Ramaze](http://ramaze.net/) — `gem install ramaze` · [Repository](https://github.com/ramaze/ramaze) · ![last-commit](https://badgen.net/github/last-commit/ramaze/ramaze) · MIT License
 - [Sinatra](http://www.sinatrarb.com/) — `gem install sinatra` · [Repository](https://github.com/sinatra/sinatra) · ![last-commit](https://badgen.net/github/last-commit/sinatra/sinatra) · MIT License
-- [Trailblazer](http://trailblazer.to/) — `gem install trailblazer` · [Repository](https://github.com/apotonick/trailblazer) · ![last-commit](https://badgen.net/github/last-commit/apotonick/trailblazer) · MIT License
+- [Trailblazer](http://trailblazer.to/) — `gem install trailblazer` · [Repository](https://github.com/trailblazer/trailblazer) · ![last-commit](https://badgen.net/github/last-commit/trailblazer/trailblazer) · MIT License
 - [Volt](http://voltframework.com/) — `gem install volt` · [Repository](https://github.com/voltrb/volt) · ![last-commit](https://badgen.net/github/last-commit/voltrb/volt) · MIT License
 
 ## Web framework for Scala
@@ -294,5 +269,3 @@ Format: Name — Repository · Last commit · License
 - [Finatra](http://finatra.info) — [Repository](https://github.com/twitter/finatra) · ![last-commit](https://badgen.net/github/last-commit/twitter/finatra) · Apache License 2.0
 - [Play Framework](http://www.playframework.com/) — [Repository](https://github.com/playframework/playframework) · ![last-commit](https://badgen.net/github/last-commit/playframework/playframework) · Apache License 2.0
 - [Scalatra](http://scalatra.org) — [Repository](https://github.com/scalatra/scalatra) · ![last-commit](https://badgen.net/github/last-commit/scalatra/scalatra) · BSD License
-- [Scruffy](http://scruffy-project.github.io/) — [Repository](https://github.com/scruffy-project/scruffy) · ![last-commit](https://badgen.net/github/last-commit/scruffy-project/scruffy) · Apache License 2.0
-- [Spray](http://spray.io) — [Repository](https://github.com/spray/spray) · ![last-commit](https://badgen.net/github/last-commit/spray/spray) · Apache License 2.0
